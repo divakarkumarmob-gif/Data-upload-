@@ -1,0 +1,1214 @@
+{
+  "exam": "NEET",
+  "year": 2023,
+  "subject": "Biology",
+  "total_questions": 100,
+  "sections": [
+    "Botany Section-A (Q.101-135)",
+    "Botany Section-B (Q.136-150)",
+    "Zoology Section-A (Q.151-185)",
+    "Zoology Section-B (Q.186-200)"
+  ],
+  "questions": [
+    {
+      "id": "BIO_2023_101",
+      "question": "Movement and accumulation of ions across a membrane against their concentration gradient can be explained by",
+      "options": {
+        "A": "Facilitated Diffusion",
+        "B": "Passive Transport",
+        "C": "Active Transport",
+        "D": "Osmosis"
+      },
+      "correct_option": "C",
+      "explanation": "Active transport moves ions against concentration gradient using energy (ATP)."
+    },
+    {
+      "id": "BIO_2023_102",
+      "question": "Among 'The Evil Quartet', which one is considered the most important cause driving extinction of species?",
+      "options": {
+        "A": "Over exploitation for economic gain",
+        "B": "Alien species invasions",
+        "C": "Co-extinctions",
+        "D": "Habitat loss and fragmentation"
+      },
+      "correct_option": "D",
+      "explanation": "Habitat loss and fragmentation is the most important cause of species extinction."
+    },
+    {
+      "id": "BIO_2023_103",
+      "question": "Identify the pair of heterosporous pteridophytes among the following:",
+      "options": {
+        "A": "Selaginella and Salvinia",
+        "B": "Psilotum and Salvinia",
+        "C": "Equisetum and Salvinia",
+        "D": "Lycopodium and Selaginella"
+      },
+      "correct_option": "A",
+      "explanation": "Selaginella and Salvinia are heterosporous pteridophytes producing two types of spores."
+    },
+    {
+      "id": "BIO_2023_104",
+      "question": "Frequency of recombination between gene pairs on same chromosome as a measure of the distance between genes to map their position on chromosome, was used for the first time by",
+      "options": {
+        "A": "Sutton and Boveri",
+        "B": "Alfred Sturtevant",
+        "C": "Henking",
+        "D": "Thomas Hunt Morgan"
+      },
+      "correct_option": "B",
+      "explanation": "Alfred Sturtevant first used recombination frequency to map gene positions on chromosomes."
+    },
+    {
+      "id": "BIO_2023_105",
+      "question": "What is the function of tassels in the corn cob?",
+      "options": {
+        "A": "To trap pollen grains",
+        "B": "To disperse pollen grains",
+        "C": "To protect seeds",
+        "D": "To attract insects"
+      },
+      "correct_option": "A",
+      "explanation": "Tassels (stigma) in corn cob trap pollen grains for fertilization."
+    },
+    {
+      "id": "BIO_2023_106",
+      "question": "Identify the correct statements: A. Detrivores perform fragmentation. B. The humus is further degraded by some microbes during mineralization. C. Water soluble inorganic nutrients go down into the soil and get precipitated by a process called leaching. D. The detritus food chain begins with living organisms. E. Earthworms break down detritus into smaller particles by a process called catabolism.",
+      "options": {
+        "A": "B, C, D only",
+        "B": "C, D, E only",
+        "C": "D, E, A only",
+        "D": "A, B, C only"
+      },
+      "correct_option": "D",
+      "explanation": "A (fragmentation by detrivores), B (mineralization of humus), and C (leaching) are correct. D is wrong as detritus food chain begins with dead organisms. E is wrong as earthworms perform fragmentation, not catabolism."
+    },
+    {
+      "id": "BIO_2023_107",
+      "question": "Assertion A: Late wood has fewer xylary elements with narrow vessels. Reason R: Cambium is less active in winters.",
+      "options": {
+        "A": "Both A and R are true but R is NOT the correct explanation of A",
+        "B": "A is true but R is false",
+        "C": "A is false but R is true",
+        "D": "Both A and R are true and R is the correct explanation of A"
+      },
+      "correct_option": "D",
+      "explanation": "Late wood forms in winter when cambium is less active, producing fewer and narrower xylary elements."
+    },
+    {
+      "id": "BIO_2023_108",
+      "question": "The process of appearance of recombination nodules occurs at which sub stage of prophase I in meiosis?",
+      "options": {
+        "A": "Pachytene",
+        "B": "Diplotene",
+        "C": "Diakinesis",
+        "D": "Zygotene"
+      },
+      "correct_option": "A",
+      "explanation": "Recombination nodules appear during Pachytene stage of Prophase I, where crossing over occurs."
+    },
+    {
+      "id": "BIO_2023_109",
+      "question": "Which of the following stages of meiosis involves division of centromere?",
+      "options": {
+        "A": "Metaphase II",
+        "B": "Anaphase II",
+        "C": "Telophase",
+        "D": "Metaphase I"
+      },
+      "correct_option": "B",
+      "explanation": "Centromere divides during Anaphase II, allowing sister chromatids to separate."
+    },
+    {
+      "id": "BIO_2023_110",
+      "question": "During the purification process for recombinant DNA technology, addition of chilled ethanol precipitates out",
+      "options": {
+        "A": "DNA",
+        "B": "Histones",
+        "C": "Polysaccharides",
+        "D": "RNA"
+      },
+      "correct_option": "A",
+      "explanation": "Chilled ethanol precipitates DNA during purification for recombinant DNA technology."
+    },
+    {
+      "id": "BIO_2023_111",
+      "question": "Family Fabaceae differs from Solanaceae and Liliaceae. With respect to the stamens, pick out the characteristics specific to family Fabaceae but not found in Solanaceae or Liliaceae.",
+      "options": {
+        "A": "Polyadelphous and epipetalous stamens",
+        "B": "Monoadelphous and Monothecous anthers",
+        "C": "Epiphyllous and Dithecous anthers",
+        "D": "Diadelphous and Dithecous anthers"
+      },
+      "correct_option": "D",
+      "explanation": "Fabaceae has diadelphous (9+1) stamens with dithecous anthers, unique to this family."
+    },
+    {
+      "id": "BIO_2023_112",
+      "question": "Large, colourful, fragrant flowers with nectar are seen in:",
+      "options": {
+        "A": "bird pollinated plants",
+        "B": "bat pollinated plants",
+        "C": "wind pollinated plants",
+        "D": "insect pollinated plants"
+      },
+      "correct_option": "D",
+      "explanation": "Insect pollinated plants have large, colorful, fragrant flowers with nectar to attract insects."
+    },
+    {
+      "id": "BIO_2023_113",
+      "question": "Spraying of which of the following phytohormone on juvenile conifers helps in hastening the maturity period, that leads to early seed production?",
+      "options": {
+        "A": "Gibberellic Acid",
+        "B": "Zeatin",
+        "C": "Abscisic Acid",
+        "D": "Indole-3-butyric Acid"
+      },
+      "correct_option": "A",
+      "explanation": "Gibberellic Acid (GA) hastens maturity in juvenile conifers and promotes early seed production."
+    },
+    {
+      "id": "BIO_2023_114",
+      "question": "Axile placentation is observed in",
+      "options": {
+        "A": "China rose, Beans and Lupin",
+        "B": "Tomato, Dianthus and Pea",
+        "C": "China rose, Petunia and Lemon",
+        "D": "Mustard, Cucumber and Primrose"
+      },
+      "correct_option": "C",
+      "explanation": "Axile placentation is observed in China rose, Petunia and Lemon where ovules are on central axis."
+    },
+    {
+      "id": "BIO_2023_115",
+      "question": "Among eukaryotes, replication of DNA takes place in",
+      "options": {
+        "A": "S phase",
+        "B": "G1 phase",
+        "C": "G2 phase",
+        "D": "M phase"
+      },
+      "correct_option": "A",
+      "explanation": "DNA replication occurs during S (Synthesis) phase of the cell cycle in eukaryotes."
+    },
+    {
+      "id": "BIO_2023_116",
+      "question": "How many ATP and NADPH2 are required for the synthesis of one molecule of Glucose during Calvin cycle?",
+      "options": {
+        "A": "18 ATP and 12 NADPH2",
+        "B": "12 ATP and 16 NADPH2",
+        "C": "18 ATP and 16 NADPH2",
+        "D": "12 ATP and 12 NADPH2"
+      },
+      "correct_option": "A",
+      "explanation": "Calvin cycle requires 18 ATP and 12 NADPH2 to synthesize one glucose molecule."
+    },
+    {
+      "id": "BIO_2023_117",
+      "question": "In gene gun method used to introduce alien DNA into host cells, microparticles of ______ metal are used.",
+      "options": {
+        "A": "Zinc",
+        "B": "Tungsten or gold",
+        "C": "Silver",
+        "D": "Copper"
+      },
+      "correct_option": "B",
+      "explanation": "Gene gun method uses microparticles of Tungsten or gold to deliver DNA into host cells."
+    },
+    {
+      "id": "BIO_2023_118",
+      "question": "The thickness of ozone in a column of air in the atmosphere is measured in terms of:",
+      "options": {
+        "A": "Decibels",
+        "B": "Decameter",
+        "C": "Kilobase",
+        "D": "Dobson units"
+      },
+      "correct_option": "D",
+      "explanation": "Ozone thickness is measured in Dobson units (DU)."
+    },
+    {
+      "id": "BIO_2023_119",
+      "question": "Unequivocal proof that DNA is the genetic material was first proposed by",
+      "options": {
+        "A": "Alfred Hershey and Martha Chase",
+        "B": "Avery, Macleoid and McCarthy",
+        "C": "Wilkins and Franklin",
+        "D": "Frederick Griffith"
+      },
+      "correct_option": "A",
+      "explanation": "Hershey and Chase (1952) provided definitive proof that DNA is the genetic material using bacteriophage T2 experiments."
+    },
+    {
+      "id": "BIO_2023_120",
+      "question": "In the equation GPP – R = NPP, R here is ____",
+      "options": {
+        "A": "Respiratory quotient",
+        "B": "Respiratory loss",
+        "C": "Reproductive allocation",
+        "D": "Photosynthetically active radiation"
+      },
+      "correct_option": "B",
+      "explanation": "R in the equation GPP – R = NPP stands for Respiratory loss."
+    },
+    {
+      "id": "BIO_2023_121",
+      "question": "What is the role of RNA polymerase III in the process of transcription in Eukaryotes?",
+      "options": {
+        "A": "Transcription of tRNA, 5srRNA and snRNA",
+        "B": "Transcription of precursor of mRNA",
+        "C": "Transcription of only snRNAs",
+        "D": "Transcription of rRNAs (28S, 18S and 5.8S)"
+      },
+      "correct_option": "A",
+      "explanation": "RNA polymerase III transcribes tRNA, 5S rRNA and snRNA in eukaryotes."
+    },
+    {
+      "id": "BIO_2023_122",
+      "question": "Which micronutrient is required for splitting of water molecule during photosynthesis?",
+      "options": {
+        "A": "molybdenum",
+        "B": "magnesium",
+        "C": "copper",
+        "D": "manganese"
+      },
+      "correct_option": "D",
+      "explanation": "Manganese (Mn) is required for photolysis (splitting) of water during light reactions of photosynthesis."
+    },
+    {
+      "id": "BIO_2023_123",
+      "question": "In angiosperm, the haploid, diploid and triploid structures of a fertilized embryo sac sequentially are:",
+      "options": {
+        "A": "Antipodals, synergids, and primary endosperm nucleus",
+        "B": "Synergids, Zygote and Primary endosperm nucleus",
+        "C": "Synergids, antipodals and Polar nuclei",
+        "D": "Synergids, Primary endosperm nucleus and zygote"
+      },
+      "correct_option": "B",
+      "explanation": "Synergids are haploid (n), Zygote is diploid (2n), and Primary endosperm nucleus is triploid (3n)."
+    },
+    {
+      "id": "BIO_2023_124",
+      "question": "The phenomenon of pleiotropism refers to",
+      "options": {
+        "A": "presence of two alleles, each of the two genes controlling a single trait",
+        "B": "a single gene affecting multiple phenotypic expression",
+        "C": "more than two genes affecting a single character",
+        "D": "presence of several alleles of a single gene controlling a single crossover"
+      },
+      "correct_option": "B",
+      "explanation": "Pleiotropism is when a single gene affects multiple phenotypic traits."
+    },
+    {
+      "id": "BIO_2023_125",
+      "question": "Assertion A: ATP is used at two steps in glycolysis. Reason R: First ATP is used in converting glucose into glucose-6-phosphate and second ATP is used in conversion of fructose-6-phosphate into fructose-1-6-diphosphate.",
+      "options": {
+        "A": "Both A and R are true but R is NOT the correct explanation of A",
+        "B": "A is true but R is false",
+        "C": "A is false but R is true",
+        "D": "Both A and R are true and R is the correct explanation of A"
+      },
+      "correct_option": "D",
+      "explanation": "Both assertion and reason are correct. ATP is invested at exactly these two steps in glycolysis."
+    },
+    {
+      "id": "BIO_2023_126",
+      "question": "Cellulose does not form blue colour with Iodine because",
+      "options": {
+        "A": "It is a helical molecule",
+        "B": "It does not contain complex helices and hence cannot hold iodine molecules",
+        "C": "It breakes down when iodine reacts with it",
+        "D": "It is a disaccharide"
+      },
+      "correct_option": "B",
+      "explanation": "Starch gives blue-black color with iodine due to its helical structure holding iodine. Cellulose lacks this helical structure."
+    },
+    {
+      "id": "BIO_2023_127",
+      "question": "Which hormone promotes internode/petiole elongation in deep water rice?",
+      "options": {
+        "A": "Kinetin",
+        "B": "Ethylene",
+        "C": "2, 4–D",
+        "D": "GA3"
+      },
+      "correct_option": "B",
+      "explanation": "Ethylene promotes internode and petiole elongation in deep water rice, helping the plant grow above water level."
+    },
+    {
+      "id": "BIO_2023_128",
+      "question": "Expressed Sequence Tags (ESTs) refers to",
+      "options": {
+        "A": "All genes that are expressed as proteins",
+        "B": "All genes whether expressed or unexpressed",
+        "C": "Certain important expressed genes",
+        "D": "All genes that are expressed as RNA"
+      },
+      "correct_option": "D",
+      "explanation": "ESTs refer to all genes that are expressed as RNA (mRNA)."
+    },
+    {
+      "id": "BIO_2023_129",
+      "question": "Statement I: The forces generated by transpiration can lift a xylem-sized column of water over 130 meters height. Statement II: Transpiration cools leaf surfaces sometimes 10 to 15 degrees, by evaporative cooling.",
+      "options": {
+        "A": "Both Statement I and Statement II are incorrect",
+        "B": "Statement I is correct but Statement II is incorrect",
+        "C": "Statement I is incorrect but Statement II is correct",
+        "D": "Both Statement I and Statement II are correct"
+      },
+      "correct_option": "D",
+      "explanation": "Both statements are correct facts about transpiration."
+    },
+    {
+      "id": "BIO_2023_130",
+      "question": "Upon exposure to UV radiation, DNA stained with ethidium bromide will show",
+      "options": {
+        "A": "Bright blue colour",
+        "B": "Bright yellow colour",
+        "C": "Bright orange colour",
+        "D": "Bright red colour"
+      },
+      "correct_option": "C",
+      "explanation": "Ethidium bromide intercalates into DNA and fluoresces bright orange under UV radiation."
+    },
+    {
+      "id": "BIO_2023_131",
+      "question": "The historic Convention on Biological Diversity, 'The Earth Summit' was held in Rio de Janeiro in the year:",
+      "options": {
+        "A": "1992",
+        "B": "1986",
+        "C": "2002",
+        "D": "1985"
+      },
+      "correct_option": "A",
+      "explanation": "The Earth Summit (Convention on Biological Diversity) was held in Rio de Janeiro in 1992."
+    },
+    {
+      "id": "BIO_2023_132",
+      "question": "The reaction centre in PS II has an absorption maxima at",
+      "options": {
+        "A": "700 nm",
+        "B": "660 nm",
+        "C": "780 nm",
+        "D": "680 nm"
+      },
+      "correct_option": "D",
+      "explanation": "PS II reaction centre (P680) has absorption maxima at 680 nm."
+    },
+    {
+      "id": "BIO_2023_133",
+      "question": "Assertion A: The first stage of gametophyte in the life cycle of moss is protonema stage. Reason R: Protonema develops directly from spores produced in capsule.",
+      "options": {
+        "A": "Both A and R are correct but R is NOT the correct explanation of A",
+        "B": "A is correct but R is not correct",
+        "C": "A is not correct but R is correct",
+        "D": "Both A and R are correct and R is the correct explanation of A"
+      },
+      "correct_option": "D",
+      "explanation": "Both are correct. Protonema is the first gametophyte stage and it develops directly from spores."
+    },
+    {
+      "id": "BIO_2023_134",
+      "question": "In tissue culture experiments, leaf mesophyll cells are put in a culture medium to form callus. This phenomenon may be called as:",
+      "options": {
+        "A": "Dedifferentiation",
+        "B": "Development",
+        "C": "Senescence",
+        "D": "Differentiation"
+      },
+      "correct_option": "A",
+      "explanation": "Dedifferentiation is the process where differentiated cells lose their specialization to form callus."
+    },
+    {
+      "id": "BIO_2023_135",
+      "question": "Statement I: Endarch and exarch are the terms often used for describing the position of secondary xylem in the plant body. Statement II: Exarch condition is the most common feature of the root system.",
+      "options": {
+        "A": "Both Statement I and Statement II are false",
+        "B": "Statement I is correct but Statement II is false",
+        "C": "Statement I is incorrect but Statement II is true",
+        "D": "Both Statement I and Statement II are true"
+      },
+      "correct_option": "C",
+      "explanation": "Statement I is wrong (endarch/exarch describe protoxylem position, not secondary xylem). Statement II is correct (exarch is characteristic of roots)."
+    },
+    {
+      "id": "BIO_2023_136",
+      "question": "Identify the correct statements: A. Lenticels are the lens-shaped openings permitting the exchange of gases. B. Bark formed early in the season is called hard bark. C. Bark is a technical term that refers to all tissues exterior to vascular cambium. D. Bark refers to periderm and secondary phloem. E. Phellogen is single-layered in thickness.",
+      "options": {
+        "A": "A and D only",
+        "B": "A, B and D only",
+        "C": "B and C only",
+        "D": "B, C and E only"
+      },
+      "correct_option": "A",
+      "explanation": "A (lenticels for gas exchange) and D (bark = periderm + secondary phloem) are correct."
+    },
+    {
+      "id": "BIO_2023_137",
+      "question": "Match: A. Cohesion, B. Adhesion, C. Surface tension, D. Guttation with I. More attraction in liquid phase, II. Mutual attraction among water molecules, III. Water loss in liquid phase, IV. Attraction towards polar surfaces",
+      "options": {
+        "A": "A-IV, B-III, C-II, D-I",
+        "B": "A-III, B-I, C-IV, D-II",
+        "C": "A-II, B-I, C-IV, D-III",
+        "D": "A-II, B-IV, C-I, D-III"
+      },
+      "correct_option": "D",
+      "explanation": "Cohesion=mutual attraction among water molecules (II), Adhesion=attraction to polar surfaces (IV), Surface tension=more attraction in liquid phase (I), Guttation=water loss in liquid phase (III)."
+    },
+    {
+      "id": "BIO_2023_138",
+      "question": "Match: A. M Phase, B. G2 Phase, C. Quiescent stage, D. G1 Phase with I. Proteins are synthesized, II. Inactive phase, III. Interval between mitosis and initiation of DNA replication, IV. Equational division",
+      "options": {
+        "A": "A-IV, B-II, C-I, D-III",
+        "B": "A-IV, B-I, C-II, D-III",
+        "C": "A-II, B-IV, C-I, D-III",
+        "D": "A-III, B-II, C-IV, D-I"
+      },
+      "correct_option": "B",
+      "explanation": "M Phase=equational division (IV), G2=proteins synthesized (I), Quiescent=inactive (II), G1=interval between mitosis and DNA replication (III)."
+    },
+    {
+      "id": "BIO_2023_139",
+      "question": "Which of the following statements are correct about Klinefelter's Syndrome? A. Disorder first described by Langdon Down (1866). B. Individual has overall masculine development with feminine development also expressed. C. Affected individual is short statured. D. Physical, psychomotor and mental development is retarded. E. Such individuals are sterile.",
+      "options": {
+        "A": "C and D only",
+        "B": "B and E only",
+        "C": "A and E only",
+        "D": "A and B only"
+      },
+      "correct_option": "B",
+      "explanation": "B (masculine with some feminine features) and E (sterile) are correct for Klinefelter's syndrome (47, XXY)."
+    },
+    {
+      "id": "BIO_2023_140",
+      "question": "Statement I: Gause's 'Competitive Exclusion Principle' states that two closely related species competing for the same resources cannot co-exist indefinitely and competitively inferior one will be eliminated eventually. Statement II: In general, carnivores are more adversely affected by competition than herbivores.",
+      "options": {
+        "A": "Both Statement I and Statement II are false",
+        "B": "Statement I is correct but Statement II is false",
+        "C": "Statement I is incorrect but Statement II is true",
+        "D": "Both Statement I and Statement II are true"
+      },
+      "correct_option": "B",
+      "explanation": "Statement I is Gause's correct principle. Statement II is false; herbivores are generally more affected."
+    },
+    {
+      "id": "BIO_2023_141",
+      "question": "How many different proteins does the ribosome consist of?",
+      "options": {
+        "A": "60",
+        "B": "40",
+        "C": "20",
+        "D": "80"
+      },
+      "correct_option": "D",
+      "explanation": "A ribosome consists of about 80 different proteins (in eukaryotes)."
+    },
+    {
+      "id": "BIO_2023_142",
+      "question": "Which of the following combinations is required for chemiosmosis?",
+      "options": {
+        "A": "membrane, proton pump, proton gradient, NADP synthase",
+        "B": "proton pump, electron gradient, ATP synthase",
+        "C": "proton pump, electron gradient, NADP synthase",
+        "D": "membrane, proton pump, proton gradient, ATP synthase"
+      },
+      "correct_option": "D",
+      "explanation": "Chemiosmosis requires a membrane, proton pump, proton gradient, and ATP synthase."
+    },
+    {
+      "id": "BIO_2023_143",
+      "question": "Which one of the following statements is NOT correct?",
+      "options": {
+        "A": "Algal blooms caused by excess of organic matter in water improve water quality and promote fisheries",
+        "B": "Water hyacinth grows abundantly in eutrophic water bodies and leads to an imbalance in the ecosystem dynamics of the water body",
+        "C": "The amount of some toxic substances of industrial waste water increases in the organisms at successive trophic levels",
+        "D": "The micro-organisms involved in biodegradation of organic matter in a sewage polluted water body consume a lot of oxygen causing the death of aquatic organisms"
+      },
+      "correct_option": "A",
+      "explanation": "Algal blooms deteriorate water quality and harm fisheries, not improve them."
+    },
+    {
+      "id": "BIO_2023_144",
+      "question": "Match Interaction with Species effect: A. Mutualism, B. Commensalism, C. Amensalism, D. Parasitism",
+      "options": {
+        "A": "A–IV, B–I, C–II, D–III",
+        "B": "A–IV, B–III, C–I, D–II",
+        "C": "A–III, B–I, C–IV, D–II",
+        "D": "A–IV, B–II, C–I, D–III"
+      },
+      "correct_option": "A",
+      "explanation": "Mutualism=+(A),+(B); Commensalism=+(A),O(B); Amensalism=-(A),O(B); Parasitism=+(A),-(B)."
+    },
+    {
+      "id": "BIO_2023_145",
+      "question": "Main steps in the formation of Recombinant DNA are given below. Arrange these steps in a correct sequence: A. Insertion into host cell. B. Cutting of DNA by restriction enzyme. C. Isolation of desired DNA fragment. D. Amplification using PCR.",
+      "options": {
+        "A": "C, A, B, D",
+        "B": "C, B, D, A",
+        "C": "B, D, A, C",
+        "D": "B, C, D, A"
+      },
+      "correct_option": "D",
+      "explanation": "Correct sequence: B (cut DNA) → C (isolate fragment) → D (amplify by PCR) → A (insert into host)."
+    },
+    {
+      "id": "BIO_2023_146",
+      "question": "Match: A. Iron, B. Zinc, C. Boron, D. Molybdenum with I. Synthesis of auxin, II. Component of nitrate reductase, III. Activator of catalase, IV. Cell elongation and differentiation",
+      "options": {
+        "A": "A-II, B-III, C-IV, D-I",
+        "B": "A-III, B-I, C-IV, D-II",
+        "C": "A-II, B-IV, C-I, D-III",
+        "D": "A-III, B-II, C-I, D-IV"
+      },
+      "correct_option": "B",
+      "explanation": "Iron=activator of catalase, Zinc=auxin synthesis, Boron=cell elongation and differentiation, Molybdenum=component of nitrate reductase."
+    },
+    {
+      "id": "BIO_2023_147",
+      "question": "Match: A. Oxidative decarboxylation, B. Glycolysis, C. Oxidative phosphorylation, D. TCA cycle with I. Citrate synthase, II. Pyruvate dehydrogenase, III. Electron transport system, IV. EMP pathway",
+      "options": {
+        "A": "A-II, B-IV, C-I, D-III",
+        "B": "A-III, B-I, C-II, D-IV",
+        "C": "A-II, B-IV, C-III, D-I",
+        "D": "A-III, B-IV, C-II, D-I"
+      },
+      "correct_option": "C",
+      "explanation": "Oxidative decarboxylation=pyruvate dehydrogenase (II), Glycolysis=EMP pathway (IV), Oxidative phosphorylation=ETS (III), TCA cycle=citrate synthase (I)."
+    },
+    {
+      "id": "BIO_2023_148",
+      "question": "Assertion A: In gymnosperms the pollen grains are released from the microsporangium and carried by air currents. Reason R: Air currents carry the pollen grains to the mouth of the archegonia where the male gametes are discharged and pollen tube is not formed.",
+      "options": {
+        "A": "Both A and R are true but R is NOT the correct explanation of A",
+        "B": "A is true but R is false",
+        "C": "A is false but R is true",
+        "D": "Both A and R are true and R is the correct explanation of A"
+      },
+      "correct_option": "B",
+      "explanation": "A is correct (wind pollination in gymnosperms). R is wrong because gymnosperms DO form pollen tubes."
+    },
+    {
+      "id": "BIO_2023_149",
+      "question": "Assertion A: A flower is defined as modified shoot wherein the shoot apical meristem changes to floral meristem. Reason R: Internode of the shoot gets condensed to produce different floral appendages laterally at successive nodes instead of leaves.",
+      "options": {
+        "A": "Both A and R are true but R is NOT the correct explanation of A",
+        "B": "A is true but R is false",
+        "C": "A is false but R is true",
+        "D": "Both A and R are true and R is the correct explanation of A"
+      },
+      "correct_option": "D",
+      "explanation": "Both are correct. A flower is indeed a modified shoot with condensed internodes bearing floral appendages."
+    },
+    {
+      "id": "BIO_2023_150",
+      "question": "Melonate inhibits the growth of pathogenic bacteria by inhibiting the activity of",
+      "options": {
+        "A": "Amylase",
+        "B": "Lipase",
+        "C": "Dinitrogenase",
+        "D": "Succinic dehydrogenase"
+      },
+      "correct_option": "D",
+      "explanation": "Malonate is a competitive inhibitor of succinic dehydrogenase, an enzyme in the Krebs cycle."
+    },
+    {
+      "id": "BIO_2023_151",
+      "question": "Statement I: A protein is imagined as a line, the left end represented by first amino acid (C-terminal) and the right end represented by last amino acid (N-terminal). Statement II: Adult human haemoglobin, consists of 4 subunits (two subunits of α type and two subunits β type.)",
+      "options": {
+        "A": "Both statement I and Statement II are false",
+        "B": "Statement I is true but Statement II is false",
+        "C": "Statement I is false but Statement II is true",
+        "D": "Both statement I and Statement II are true"
+      },
+      "correct_option": "C",
+      "explanation": "Statement I is false (left end is N-terminal, right end is C-terminal). Statement II is correct (adult Hb has 2α + 2β subunits)."
+    },
+    {
+      "id": "BIO_2023_152",
+      "question": "Radial symmetry is NOT found in adults of phylum ________.",
+      "options": {
+        "A": "Hemichordata",
+        "B": "Coelenterata",
+        "C": "Echinodermata",
+        "D": "Ctenophora"
+      },
+      "correct_option": "A",
+      "explanation": "Hemichordata shows bilateral symmetry, not radial symmetry. Coelenterata, Echinodermata and Ctenophora show radial symmetry."
+    },
+    {
+      "id": "BIO_2023_153",
+      "question": "Which of the following statements are correct regarding female reproductive cycle? A. In non-primate mammals cyclical changes during reproduction are called oestrus cycle. B. First menstrual cycle begins at puberty and is called menopause. C. Lack of menstruation may be indicative of pregnancy. D. Cyclic menstruation extends between menarche and menopause.",
+      "options": {
+        "A": "A and B only",
+        "B": "A, B and C only",
+        "C": "A, C and D only",
+        "D": "A and D only"
+      },
+      "correct_option": "C",
+      "explanation": "A, C, and D are correct. B is wrong - first menstrual cycle is called menarche, not menopause."
+    },
+    {
+      "id": "BIO_2023_154",
+      "question": "Assertion A: Nephrons are of two types: Cortical & Juxta medullary, based on their relative position in cortex and medulla. Reason R: Juxta medullary nephrons have short loop of Henle whereas, cortical nephrons have longer loop of Henle.",
+      "options": {
+        "A": "Both A and R are true but R is NOT the correct explanation of A",
+        "B": "A is true but R is false",
+        "C": "A is false but R is true",
+        "D": "Both A and R are true and R is the correct explanation of A"
+      },
+      "correct_option": "B",
+      "explanation": "A is correct. R is false - juxtamedullary nephrons have LONG loop of Henle, cortical nephrons have SHORT loop."
+    },
+    {
+      "id": "BIO_2023_155",
+      "question": "Match List I with List II with respect to human eye: A. Fovea, B. Iris, C. Blind spot, D. Sclera with I. Visible coloured portion regulating pupil, II. External layer of dense connective tissue, III. Point of greatest visual acuity, IV. Point where optic nerve leaves and photoreceptors absent",
+      "options": {
+        "A": "A-IV, B-III, C-II, D-I",
+        "B": "A-I, B-IV, C-III, D-II",
+        "C": "A-II, B-I, C-III, D-IV",
+        "D": "A-III, B-I, C-IV, D-II"
+      },
+      "correct_option": "D",
+      "explanation": "Fovea=greatest visual acuity (III), Iris=colored regulating pupil (I), Blind spot=optic nerve/no receptors (IV), Sclera=dense connective tissue (II)."
+    },
+    {
+      "id": "BIO_2023_156",
+      "question": "Which of the following are NOT considered as the part of endomembrane system? A. Mitochondria, B. Endoplasmic Reticulum, C. Chloroplasts, D. Golgi complex, E. Peroxisomes",
+      "options": {
+        "A": "A, C and E only",
+        "B": "A and D only",
+        "C": "A, D and E only",
+        "D": "B and D only"
+      },
+      "correct_option": "A",
+      "explanation": "Mitochondria, Chloroplasts, and Peroxisomes are NOT part of endomembrane system. ER and Golgi complex are part of it."
+    },
+    {
+      "id": "BIO_2023_157",
+      "question": "Broad palm with single palm crease is visible in a person suffering from -",
+      "options": {
+        "A": "Turner's syndrome",
+        "B": "Klinefelter's syndrome",
+        "C": "Thalassemia",
+        "D": "Down's syndrome"
+      },
+      "correct_option": "D",
+      "explanation": "Broad palm with single palmar crease (simian crease) is a characteristic feature of Down's syndrome (Trisomy 21)."
+    },
+    {
+      "id": "BIO_2023_158",
+      "question": "Match: A. P-wave, B. Q-wave, C. QRS complex, D. T-wave with I. Beginning of systole, II. Repolarisation of ventricles, III. Depolarisation of atria, IV. Depolarisation of ventricles",
+      "options": {
+        "A": "A-IV, B-III, C-II, D-I",
+        "B": "A-II, B-IV, C-I, D-III",
+        "C": "A-I, B-II, C-III, D-IV",
+        "D": "A-III, B-I, C-IV, D-II"
+      },
+      "correct_option": "D",
+      "explanation": "P-wave=atrial depolarization (III), Q-wave=beginning of systole (I), QRS=ventricular depolarization (IV), T-wave=ventricular repolarization (II)."
+    },
+    {
+      "id": "BIO_2023_159",
+      "question": "Which one of the following common sexually transmitted diseases is completely curable when detected early and treated properly?",
+      "options": {
+        "A": "Gonorrhoea",
+        "B": "Hepatitis-B",
+        "C": "HIV Infection",
+        "D": "Genital herpes"
+      },
+      "correct_option": "A",
+      "explanation": "Gonorrhoea is a bacterial STD that is completely curable with antibiotics when detected early."
+    },
+    {
+      "id": "BIO_2023_160",
+      "question": "Match Cells with Secretion: A. Peptic cells, B. Goblet cells, C. Oxyntic cells, D. Hepatic cells with I. Mucus, II. Bile juice, III. Proenzyme pepsinogen, IV. HCl and intrinsic factor for vitamin B12 absorption",
+      "options": {
+        "A": "A-II, B-I, C-III, D-IV",
+        "B": "A-III, B-I, C-IV, D-II",
+        "C": "A-II, B-IV, C-I, D-III",
+        "D": "A-IV, B-III, C-II, D-I"
+      },
+      "correct_option": "B",
+      "explanation": "Peptic=pepsinogen (III), Goblet=mucus (I), Oxyntic=HCl+intrinsic factor (IV), Hepatic=bile (II)."
+    },
+    {
+      "id": "BIO_2023_161",
+      "question": "Assertion A: Endometrium is necessary for implantation of blastocyst. Reason R: In the absence of fertilization, the corpus luteum degenerates that causes disintegration of endometrium.",
+      "options": {
+        "A": "Both A and R are true but R is NOT the correct explanation of A",
+        "B": "A is true but R is false",
+        "C": "A is false but R is true",
+        "D": "Both A and R are true and R is the correct explanation of A"
+      },
+      "correct_option": "A",
+      "explanation": "Both are true but R explains why menstruation occurs, not why endometrium is necessary for implantation."
+    },
+    {
+      "id": "BIO_2023_162",
+      "question": "Which of the following is not a cloning vector?",
+      "options": {
+        "A": "YAC",
+        "B": "pBR322",
+        "C": "Probe",
+        "D": "BAC"
+      },
+      "correct_option": "C",
+      "explanation": "A Probe is a single-stranded DNA/RNA fragment used for hybridization, not a cloning vector. YAC, pBR322, BAC are all cloning vectors."
+    },
+    {
+      "id": "BIO_2023_163",
+      "question": "Match: A. Taenia, B. Paramoecium, C. Periplaneta, D. Pheretima with I. Nephridia, II. Contractile vacuole, III. Flame cells, IV. Urecose gland",
+      "options": {
+        "A": "A-I, B-II, C-IV, D-III",
+        "B": "A-III, B-II, C-IV, D-I",
+        "C": "A-II, B-I, C-IV, D-III",
+        "D": "A-I, B-II, C-III, D-IV"
+      },
+      "correct_option": "B",
+      "explanation": "Taenia=flame cells (III), Paramoecium=contractile vacuole (II), Periplaneta=urecose gland (IV), Pheretima=nephridia (I)."
+    },
+    {
+      "id": "BIO_2023_164",
+      "question": "Statement I: Ligaments are dense irregular tissue. Statement II: Cartilage is dense regular tissue.",
+      "options": {
+        "A": "Both Statement I and Statement II are false",
+        "B": "Statement I is true but Statement II is false",
+        "C": "Statement I is false but Statement II is true",
+        "D": "Both Statement I and Statement II are true"
+      },
+      "correct_option": "A",
+      "explanation": "Both are false. Ligaments are dense regular connective tissue. Cartilage is a specialized connective tissue (not dense regular)."
+    },
+    {
+      "id": "BIO_2023_165",
+      "question": "Which of the following functions is carried out by cytoskeleton in a cell?",
+      "options": {
+        "A": "Protein synthesis",
+        "B": "Motility",
+        "C": "Transportation",
+        "D": "Nuclear division"
+      },
+      "correct_option": "B",
+      "explanation": "Cytoskeleton provides mechanical support and is responsible for cell motility and shape."
+    },
+    {
+      "id": "BIO_2023_166",
+      "question": "Match: A. Gene 'a', B. Gene 'y', C. Gene 'i', D. Gene 'z' with I. β-galactosidase, II. Transacetylase, III. Permease, IV. Repressor protein",
+      "options": {
+        "A": "A-II, B-III, C-IV, D-I",
+        "B": "A-III, B-IV, C-I, D-II",
+        "C": "A-III, B-I, C-IV, D-II",
+        "D": "A-II, B-I, C-IV, D-III"
+      },
+      "correct_option": "A",
+      "explanation": "In lac operon: gene a=transacetylase (II), gene y=permease (III), gene i=repressor (IV), gene z=β-galactosidase (I)."
+    },
+    {
+      "id": "BIO_2023_167",
+      "question": "Which of the following statements is correct?",
+      "options": {
+        "A": "Biomagnification refers to increase in concentration of the toxicant at successive trophic levels",
+        "B": "Presence of large amount of nutrients in water restricts 'Algal Bloom'",
+        "C": "Algal Bloom decreases fish mortality",
+        "D": "Eutrophication refers to increase in domestic sewage and waste water in lakes"
+      },
+      "correct_option": "A",
+      "explanation": "Biomagnification correctly refers to increase in toxicant concentration at successive trophic levels."
+    },
+    {
+      "id": "BIO_2023_168",
+      "question": "Which one of the following symbols represents mating between relatives in human pedigree analysis?",
+      "options": {
+        "A": "Double horizontal line between symbols",
+        "B": "Single horizontal line with offspring line",
+        "C": "Filled diamond shapes",
+        "D": "Single horizontal line between symbols"
+      },
+      "correct_option": "A",
+      "explanation": "A double horizontal line between two symbols represents consanguineous mating (between relatives) in pedigree analysis."
+    },
+    {
+      "id": "BIO_2023_169",
+      "question": "Once the undigested and unabsorbed substances enter the caecum, their backflow is prevented by -",
+      "options": {
+        "A": "Ileo - caecal valve",
+        "B": "Gastro - oesophageal sphincter",
+        "C": "Pyloric sphincter",
+        "D": "Sphincter of Oddi"
+      },
+      "correct_option": "A",
+      "explanation": "Ileo-caecal valve prevents backflow from caecum to ileum."
+    },
+    {
+      "id": "BIO_2023_170",
+      "question": "Which one of the following techniques does not serve the purpose of early diagnosis of a disease for its early treatment?",
+      "options": {
+        "A": "Serum and Urine analysis",
+        "B": "Polymerase Chain Reaction (PCR) technique",
+        "C": "Enzyme Linked Immuno-Sorbent Assay (ELISA) technique",
+        "D": "Recombinant DNA Technology"
+      },
+      "correct_option": "A",
+      "explanation": "Serum and urine analysis are traditional methods and don't serve the purpose of early/molecular diagnosis as specifically as PCR, ELISA, or recombinant DNA technology."
+    },
+    {
+      "id": "BIO_2023_171",
+      "question": "Statement I: Low temperature preserves the enzyme in a temporarily inactive state whereas high temperature destroys enzymatic activity because proteins are denatured by heat. Statement II: When the inhibitor closely resembles the substrate in its molecular structure and inhibits the activity of the enzyme, it is known as competitive inhibitor.",
+      "options": {
+        "A": "Both Statement I and Statement II are false",
+        "B": "Statement I is true but Statement II is false",
+        "C": "Statement I is false but Statement II is true",
+        "D": "Both Statement I and Statement II are true"
+      },
+      "correct_option": "D",
+      "explanation": "Both statements are correct scientific facts about enzyme activity."
+    },
+    {
+      "id": "BIO_2023_172",
+      "question": "Match Type of Joint with location: A. Cartilaginous Joint, B. Ball and Socket Joint, C. Fibrous Joint, D. Saddle Joint",
+      "options": {
+        "A": "A-II, B-IV, C-I, D-III",
+        "B": "A-I, B-IV, C-III, D-II",
+        "C": "A-II, B-IV, C-III, D-I",
+        "D": "A-III, B-I, C-II, D-IV"
+      },
+      "correct_option": "A",
+      "explanation": "Cartilaginous=between vertebrae (II), Ball&Socket=humerus-pectoral girdle (IV), Fibrous=between flat skull bones (I), Saddle=carpal-metacarpal of thumb (III)."
+    },
+    {
+      "id": "BIO_2023_173",
+      "question": "Statement I: Vas deferens receives a duct from seminal vesicle and opens into urethra as the ejaculatory duct. Statement II: The cavity of the cervix is called cervical canal which along with vagina forms birth canal.",
+      "options": {
+        "A": "Both Statement I and Statement II are false",
+        "B": "Statement I is correct but Statement II is false",
+        "C": "Statement I incorrect but Statement II is true",
+        "D": "Both Statement I and Statement II are true"
+      },
+      "correct_option": "D",
+      "explanation": "Both statements are anatomically correct."
+    },
+    {
+      "id": "BIO_2023_174",
+      "question": "In which blood corpuscles, the HIV undergoes replication and produces progeny viruses?",
+      "options": {
+        "A": "B-lymphocytes",
+        "B": "Basophils",
+        "C": "Eosinophils",
+        "D": "TH cells"
+      },
+      "correct_option": "D",
+      "explanation": "HIV replicates inside TH (T-helper/CD4+) cells, which are T-lymphocytes."
+    },
+    {
+      "id": "BIO_2023_175",
+      "question": "Match drugs with effects: A. Heroin, B. Marijuana, C. Cocaine, D. Morphine",
+      "options": {
+        "A": "A-I, B-II, C-III, D-IV",
+        "B": "A-IV, B-III, C-II, D-I",
+        "C": "A-III, B-IV, C-I, D-II",
+        "D": "A-II, B-I, C-IV, D-III"
+      },
+      "correct_option": "D",
+      "explanation": "Heroin=slows down body functions (II), Marijuana=effect on cardiovascular (I), Cocaine=interferes with dopamine transport (IV), Morphine=painkiller (III)."
+    },
+    {
+      "id": "BIO_2023_176",
+      "question": "Vital capacity of lung is______.",
+      "options": {
+        "A": "IRV + ERV + TV + RV",
+        "B": "IRV + ERV + TV - RV",
+        "C": "IRV + ERV + TV",
+        "D": "IRV + ERV"
+      },
+      "correct_option": "C",
+      "explanation": "Vital capacity = IRV + ERV + TV (Tidal Volume). RV (Residual Volume) is NOT included."
+    },
+    {
+      "id": "BIO_2023_177",
+      "question": "Select the correct group/set of Australian Marsupials exhibiting adaptive radiation.",
+      "options": {
+        "A": "Numbat, Spotted cuscus, Flying phalanger",
+        "B": "Mole, Flying squirrel, Tasmanian tiger cat",
+        "C": "Lemur, Anteater, Wolf",
+        "D": "Tasmanian wolf, Bobcat, Marsupial mole"
+      },
+      "correct_option": "A",
+      "explanation": "Numbat, Spotted cuscus, and Flying phalanger are all true Australian marsupials showing adaptive radiation."
+    },
+    {
+      "id": "BIO_2023_178",
+      "question": "Match hormones with source organ: A. CCK, B. GIP, C. ANF, D. ADH",
+      "options": {
+        "A": "A-III, B-II, C-IV, D-I",
+        "B": "A-II, B-IV, C-I, D-III",
+        "C": "A-IV, B-II, C-III, D-I",
+        "D": "A-IV, B-III, C-II, D-I"
+      },
+      "correct_option": "D",
+      "explanation": "CCK=pancreas (IV), GIP=gastric gland (III), ANF=heart (II), ADH=kidney action (I)."
+    },
+    {
+      "id": "BIO_2023_179",
+      "question": "Assertion A: Amniocentesis for sex determination is one of the strategies of Reproductive and Child Health Care Programme. Reason R: Ban on amniocentesis checks increasing menace of female foeticide.",
+      "options": {
+        "A": "Both A and R are true and R is NOT the correct explanation of A",
+        "B": "A is true but R is false",
+        "C": "A is false but R is true",
+        "D": "Both A and R are true and R is the correct explanation of A"
+      },
+      "correct_option": "C",
+      "explanation": "A is false - amniocentesis for sex determination is NOT a strategy of RCH (it's banned). R is true - the ban prevents female foeticide."
+    },
+    {
+      "id": "BIO_2023_180",
+      "question": "Statement I: RNA mutates at a faster rate. Statement II: Viruses having RNA genome and shorter life span mutate and evolve faster.",
+      "options": {
+        "A": "Both Statement I and Statement II are false",
+        "B": "Statement I is true but Statement II is false",
+        "C": "Statement I false but Statement II is true",
+        "D": "Both Statement I and Statement II are true"
+      },
+      "correct_option": "D",
+      "explanation": "Both are correct. RNA lacks proofreading so mutates faster; RNA viruses evolve more rapidly."
+    },
+    {
+      "id": "BIO_2023_181",
+      "question": "Match contraceptive methods: A. Vasectomy, B. Coitus interruptus, C. Cervical caps, D. Saheli with I. Oral method, II. Barrier method, III. Surgical method, IV. Natural method",
+      "options": {
+        "A": "A-III, B-IV, C-II, D-I",
+        "B": "A-II, B-III, C-I, D-IV",
+        "C": "A-IV, B-II, C-I, D-III",
+        "D": "A-III, B-I, C-IV, D-II"
+      },
+      "correct_option": "A",
+      "explanation": "Vasectomy=surgical (III), Coitus interruptus=natural (IV), Cervical caps=barrier (II), Saheli=oral (I)."
+    },
+    {
+      "id": "BIO_2023_182",
+      "question": "Statement I: Electrostatic precipitator is most widely used in thermal power plant. Statement II: Electrostatic precipitator in thermal power plant removes ionising radiations",
+      "options": {
+        "A": "Both Statement I and Statement II are incorrect",
+        "B": "Statement I is correct but Statement II is incorrect",
+        "C": "Statement I incorrect but Statement II is correct",
+        "D": "Both Statement I and Statement II are correct"
+      },
+      "correct_option": "B",
+      "explanation": "Statement I is correct. Statement II is wrong - electrostatic precipitators remove particulate matter (fly ash), not ionizing radiation."
+    },
+    {
+      "id": "BIO_2023_183",
+      "question": "Statement I: In prokaryotes, the positively charged DNA is held with some negatively charged proteins in a region called nucleoid. Statement II: In eukaryotes, the negatively charged DNA is wrapped around the positively charged histone octamer to form nucleosome.",
+      "options": {
+        "A": "Both Statement I and Statement II are false",
+        "B": "Statement I is correct but Statement II is false",
+        "C": "Statement I incorrect but Statement II is true",
+        "D": "Both Statement I and Statement II are true"
+      },
+      "correct_option": "C",
+      "explanation": "Statement I is false (prokaryotic DNA is negatively charged held by positively charged proteins). Statement II is correct."
+    },
+    {
+      "id": "BIO_2023_184",
+      "question": "Match disease with causative agent: A. Ringworm, B. Filariasis, C. Malaria, D. Pneumonia",
+      "options": {
+        "A": "A-II, B-III, C-I, D-IV",
+        "B": "A-III, B-II, C-I, D-IV",
+        "C": "A-III, B-II, C-IV, D-I",
+        "D": "A-II, B-III, C-IV, D-I"
+      },
+      "correct_option": "D",
+      "explanation": "Ringworm=Trichophyton (II), Filariasis=Wuchereria bancrofti (III), Malaria=Plasmodium vivax (IV), Pneumonia=Haemophilus influenzae (I)."
+    },
+    {
+      "id": "BIO_2023_185",
+      "question": "Match interacting species with interaction type: A. Leopard and Lion, B. Cuckoo in Crow's nest, C. Fungi and root in Mycorrhizae, D. Cattle egret and Cattle",
+      "options": {
+        "A": "A-I, B-II, C-IV, D-III",
+        "B": "A-III, B-IV, C-I, D-II",
+        "C": "A-II, B-III, C-I, D-IV",
+        "D": "A-I, B-II, C-III, D-IV"
+      },
+      "correct_option": "D",
+      "explanation": "Leopard-Lion=competition (I), Cuckoo-Crow=brood parasitism (II), Fungi-root=mutualism (III), Egret-Cattle=commensalism (IV)."
+    },
+    {
+      "id": "BIO_2023_186",
+      "question": "Which of the following statements are correct? A. Basophils are most abundant cells of the total WBCs. B. Basophils secrete histamine, serotonin and heparin. C. Basophils are involved in inflammatory response. D. Basophils have kidney shaped nucleus. E. Basophils are agranulocytes.",
+      "options": {
+        "A": "C and E only",
+        "B": "B and C only",
+        "C": "A and B only",
+        "D": "D and E only"
+      },
+      "correct_option": "B",
+      "explanation": "B and C are correct. Basophils secrete histamine, serotonin and heparin and are involved in inflammatory response. They are the least abundant WBCs (not most abundant) and are granulocytes (not agranulocytes)."
+    },
+    {
+      "id": "BIO_2023_187",
+      "question": "Match: A. Mast cells, B. Inner surface of bronchiole, C. Blood, D. Tubular parts of nephron with I. Ciliated epithelium, II. Areolar connective tissue, III. Cuboidal epithelium, IV. Specialised connective tissue",
+      "options": {
+        "A": "A-II, B-III, C-I, D-IV",
+        "B": "A-II, B-I, C-IV, D-III",
+        "C": "A-III, B-IV, C-II, D-I",
+        "D": "A-I, B-II, C-IV, D-III"
+      },
+      "correct_option": "B",
+      "explanation": "Mast cells=areolar connective tissue (II), Bronchiole=ciliated epithelium (I), Blood=specialised connective tissue (IV), Nephron tubules=cuboidal epithelium (III)."
+    },
+    {
+      "id": "BIO_2023_188",
+      "question": "Select the correct statements: A. Tetrad formation is seen during Leptotene. B. During Anaphase, the centromeres split and chromatids separate. C. Terminalization takes place during Pachytene. D. Nucleolus, Golgi complex and ER are reformed during Telophase. E. Crossing over takes place between sister chromatids of homologous chromosome.",
+      "options": {
+        "A": "B and D only",
+        "B": "A, C and E only",
+        "C": "B and E only",
+        "D": "A and C only"
+      },
+      "correct_option": "A",
+      "explanation": "B (centromere splits at Anaphase) and D (organelles reform at Telophase) are correct. Tetrad forms at Zygotene-Pachytene, terminalization at Diplotene, crossing over between non-sister chromatids."
+    },
+    {
+      "id": "BIO_2023_189",
+      "question": "In cockroach, excretion is brought about by: A. Phallic gland, B. Urecose gland, C. Nephrocytes, D. Fat body, E. Collaterial glands",
+      "options": {
+        "A": "A, B and E only",
+        "B": "B, C and D only",
+        "C": "B and D only",
+        "D": "A and E only"
+      },
+      "correct_option": "B",
+      "explanation": "Urecose gland (B), Nephrocytes (C), and Fat body (D) are involved in excretion in cockroach."
+    },
+    {
+      "id": "BIO_2023_190",
+      "question": "Statement I: During G0 phase of cell cycle, the cell is metabolically inactive. Statement II: The centrosome undergoes duplication during S phase of interphase.",
+      "options": {
+        "A": "Both Statement I and Statement II are incorrect",
+        "B": "Statement I is correct but Statement II is incorrect",
+        "C": "Statement I incorrect but Statement II is correct",
+        "D": "Both Statement I and Statement II are correct"
+      },
+      "correct_option": "C",
+      "explanation": "Statement I is wrong - cells in G0 are metabolically active but not dividing. Statement II is correct."
+    },
+    {
+      "id": "BIO_2023_191",
+      "question": "Select the correct statements with reference to chordates: A. Presence of mid-dorsal, solid and double nerve cord. B. Presence of closed circulatory system. C. Presence of paired pharyngeal gill slits. D. Presence of dorsal heart. E. Triploblastic pseudocoelomate animals.",
+      "options": {
+        "A": "B and C only",
+        "B": "B, D and E only",
+        "C": "C, D and E only",
+        "D": "A, C and D only"
+      },
+      "correct_option": "A",
+      "explanation": "Chordates have closed circulatory system (B) and pharyngeal gill slits (C). Nerve cord is hollow and single, heart is ventral, and they are true coelomates."
+    },
+    {
+      "id": "BIO_2023_192",
+      "question": "Match: A. Logistic growth, B. Exponential growth, C. Expanding age pyramid, D. Stable age pyramid with I. Unlimited resource availability, II. Limited resource availability, III. Pre-reproductive age largest, IV. Pre-reproductive and reproductive age same",
+      "options": {
+        "A": "A-II, B-III, C-I, D-IV",
+        "B": "A-II, B-IV, C-I, D-III",
+        "C": "A-II, B-IV, C-III, D-I",
+        "D": "A-II, B-I, C-III, D-IV"
+      },
+      "correct_option": "D",
+      "explanation": "Logistic=limited resources (II), Exponential=unlimited resources (I), Expanding pyramid=pre-reproductive largest (III), Stable=pre-reproductive equals reproductive (IV)."
+    },
+    {
+      "id": "BIO_2023_193",
+      "question": "Which one of the following is the sequence on corresponding coding strand, if the sequence on mRNA is: 5' AUCGAUCGAUCGAUCGAUCGAUCGAUCG 3'?",
+      "options": {
+        "A": "3' UAGCUAGCUAGCUAGCUAGCUAGCUAGC 5'",
+        "B": "5' ATCGATCGATCGATCGATCGATCGATCG 3'",
+        "C": "3' ATCGATCGATCGATCGATCGATCGATCG 5'",
+        "D": "5' UAGCUAGCUAGCUAGCUAGCUAGCUAGC 3'"
+      },
+      "correct_option": "B",
+      "explanation": "Coding strand has same sequence as mRNA but with T instead of U. Same polarity (5' to 3')."
+    },
+    {
+      "id": "BIO_2023_194",
+      "question": "Which of the following is characteristic feature of cockroach regarding sexual dimorphism?",
+      "options": {
+        "A": "Presence of anal styles",
+        "B": "Presence of sclerites",
+        "C": "Presence of anal cerci",
+        "D": "Dark brown body colour and anal cerci"
+      },
+      "correct_option": "A",
+      "explanation": "Anal styles are present only in male cockroaches, making them a feature of sexual dimorphism."
+    },
+    {
+      "id": "BIO_2023_195",
+      "question": "Which of the following statements are correct regarding skeletal muscle? A. Muscle bundles held by collagenous connective tissue called fascicle. B. Sarcoplasmic reticulum is storehouse of calcium ions. C. Striated appearance due to distribution pattern of actin and myosin. D. M line is considered functional unit of contraction called sarcomere.",
+      "options": {
+        "A": "B and C only",
+        "B": "A, C and D only",
+        "C": "C and D only",
+        "D": "A, B and C only"
+      },
+      "correct_option": "A",
+      "explanation": "B (SR stores calcium) and C (striation due to actin-myosin pattern) are correct. Fascicle layer is perimysium (not specifically collagenous), and sarcomere is from Z-line to Z-line (not M-line)."
+    },
+    {
+      "id": "BIO_2023_196",
+      "question": "The unique mammalian characteristics are:",
+      "options": {
+        "A": "hairs, pinna and mammary glands",
+        "B": "hairs, pinna and indirect development",
+        "C": "pinna, monocondylic skull and mammary glands",
+        "D": "hairs, tympanic membrane and mammary glands"
+      },
+      "correct_option": "A",
+      "explanation": "Hairs, pinna (external ear), and mammary glands are unique to mammals."
+    },
+    {
+      "id": "BIO_2023_197",
+      "question": "Which one of the following is NOT an advantage of inbreeding?",
+      "options": {
+        "A": "It exposes harmful recessive genes that are eliminated by selection",
+        "B": "Elimination of less desirable genes and accumulation of superior genes takes place due to it",
+        "C": "It decreases the productivity of inbred population, after continuous inbreeding",
+        "D": "It decreases homozygosity"
+      },
+      "correct_option": "C",
+      "explanation": "Decreased productivity (inbreeding depression) after continuous inbreeding is a DISADVANTAGE, not an advantage."
+    },
+    {
+      "id": "BIO_2023_198",
+      "question": "The parts of human brain that helps in regulation of sexual behaviour, expression of excitement, pleasure, rage, fear etc. are:",
+      "options": {
+        "A": "Corpora quadrigemina & hippocampus",
+        "B": "Brain stem & epithalamus",
+        "C": "Corpus callosum and thalamus",
+        "D": "Limbic system & hypothalamus"
+      },
+      "correct_option": "D",
+      "explanation": "Limbic system and hypothalamus regulate sexual behavior, emotions, and basic drives."
+    },
+    {
+      "id": "BIO_2023_199",
+      "question": "Which of the following statements are correct? A. An excessive loss of body fluid switches off osmoreceptors. B. ADH facilitates water reabsorption to prevent diuresis. C. ANF causes vasodilation. D. ADH causes increase in blood pressure. E. ADH is responsible for decrease in GFR.",
+      "options": {
+        "A": "B, C and D only",
+        "B": "A, B and E only",
+        "C": "C, D and E only",
+        "D": "A and B only"
+      },
+      "correct_option": "A",
+      "explanation": "B (ADH promotes water reabsorption), C (ANF causes vasodilation), and D (ADH raises BP) are correct."
+    },
+    {
+      "id": "BIO_2023_200",
+      "question": "Which of the following are NOT under the control of thyroid hormone? A. Maintenance of water and electrolyte balance. B. Regulation of basal metabolic rate. C. Normal rhythm of sleep-wake cycle. D. Development of immune system. E. Support the process of RBCs formation.",
+      "options": {
+        "A": "B and C only",
+        "B": "C and D only",
+        "C": "D and E only",
+        "D": "A and D only"
+      },
+      "correct_option": "B",
+      "explanation": "Sleep-wake cycle (C) is regulated by melatonin (pineal), and immune system development (D) involves thymus. These are NOT thyroid hormone functions."
+    }
+  ]
+}
