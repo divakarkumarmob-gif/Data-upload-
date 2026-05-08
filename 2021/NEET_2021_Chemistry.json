@@ -1,0 +1,607 @@
+{
+  "exam": "NEET",
+  "year": 2021,
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "CHEM_2021_51",
+      "question": "Statement I: Aspirin and Paracetamol belong to the class of narcotic analgesics. Statement II: Morphine and Heroin are non-narcotic analgesics.",
+      "options": {
+        "A": "Both Statement I and Statement II are true.",
+        "B": "Both Statement I and Statement II are false.",
+        "C": "Statement I is correct but Statement II is false.",
+        "D": "Statement I is incorrect but Statement II is true."
+      },
+      "correct_option": "B",
+      "explanation": "Aspirin and Paracetamol are non-narcotic analgesics. Morphine and Heroin are narcotic analgesics. Both statements are false."
+    },
+    {
+      "id": "CHEM_2021_52",
+      "question": "The correct structure of 2,6-Dimethyl-dec-4-ene is:",
+      "options": {
+        "A": "Option 1 - correct IUPAC structure",
+        "B": "Option 2",
+        "C": "Option 3",
+        "D": "Option 4"
+      },
+      "correct_option": "A",
+      "explanation": "2,6-Dimethyldec-4-ene: 10-carbon chain with double bond at C4-C5 and methyl groups at C2 and C6."
+    },
+    {
+      "id": "CHEM_2021_53",
+      "question": "BF3 is planar and electron deficient. Hybridization and number of electrons around central atom respectively are:",
+      "options": {
+        "A": "sp³ and 4",
+        "B": "sp³ and 6",
+        "C": "sp² and 6",
+        "D": "sp² and 8"
+      },
+      "correct_option": "C",
+      "explanation": "BF3 is sp² hybridized, trigonal planar. B has 3 bond pairs = 6 electrons around it. No lone pairs on B."
+    },
+    {
+      "id": "CHEM_2021_54",
+      "question": "Identify an incorrect statement about Noble gases:",
+      "options": {
+        "A": "Noble gases are sparingly soluble in water.",
+        "B": "Noble gases have very high melting and boiling points.",
+        "C": "Noble gases have weak dispersion forces.",
+        "D": "Noble gases have large positive values of electron gain enthalpy."
+      },
+      "correct_option": "B",
+      "explanation": "Noble gases have weak dispersion forces due to large atomic size, so their melting and boiling points are very LOW, not high."
+    },
+    {
+      "id": "CHEM_2021_55",
+      "question": "Molar conductance of NaCl, HCl and CH3COONa at infinite dilution are 126.45, 426.16 and 91.0 S cm² mol⁻¹. Molar conductance of CH3COOH at infinite dilution is:",
+      "options": {
+        "A": "201.28 S cm² mol⁻¹",
+        "B": "390.71 S cm² mol⁻¹",
+        "C": "698.28 S cm² mol⁻¹",
+        "D": "540.48 S cm² mol⁻¹"
+      },
+      "correct_option": "B",
+      "explanation": "Λ°(CH3COOH) = Λ°(CH3COONa) + Λ°(HCl) - Λ°(NaCl) = 91.0 + 426.16 - 126.45 = 390.71 S cm² mol⁻¹."
+    },
+    {
+      "id": "CHEM_2021_56",
+      "question": "Tyndall effect is exhibited by:",
+      "options": {
+        "A": "NaCl solution",
+        "B": "Glucose solution",
+        "C": "Starch solution",
+        "D": "Urea solution"
+      },
+      "correct_option": "C",
+      "explanation": "Tyndall effect is exhibited by colloidal solutions. Starch solution is a colloidal solution; others are true solutions."
+    },
+    {
+      "id": "CHEM_2021_57",
+      "question": "RBC deficiency is a deficiency disease of:",
+      "options": {
+        "A": "Vitamin B12",
+        "B": "Vitamin B6",
+        "C": "Vitamin B1",
+        "D": "Vitamin B2"
+      },
+      "correct_option": "A",
+      "explanation": "Vitamin B12 deficiency causes Pernicious anaemia, in which RBCs are deficient in haemoglobin."
+    },
+    {
+      "id": "CHEM_2021_58",
+      "question": "Dihedral angle of least stable conformer of ethane is:",
+      "options": {
+        "A": "120°",
+        "B": "180°",
+        "C": "60°",
+        "D": "0°"
+      },
+      "correct_option": "D",
+      "explanation": "The eclipsed conformation is the least stable conformer of ethane. Dihedral angle = 0°."
+    },
+    {
+      "id": "CHEM_2021_59",
+      "question": "The incorrect statement among the following is:",
+      "options": {
+        "A": "Actinoid contraction is greater element to element than Lanthanoid contraction.",
+        "B": "Most of the trivalent Lanthanoid ions are colorless in solid state.",
+        "C": "Lanthanoids are good conductors of heat and electricity.",
+        "D": "Actinoids are highly reactive metals, especially when finely divided."
+      },
+      "correct_option": "B",
+      "explanation": "Most trivalent lanthanoid ions are COLOURED in solid state (due to f-f transitions), not colorless."
+    },
+    {
+      "id": "CHEM_2021_60",
+      "question": "Major product in dehydrohalogenation of 2-Bromopentane is Pent-2-ene. This is based on:",
+      "options": {
+        "A": "Saytzeff's Rule",
+        "B": "Hund's Rule",
+        "C": "Hoffmann Rule",
+        "D": "Huckel's Rule"
+      },
+      "correct_option": "A",
+      "explanation": "Saytzeff's rule states that in elimination reactions, the more substituted (stable) alkene is the major product. Pent-2-ene is more substituted than pent-1-ene."
+    },
+    {
+      "id": "CHEM_2021_61",
+      "question": "The correct relationship between CP and CV for one mole of ideal gas is:",
+      "options": {
+        "A": "CP + CV = R",
+        "B": "CP - CV = R",
+        "C": "CP = R × CV",
+        "D": "CV = R × CP"
+      },
+      "correct_option": "B",
+      "explanation": "For one mole of ideal gas, CP - CV = R (Mayer's relation)."
+    },
+    {
+      "id": "CHEM_2021_62",
+      "question": "Which polymer is prepared by addition polymerisation?",
+      "options": {
+        "A": "Teflon",
+        "B": "Nylon-66",
+        "C": "Novolac",
+        "D": "Dacron"
+      },
+      "correct_option": "A",
+      "explanation": "Teflon is prepared by addition polymerisation of tetrafluoroethene (CF2=CF2). Nylon-66, Novolac, and Dacron are condensation polymers."
+    },
+    {
+      "id": "CHEM_2021_63",
+      "question": "Acetone reacted with (i) C2H5MgBr, dry ether (ii) H3O⁺. IUPAC name of product is:",
+      "options": {
+        "A": "2-methyl propan-2-ol",
+        "B": "pentan-2-ol",
+        "C": "pentan-3-ol",
+        "D": "2-methyl butan-2-ol"
+      },
+      "correct_option": "D",
+      "explanation": "Grignard reagent (C2H5MgBr) adds to acetone (CH3COCH3) to give tertiary alcohol: CH3-C(OH)(C2H5)-CH3 = 2-methylbutan-2-ol."
+    },
+    {
+      "id": "CHEM_2021_64",
+      "question": "Match: (a) PCl5, (b) SF6, (c) BrF5, (d) BF3 with shapes (i) Square pyramidal, (ii) Trigonal planar, (iii) Octahedral, (iv) Trigonal bipyramidal",
+      "options": {
+        "A": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "B": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "C": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "D": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      },
+      "correct_option": "A",
+      "explanation": "PCl5: sp³d, trigonal bipyramidal. SF6: sp³d², octahedral. BrF5: sp³d², square pyramidal (1 lone pair). BF3: sp², trigonal planar."
+    },
+    {
+      "id": "CHEM_2021_65",
+      "question": "Which method can be used to obtain highly pure metal which is liquid at room temperature?",
+      "options": {
+        "A": "Electrolysis",
+        "B": "Chromatography",
+        "C": "Distillation",
+        "D": "Zone refining"
+      },
+      "correct_option": "C",
+      "explanation": "Mercury (Hg) is liquid at room temperature and is purified by distillation method."
+    },
+    {
+      "id": "CHEM_2021_66",
+      "question": "CH3CH(CH3)CH=CH2 + HBr in presence of benzoyl peroxide (C6H5CO)2O2. Major product is:",
+      "options": {
+        "A": "CH3CH(CH3)CH2CH2Br",
+        "B": "CH3CH(CH3)CH2CH2-O-COC6H5",
+        "C": "CH3CH(CH3)CHBrCH3",
+        "D": "CH3CBr(CH3)CH2CH3"
+      },
+      "correct_option": "A",
+      "explanation": "In presence of peroxide (radical mechanism), HBr adds via anti-Markovnikov rule (Kharash effect). Br goes to terminal carbon: CH3CH(CH3)CH2CH2Br."
+    },
+    {
+      "id": "CHEM_2021_67",
+      "question": "Tritium, a radioactive isotope of hydrogen, emits which particle?",
+      "options": {
+        "A": "Beta (β⁻)",
+        "B": "Alpha (α)",
+        "C": "Gamma (γ)",
+        "D": "Neutron (n)"
+      },
+      "correct_option": "A",
+      "explanation": "Tritium (³H) is radioactive and emits low energy beta minus (β⁻) particles."
+    },
+    {
+      "id": "CHEM_2021_68",
+      "question": "Correct sequence of bond enthalpy of C-X bond is:",
+      "options": {
+        "A": "CH3-F < CH3-Cl < CH3-Br < CH3-I",
+        "B": "CH3-F > CH3-Cl > CH3-Br > CH3-I",
+        "C": "CH3-F < CH3-Cl > CH3-Br > CH3-I",
+        "D": "CH3-Cl > CH3-F > CH3-Br > CH3-I"
+      },
+      "correct_option": "B",
+      "explanation": "Bond enthalpy decreases as atomic size increases: C-F > C-Cl > C-Br > C-I because bond length increases and overlap decreases."
+    },
+    {
+      "id": "CHEM_2021_69",
+      "question": "Number of tetrahedral and octahedral voids in hexagonal primitive unit cell are:",
+      "options": {
+        "A": "8, 4",
+        "B": "6, 12",
+        "C": "2, 1",
+        "D": "12, 6"
+      },
+      "correct_option": "D",
+      "explanation": "Hexagonal primitive unit cell has 6 atoms. Tetrahedral voids = 2 × 6 = 12. Octahedral voids = 6."
+    },
+    {
+      "id": "CHEM_2021_70",
+      "question": "Which of the following is a metal displacement reaction?",
+      "options": {
+        "A": "2KClO3 → 2KCl + 3O2",
+        "B": "Cr2O3 + 2Al → Al2O3 + 2Cr",
+        "C": "Fe + 2HCl → FeCl2 + H2",
+        "D": "2Pb(NO3)2 → 2PbO + 4NO2 + O2"
+      },
+      "correct_option": "B",
+      "explanation": "Al is more electropositive than Cr, so it displaces Cr from Cr2O3 (thermite-type reaction). This is a metal displacement reaction."
+    },
+    {
+      "id": "CHEM_2021_71",
+      "question": "Correct graphical representation of Boyle's law (P vs V) at different temperatures:",
+      "options": {
+        "A": "Curves overlap with 200K highest",
+        "B": "Straight parallel lines",
+        "C": "Curves with 600K lowest",
+        "D": "Hyperbolic curves with 600K highest (largest volume at given P)"
+      },
+      "correct_option": "D",
+      "explanation": "At constant T, PV = constant (Boyle's law). Higher T → greater PV → curve shifts outward. At given P, higher T means larger V. 600K curve is outermost."
+    },
+    {
+      "id": "CHEM_2021_72",
+      "question": "pKb of dimethylamine = 3.27, pKa of acetic acid = 4.77 at T(K). pH of dimethylammonium acetate solution is:",
+      "options": {
+        "A": "8.50",
+        "B": "5.50",
+        "C": "7.75",
+        "D": "6.25"
+      },
+      "correct_option": "C",
+      "explanation": "For salt of weak acid and weak base: pH = 7 + (pKa - pKb)/2 = 7 + (4.77 - 3.27)/2 = 7 + 0.75 = 7.75."
+    },
+    {
+      "id": "CHEM_2021_73",
+      "question": "Among alkaline earth metal halides, which is covalent and soluble in organic solvents?",
+      "options": {
+        "A": "Calcium chloride",
+        "B": "Strontium chloride",
+        "C": "Magnesium chloride",
+        "D": "Beryllium chloride"
+      },
+      "correct_option": "D",
+      "explanation": "BeCl2 is covalent (due to small size and high charge density of Be²⁺) and soluble in organic solvents."
+    },
+    {
+      "id": "CHEM_2021_74",
+      "question": "Maximum temperature achievable in blast furnace is:",
+      "options": {
+        "A": "Upto 1200 K",
+        "B": "Upto 2200 K",
+        "C": "Upto 1900 K",
+        "D": "Upto 5000 K"
+      },
+      "correct_option": "B",
+      "explanation": "Maximum temperature achievable in a blast furnace is upto 2200 K."
+    },
+    {
+      "id": "CHEM_2021_75",
+      "question": "Ethylene diaminetetraacetate (EDTA) ion is:",
+      "options": {
+        "A": "Hexadentate ligand with four O and two N donor atoms",
+        "B": "Unidentate ligand",
+        "C": "Bidentate ligand with two N donor atoms",
+        "D": "Tridentate ligand with three N donor atoms"
+      },
+      "correct_option": "A",
+      "explanation": "EDTA is a hexadentate ligand that coordinates through 2 nitrogen atoms and 4 oxygen atoms (from carboxylate groups)."
+    },
+    {
+      "id": "CHEM_2021_76",
+      "question": "10g of glucose (MW=180) in 250ml, 10g urea (MW=60) in 250ml, 10g sucrose (MW=342) in 250ml. Decreasing order of osmotic pressure is:",
+      "options": {
+        "A": "P2 > P1 > P3",
+        "B": "P1 > P2 > P3",
+        "C": "P2 > P3 > P1",
+        "D": "P3 > P1 > P2"
+      },
+      "correct_option": "A",
+      "explanation": "π = iCRT. Moles: Urea=10/60=0.167, Glucose=10/180=0.056, Sucrose=10/342=0.029. Higher moles → higher π. P2(urea) > P1(glucose) > P3(sucrose)."
+    },
+    {
+      "id": "CHEM_2021_77",
+      "question": "Statement I: Acid strength increases as HF << HCl << HBr << HI. Statement II: Bond strength of HX decreases down the group as size increases, so acid strength increases.",
+      "options": {
+        "A": "Both Statement I and Statement II are true.",
+        "B": "Both Statement I and Statement II are false.",
+        "C": "Statement I is correct but Statement II is false.",
+        "D": "Statement I is incorrect but Statement II is true."
+      },
+      "correct_option": "A",
+      "explanation": "Down group 17, atomic size increases, H-X bond length increases, bond strength decreases, so easier ionisation, acid strength increases: HF < HCl < HBr < HI. Both statements are correct."
+    },
+    {
+      "id": "CHEM_2021_78",
+      "question": "Structures of beryllium chloride in solid state and vapour phase are:",
+      "options": {
+        "A": "Chain and dimer, respectively",
+        "B": "Linear in both",
+        "C": "Dimer and linear, respectively",
+        "D": "Chain in both"
+      },
+      "correct_option": "A",
+      "explanation": "BeCl2 exists as a chain polymer in solid state and as a dimer (Be2Cl4) in vapour phase."
+    },
+    {
+      "id": "CHEM_2021_79",
+      "question": "For reaction A→B, ΔH = -4.2 kJ/mol and enthalpy of activation = 9.6 kJ/mol. Correct potential energy profile is:",
+      "options": {
+        "A": "A lower than B (endothermic)",
+        "B": "A higher than B with activation hump (exothermic)",
+        "C": "A and B at same level",
+        "D": "B higher than A"
+      },
+      "correct_option": "B",
+      "explanation": "ΔH is negative → exothermic reaction. Products (B) are at lower energy than reactants (A). Activation energy = 9.6 kJ/mol creates an energy hump."
+    },
+    {
+      "id": "CHEM_2021_80",
+      "question": "Zr (Z=40) and Hf (Z=72) have similar atomic and ionic radii because of:",
+      "options": {
+        "A": "Belonging to same group",
+        "B": "Diagonal relationship",
+        "C": "Lanthanoid contraction",
+        "D": "Having similar chemical properties"
+      },
+      "correct_option": "C",
+      "explanation": "Due to lanthanoid contraction, the 4f electrons poorly shield nuclear charge, causing Hf to have almost the same radius as Zr despite being in the next period."
+    },
+    {
+      "id": "CHEM_2021_81",
+      "question": "All India Radio broadcasts at 1368 kHz. Wavelength of EM radiation is: (c = 3.0 × 10⁸ m/s)",
+      "options": {
+        "A": "219.3 m",
+        "B": "219.2 m",
+        "C": "2192 m",
+        "D": "21.92 cm"
+      },
+      "correct_option": "A",
+      "explanation": "λ = c/ν = (3.0×10⁸)/(1368×10³) = 3×10⁸/1.368×10⁶ = 219.3 m."
+    },
+    {
+      "id": "CHEM_2021_82",
+      "question": "An organic compound contains 78% carbon by weight, remaining hydrogen. Empirical formula is: (C=12, H=1)",
+      "options": {
+        "A": "CH",
+        "B": "CH2",
+        "C": "CH3",
+        "D": "CH4"
+      },
+      "correct_option": "C",
+      "explanation": "C: 78/12 = 6.5, H: 22/1 = 22. Ratio C:H = 6.5:22 = 1:3.38 ≈ 1:3. Empirical formula = CH3."
+    },
+    {
+      "id": "CHEM_2021_83",
+      "question": "The compound which shows metamerism is:",
+      "options": {
+        "A": "C5H12",
+        "B": "C3H8O",
+        "C": "C3H6O",
+        "D": "C4H10O"
+      },
+      "correct_option": "D",
+      "explanation": "C4H10O as ether (R-O-R') shows metamerism: CH3OCH2CH2CH3 and CH3CH2OCH2CH3 are metamers (different alkyl groups on same functional group)."
+    },
+    {
+      "id": "CHEM_2021_84",
+      "question": "Which compound reacts with Hinsberg's reagent to give a solid that dissolves in alkali?",
+      "options": {
+        "A": "4-nitrobenzyl compound",
+        "B": "N-methyl benzylamine (2° amine)",
+        "C": "Benzylamine (1° amine)",
+        "D": "N,N-diethylbenzylamine (3° amine)"
+      },
+      "correct_option": "C",
+      "explanation": "1° amines react with Hinsberg's reagent (benzenesulfonyl chloride) to give sulfonamide solid that dissolves in alkali. 2° amines give solid insoluble in alkali. 3° amines don't react."
+    },
+    {
+      "id": "CHEM_2021_85",
+      "question": "Number of body-centred unit cells in all 14 types of Bravais lattice unit cells is:",
+      "options": {
+        "A": "7",
+        "B": "5",
+        "C": "2",
+        "D": "3"
+      },
+      "correct_option": "D",
+      "explanation": "BCC Bravais lattices are: Cubic-I, Tetragonal-I, Orthorhombic-I = 3 body-centred unit cells."
+    },
+    {
+      "id": "CHEM_2021_86",
+      "question": "Match: (a)[Fe(CN)6]³⁻, (b)[Fe(H2O)6]³⁺, (c)[Fe(CN)6]⁴⁻, (d)[Fe(H2O)6]²⁺ with magnetic moments (i)4.9BM, (ii)0BM, (iii)5.9BM, (iv)1.7BM",
+      "options": {
+        "A": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "B": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "C": "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "D": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+      },
+      "correct_option": "D",
+      "explanation": "[Fe(CN)6]³⁻: Fe³⁺(3d⁵), CN⁻ strong field → 1 unpaired e⁻ → 1.7 BM. [Fe(H2O)6]³⁺: Fe³⁺, H2O weak field → 5 unpaired → 5.9 BM. [Fe(CN)6]⁴⁻: Fe²⁺(3d⁶) → 0 unpaired → 0 BM. [Fe(H2O)6]²⁺: Fe²⁺ → 4 unpaired → 4.9 BM."
+    },
+    {
+      "id": "CHEM_2021_87",
+      "question": "Total pressure (atm) of mixture of 4g O2 and 2g H2 in 1L at 0°C is: [R=0.082 L atm mol⁻¹K⁻¹]",
+      "options": {
+        "A": "2.518",
+        "B": "2.602",
+        "C": "25.18",
+        "D": "26.02"
+      },
+      "correct_option": "C",
+      "explanation": "n(O2) = 4/32 = 0.125 mol, n(H2) = 2/2 = 1 mol. Total n = 1.125 mol. PV = nRT → P = 1.125 × 0.082 × 273 = 25.18 atm."
+    },
+    {
+      "id": "CHEM_2021_88",
+      "question": "CH3CH2COO⁻Na⁺ + NaOH + ? → CH3CH3 + Na2CO3. The missing reagent is:",
+      "options": {
+        "A": "B2H6",
+        "B": "Red Phosphorus",
+        "C": "CaO",
+        "D": "DIBAL-H"
+      },
+      "correct_option": "C",
+      "explanation": "Decarboxylation of sodium salt of carboxylic acid requires soda-lime (NaOH + CaO). CaO is the missing reagent."
+    },
+    {
+      "id": "CHEM_2021_89",
+      "question": "For irreversible expansion of ideal gas under isothermal condition:",
+      "options": {
+        "A": "ΔU = 0, ΔS_total = 0",
+        "B": "ΔU ≠ 0, ΔS_total ≠ 0",
+        "C": "ΔU = 0, ΔS_total ≠ 0",
+        "D": "ΔU ≠ 0, ΔS_total = 0"
+      },
+      "correct_option": "C",
+      "explanation": "For isothermal process of ideal gas: ΔU = 0 (U depends only on T). For irreversible process: ΔS_total > 0 (entropy of universe increases)."
+    },
+    {
+      "id": "CHEM_2021_90",
+      "question": "Which arrangement is NOT strictly according to properties indicated?",
+      "options": {
+        "A": "HF < HCl < HBr < HI : Increasing acidic strength",
+        "B": "H2O < H2S < H2Se < H2Te : Increasing pKa values",
+        "C": "NH3 < PH3 < AsH3 < SbH3 : Increasing acidic character",
+        "D": "CO2 < SiO2 < SnO2 < PbO2 : Increasing oxidizing power"
+      },
+      "correct_option": "B",
+      "explanation": "Down the group, acidic strength increases (H2O < H2S < H2Se < H2Te), so pKa should DECREASE (not increase). Statement B is incorrect."
+    },
+    {
+      "id": "CHEM_2021_91",
+      "question": "Molar conductivity of 0.007M acetic acid = 20 S cm² mol⁻¹. Λ°(H⁺)=350, Λ°(CH3COO⁻)=50 S cm² mol⁻¹. Dissociation constant is:",
+      "options": {
+        "A": "1.75 × 10⁻⁴ mol L⁻¹",
+        "B": "2.50 × 10⁻⁴ mol L⁻¹",
+        "C": "1.75 × 10⁻⁵ mol L⁻¹",
+        "D": "2.50 × 10⁻⁵ mol L⁻¹"
+      },
+      "correct_option": "C",
+      "explanation": "Λ°m = 350+50 = 400 S cm² mol⁻¹. α = Λm/Λ°m = 20/400 = 0.05. Ka = Cα²/(1-α) ≈ Cα² = 0.007 × (0.05)² = 1.75 × 10⁻⁵ mol L⁻¹."
+    },
+    {
+      "id": "CHEM_2021_92",
+      "question": "Slope of Arrhenius plot (ln k vs 1/T) of first order reaction is -5×10³ K. Value of Ea is: [R=8.314 J K⁻¹ mol⁻¹]",
+      "options": {
+        "A": "41.5 kJ mol⁻¹",
+        "B": "83.0 kJ mol⁻¹",
+        "C": "166 kJ mol⁻¹",
+        "D": "-83 kJ mol⁻¹"
+      },
+      "correct_option": "A",
+      "explanation": "Slope = -Ea/R → Ea = -slope × R = 5×10³ × 8.314 = 41570 J/mol ≈ 41.5 kJ mol⁻¹."
+    },
+    {
+      "id": "CHEM_2021_93",
+      "question": "NaBH4 / C2H5OH acts on methyl 3-oxobutanoate (acetoacetate ester). Product is:",
+      "options": {
+        "A": "Alcohol at ketone, ester intact: OH on C3, OCH3 remains",
+        "B": "Both ketone and ester reduced",
+        "C": "Only ketone reduced to alcohol",
+        "D": "Ester reduced only"
+      },
+      "correct_option": "D",
+      "explanation": "NaBH4 is a mild reducing agent — it reduces ketones/aldehydes but NOT esters. The ketone group is reduced to alcohol while the ester group remains intact."
+    },
+    {
+      "id": "CHEM_2021_94",
+      "question": "Match reactions: (a) CO,HCl/AlCl3,CuCl, (b) R-CO-CH3+NaOX, (c) R-CH2-OH+R'COOH/H2SO4, (d) R-CH2-COOH/X2/RedP then H2O with (i) HVZ, (ii) Gattermann-Koch, (iii) Haloform, (iv) Esterification",
+      "options": {
+        "A": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "B": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "C": "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+        "D": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      },
+      "correct_option": "D",
+      "explanation": "(a) CO+HCl/AlCl3,CuCl → Gattermann-Koch (ii). (b) RCOCH3+NaOX → Haloform reaction (iii). (c) Alcohol+acid/H2SO4 → Esterification (iv). (d) Alpha halogenation of acid → HVZ reaction (i)."
+    },
+    {
+      "id": "CHEM_2021_95",
+      "question": "Which molecule is non-polar in nature?",
+      "options": {
+        "A": "POCl3",
+        "B": "CH2O",
+        "C": "SbCl5",
+        "D": "NO2"
+      },
+      "correct_option": "C",
+      "explanation": "SbCl5 is sp³d hybridised, trigonal bipyramidal. Due to symmetry, all dipole moments cancel → μ = 0, non-polar."
+    },
+    {
+      "id": "CHEM_2021_96",
+      "question": "Which pair is NOT an isoelectronic pair?",
+      "options": {
+        "A": "O²⁻, F⁻",
+        "B": "Na⁺, Mg²⁺",
+        "C": "Mn²⁺, Fe³⁺",
+        "D": "Fe²⁺, Mn²⁺"
+      },
+      "correct_option": "D",
+      "explanation": "Fe²⁺ has 24 electrons (3d⁶). Mn²⁺ has 23 electrons (3d⁵). They are NOT isoelectronic. Other pairs: O²⁻ & F⁻ both have 10e⁻; Na⁺ & Mg²⁺ both have 10e⁻; Mn²⁺ & Fe³⁺ both have 23e⁻."
+    },
+    {
+      "id": "CHEM_2021_97",
+      "question": "Vapour pressure of solution at 45°C with benzene:octane molar ratio 3:2. P°(benzene)=280 mmHg, P°(octane)=420 mmHg. Total vapour pressure is:",
+      "options": {
+        "A": "160 mm Hg",
+        "B": "168 mm Hg",
+        "C": "336 mm Hg",
+        "D": "350 mm Hg"
+      },
+      "correct_option": "C",
+      "explanation": "xB = 3/5 = 0.6, xO = 2/5 = 0.4. P = xB×P°B + xO×P°O = 0.6×280 + 0.4×420 = 168 + 168 = 336 mm Hg."
+    },
+    {
+      "id": "CHEM_2021_98",
+      "question": "Match: (a)2SO2+O2→2SO3, (b)HOCl→·OH+Cl·, (c)CaCO3+H2SO4→CaSO4+H2O+CO2, (d)NO2→NO+O with (i)Acid rain, (ii)Smog, (iii)Ozone depletion, (iv)Tropospheric pollution",
+      "options": {
+        "A": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "B": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "C": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "D": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+      },
+      "correct_option": "C",
+      "explanation": "(a) SO2+O2→SO3 → tropospheric pollution (iv). (b) HOCl→·OH+Cl· → ozone depletion (iii). (c) CaCO3+H2SO4 → acid rain effect (i). (d) NO2→NO+O → smog (ii)."
+    },
+    {
+      "id": "CHEM_2021_99",
+      "question": "Reagent R in: ArNH2 + NaNO2/HCl (0-5°C) → ArN2⁺Cl⁻ + R → Ar-H. R is:",
+      "options": {
+        "A": "H2O",
+        "B": "CH3CH2OH",
+        "C": "HI",
+        "D": "CuCN/KCN"
+      },
+      "correct_option": "B",
+      "explanation": "Ethanol (CH3CH2OH) acts as a reducing agent to convert diazonium salt to arene (Ar-H). It gets oxidised to ethanal. This is used for replacement of -NH2 by -H."
+    },
+    {
+      "id": "CHEM_2021_100",
+      "question": "Intermediate X in: Toluene + CrO2Cl2/CS2 → X → H3O⁺ → Benzaldehyde. X is:",
+      "options": {
+        "A": "CH(OCrOHCl2)2",
+        "B": "CH(OCOCH3)2",
+        "C": "CH2Cl2 derivative",
+        "D": "CHCl derivative"
+      },
+      "correct_option": "A",
+      "explanation": "Etard reaction: Toluene + CrO2Cl2/CS2 gives chromium complex intermediate X = C6H5CH(OCrOHCl2)2, which on hydrolysis with H3O⁺ gives benzaldehyde."
+    }
+  ]
+}

@@ -1,0 +1,1308 @@
+{
+  "exam": "NEET",
+  "year": 2021,
+  "subject": "Biology",
+  "sections": ["Botany", "Zoology"],
+  "questions": [
+    {
+      "id": "BIO_2021_101",
+      "section": "Botany",
+      "question": "Inspite of interspecific competition in nature, which mechanism might competing species have evolved for their survival?",
+      "options": {
+        "A": "Resource partitioning",
+        "B": "Competitive release",
+        "C": "Mutualism",
+        "D": "Predation"
+      },
+      "correct_option": "A",
+      "explanation": "Resource partitioning allows competing species to divide resources (food, habitat, time) to minimize direct competition and coexist."
+    },
+    {
+      "id": "BIO_2021_102",
+      "section": "Botany",
+      "question": "Match: (a) Cells with active division capacity, (b) All cells similar in structure/function, (c) Different types of cells, (d) Dead cells with thickened walls/narrow lumen with (i) Vascular tissues, (ii) Meristematic tissue, (iii) Sclereids, (iv) Simple tissue",
+      "options": {
+        "A": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "B": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "C": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "D": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+      },
+      "correct_option": "A",
+      "explanation": "Meristematic tissue → active division. Simple tissue → all cells similar. Vascular tissue → different cell types. Sclereids → dead cells, thickened walls."
+    },
+    {
+      "id": "BIO_2021_103",
+      "section": "Botany",
+      "question": "During purification in recombinant DNA technology, addition of chilled ethanol precipitates out:",
+      "options": {
+        "A": "RNA",
+        "B": "DNA",
+        "C": "Histones",
+        "D": "Polysaccharides"
+      },
+      "correct_option": "B",
+      "explanation": "Addition of chilled ethanol precipitates DNA out of solution. This is used in the DNA isolation protocol."
+    },
+    {
+      "id": "BIO_2021_104",
+      "section": "Botany",
+      "question": "Match: (a) Cohesion, (b) Adhesion, (c) Surface tension, (d) Guttation with (i) More attraction in liquid phase, (ii) Mutual attraction among water molecules, (iii) Water loss in liquid phase, (iv) Attraction towards polar surfaces",
+      "options": {
+        "A": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "B": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "C": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "D": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      },
+      "correct_option": "A",
+      "explanation": "Cohesion: mutual attraction among water molecules. Adhesion: attraction to polar surfaces. Surface tension: more attraction in liquid phase. Guttation: water loss in liquid phase."
+    },
+    {
+      "id": "BIO_2021_105",
+      "section": "Botany",
+      "question": "Transfer of pollen from anthers of one plant to stigma of a different plant (genetically different pollen) is called:",
+      "options": {
+        "A": "Xenogamy",
+        "B": "Geitonogamy",
+        "C": "Chasmogamy",
+        "D": "Cleistogamy"
+      },
+      "correct_option": "A",
+      "explanation": "Xenogamy (cross-pollination) is transfer of pollen from one plant to a genetically different plant. Geitonogamy is transfer between flowers of same plant."
+    },
+    {
+      "id": "BIO_2021_106",
+      "section": "Botany",
+      "question": "Which stage of meiosis involves division of centromere?",
+      "options": {
+        "A": "Metaphase I",
+        "B": "Metaphase II",
+        "C": "Anaphase II",
+        "D": "Telophase II"
+      },
+      "correct_option": "C",
+      "explanation": "Centromere splits during Anaphase II of meiosis, allowing sister chromatids to separate to opposite poles."
+    },
+    {
+      "id": "BIO_2021_107",
+      "section": "Botany",
+      "question": "Correct sequence of steps in PCR (Polymerase Chain Reaction) is:",
+      "options": {
+        "A": "Denaturation, Annealing, Extension",
+        "B": "Denaturation, Extension, Annealing",
+        "C": "Extension, Denaturation, Annealing",
+        "D": "Annealing, Denaturation, Extension"
+      },
+      "correct_option": "A",
+      "explanation": "PCR steps: (1) Denaturation at ~94°C separates DNA strands, (2) Annealing at ~50-65°C allows primers to bind, (3) Extension at ~72°C for DNA polymerase to synthesize new strand."
+    },
+    {
+      "id": "BIO_2021_108",
+      "section": "Botany",
+      "question": "Gemmae are present in:",
+      "options": {
+        "A": "Mosses",
+        "B": "Pteridophytes",
+        "C": "Some Gymnosperms",
+        "D": "Some Liverworts"
+      },
+      "correct_option": "D",
+      "explanation": "Gemmae are small multicellular asexual reproductive structures found in cups (gemma cups) in some liverworts like Marchantia."
+    },
+    {
+      "id": "BIO_2021_109",
+      "section": "Botany",
+      "question": "The diagram that helps understand gamete production, zygote formation, F1 and F2 plants is called:",
+      "options": {
+        "A": "Bullet square",
+        "B": "Punch square",
+        "C": "Punnett square",
+        "D": "Net square"
+      },
+      "correct_option": "C",
+      "explanation": "Punnett square is a diagram used to predict genotype and phenotype ratios in genetic crosses."
+    },
+    {
+      "id": "BIO_2021_110",
+      "section": "Botany",
+      "question": "The factor that leads to Founder effect in a population is:",
+      "options": {
+        "A": "Natural selection",
+        "B": "Genetic recombination",
+        "C": "Mutation",
+        "D": "Genetic drift"
+      },
+      "correct_option": "D",
+      "explanation": "Founder effect is a type of genetic drift where a new population is established by a small number of individuals, causing loss of genetic variation."
+    },
+    {
+      "id": "BIO_2021_111",
+      "section": "Botany",
+      "question": "Selaginella and Salvinia produce two kinds of spores. Such plants are known as:",
+      "options": {
+        "A": "Homosorus",
+        "B": "Heterosorus",
+        "C": "Homosporous",
+        "D": "Heterosporous"
+      },
+      "correct_option": "D",
+      "explanation": "Plants producing two types of spores (microspores and megaspores) are called heterosporous. Selaginella and Salvinia are examples."
+    },
+    {
+      "id": "BIO_2021_112",
+      "section": "Botany",
+      "question": "The ability of plants to follow different pathways in response to environment or phases of life to form different structures is called:",
+      "options": {
+        "A": "Elasticity",
+        "B": "Flexibility",
+        "C": "Plasticity",
+        "D": "Maturity"
+      },
+      "correct_option": "C",
+      "explanation": "Plasticity is the ability of plants to alter their developmental pathway in response to environmental conditions."
+    },
+    {
+      "id": "BIO_2021_113",
+      "section": "Botany",
+      "question": "Which of the following are NOT secondary metabolites in plants?",
+      "options": {
+        "A": "Morphine, codeine",
+        "B": "Amino acids, glucose",
+        "C": "Vinblastin, curcumin",
+        "D": "Rubber, gums"
+      },
+      "correct_option": "B",
+      "explanation": "Amino acids and glucose are primary metabolites essential for basic life processes. Morphine, codeine, vinblastin, curcumin, rubber, and gums are secondary metabolites."
+    },
+    {
+      "id": "BIO_2021_114",
+      "section": "Botany",
+      "question": "Central dogma: DNA →(a)→ DNA, DNA →(b)→ mRNA →(c)→ (d). Fill in (a), (b), (c), (d):",
+      "options": {
+        "A": "(a)-Replication, (b)-Transcription, (c)-Transduction, (d)-Protein",
+        "B": "(a)-Translation, (b)-Replication, (c)-Transcription, (d)-Transduction",
+        "C": "(a)-Replication, (b)-Transcription, (c)-Translation, (d)-Protein",
+        "D": "(a)-Transduction, (b)-Translation, (c)-Replication, (d)-Protein"
+      },
+      "correct_option": "C",
+      "explanation": "Central dogma: DNA undergoes Replication (a) to produce DNA, Transcription (b) to produce mRNA, then Translation (c) to produce Protein (d)."
+    },
+    {
+      "id": "BIO_2021_115",
+      "section": "Botany",
+      "question": "When centromere is situated in the middle of two equal arms, the chromosome is referred to as:",
+      "options": {
+        "A": "Metacentric",
+        "B": "Telocentric",
+        "C": "Sub-metacentric",
+        "D": "Acrocentric"
+      },
+      "correct_option": "A",
+      "explanation": "Metacentric chromosomes have the centromere at the centre, dividing the chromosome into two equal arms (J or V shaped)."
+    },
+    {
+      "id": "BIO_2021_116",
+      "section": "Botany",
+      "question": "DNA strands on gel stained with ethidium bromide viewed under UV radiation appear as:",
+      "options": {
+        "A": "Yellow bands",
+        "B": "Bright orange bands",
+        "C": "Dark red bands",
+        "D": "Bright blue bands"
+      },
+      "correct_option": "B",
+      "explanation": "Ethidium bromide intercalates between DNA bases and fluoresces bright orange under UV light."
+    },
+    {
+      "id": "BIO_2021_117",
+      "section": "Botany",
+      "question": "Site of perception of light in plants during photoperiodism is:",
+      "options": {
+        "A": "Shoot apex",
+        "B": "Stem",
+        "C": "Axillary bud",
+        "D": "Leaf"
+      },
+      "correct_option": "D",
+      "explanation": "Leaves are the site of photoperiodic perception. Phytochrome in leaves senses the light period and sends signals to induce/inhibit flowering."
+    },
+    {
+      "id": "BIO_2021_118",
+      "section": "Botany",
+      "question": "When gene targeting involving gene amplification is attempted in individual's tissue to treat disease, it is known as:",
+      "options": {
+        "A": "Biopiracy",
+        "B": "Gene therapy",
+        "C": "Molecular diagnosis",
+        "D": "Safety testing"
+      },
+      "correct_option": "B",
+      "explanation": "Gene therapy involves introduction of genes into an individual's cells/tissues to treat disease. It can involve gene amplification or replacement."
+    },
+    {
+      "id": "BIO_2021_119",
+      "section": "Botany",
+      "question": "Which of the following plants is monoecious?",
+      "options": {
+        "A": "Carica papaya",
+        "B": "Chara",
+        "C": "Marchantia polymorpha",
+        "D": "Cycas circinalis"
+      },
+      "correct_option": "B",
+      "explanation": "Chara is monoecious (both male and female reproductive structures on same plant). Papaya, Marchantia, and Cycas are dioecious."
+    },
+    {
+      "id": "BIO_2021_120",
+      "section": "Botany",
+      "question": "Which is NOT an application of PCR?",
+      "options": {
+        "A": "Molecular diagnosis",
+        "B": "Gene amplification",
+        "C": "Purification of isolated protein",
+        "D": "Detection of gene mutation"
+      },
+      "correct_option": "C",
+      "explanation": "PCR amplifies DNA, not proteins. Purification of isolated proteins is not an application of PCR."
+    },
+    {
+      "id": "BIO_2021_121",
+      "section": "Botany",
+      "question": "Match: (a) Cristae, (b) Thylakoids, (c) Centromere, (d) Cisternae with (i) Primary constriction in chromosome, (ii) Disc-shaped sacs in Golgi, (iii) Infoldings in mitochondria, (iv) Flattened membranous sacs in stroma of plastids",
+      "options": {
+        "A": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "B": "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+        "C": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "D": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      },
+      "correct_option": "C",
+      "explanation": "Cristae: infoldings of inner mitochondrial membrane. Thylakoids: flattened sacs in stroma of chloroplasts. Centromere: primary constriction of chromosome. Cisternae: disc-shaped sacs in Golgi apparatus."
+    },
+    {
+      "id": "BIO_2021_122",
+      "section": "Botany",
+      "question": "Diadelphous stamens are found in:",
+      "options": {
+        "A": "China rose",
+        "B": "Citrus",
+        "C": "Pea",
+        "D": "China rose and citrus"
+      },
+      "correct_option": "C",
+      "explanation": "Diadelphous stamens (9+1 arrangement) are found in Pea (family Fabaceae). China rose has monadelphous stamens."
+    },
+    {
+      "id": "BIO_2021_123",
+      "section": "Botany",
+      "question": "Match: (a) Protoplast fusion, (b) Plant tissue culture, (c) Meristem culture, (d) Micropropagation with (i) Totipotency, (ii) Pomato, (iii) Somaclones, (iv) Virus-free plants",
+      "options": {
+        "A": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "B": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "C": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "D": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      },
+      "correct_option": "B",
+      "explanation": "Protoplast fusion → Pomato (potato+tomato). Tissue culture → Totipotency. Meristem culture → Virus-free plants. Micropropagation → Somaclones."
+    },
+    {
+      "id": "BIO_2021_124",
+      "section": "Botany",
+      "question": "Amensalism can be represented as:",
+      "options": {
+        "A": "Species A (-); Species B (0)",
+        "B": "Species A (+); Species B (+)",
+        "C": "Species A (-); Species B (-)",
+        "D": "Species A (+); Species B (0)"
+      },
+      "correct_option": "A",
+      "explanation": "In amensalism, one species is harmed (-) while the other is unaffected (0). Example: Penicillium inhibits bacteria."
+    },
+    {
+      "id": "BIO_2021_125",
+      "section": "Botany",
+      "question": "Which statement is incorrect?",
+      "options": {
+        "A": "Mature sieve tube elements possess conspicuous nucleus and cytoplasmic organelles.",
+        "B": "Microbodies are present in both plant and animal cells.",
+        "C": "Perinuclear space forms a barrier between nucleus and cytoplasm.",
+        "D": "Nuclear pores act as passages for proteins and RNA molecules between nucleus and cytoplasm."
+      },
+      "correct_option": "A",
+      "explanation": "Mature sieve tube elements lack a nucleus and most cytoplasmic organelles. They have companion cells that perform these functions."
+    },
+    {
+      "id": "BIO_2021_126",
+      "section": "Botany",
+      "question": "A typical angiosperm embryo sac at maturity is:",
+      "options": {
+        "A": "8-nucleate and 7-celled",
+        "B": "7-nucleate and 8-celled",
+        "C": "7-nucleate and 7-celled",
+        "D": "8-nucleate and 8-celled"
+      },
+      "correct_option": "A",
+      "explanation": "Mature embryo sac (Polygonum type): 8 nuclei but 7 cells — 3 antipodals, 2 synergids, 1 egg cell, 1 central cell with 2 polar nuclei."
+    },
+    {
+      "id": "BIO_2021_127",
+      "section": "Botany",
+      "question": "Which algae contains mannitol as reserve food material?",
+      "options": {
+        "A": "Ectocarpus",
+        "B": "Gracilaria",
+        "C": "Volvox",
+        "D": "Ulothrix"
+      },
+      "correct_option": "A",
+      "explanation": "Ectocarpus is a brown alga (Phaeophyceae). Brown algae store food as mannitol and laminarin."
+    },
+    {
+      "id": "BIO_2021_128",
+      "section": "Botany",
+      "question": "The plant hormone used to destroy weeds in a field is:",
+      "options": {
+        "A": "IAA",
+        "B": "NAA",
+        "C": "2,4-D",
+        "D": "IBA"
+      },
+      "correct_option": "C",
+      "explanation": "2,4-D (2,4-dichlorophenoxyacetic acid) is a synthetic auxin used as a weedicide to kill broad-leaved weeds in cereal crops."
+    },
+    {
+      "id": "BIO_2021_129",
+      "section": "Botany",
+      "question": "Amount of nutrients like carbon, nitrogen, phosphorus, calcium present in soil at any given time is referred to as:",
+      "options": {
+        "A": "Climax",
+        "B": "Climax community",
+        "C": "Standing state",
+        "D": "Standing crop"
+      },
+      "correct_option": "C",
+      "explanation": "Standing state refers to the amount of nutrients present in the soil (abiotic component) at any given time."
+    },
+    {
+      "id": "BIO_2021_130",
+      "section": "Botany",
+      "question": "Mutations in plant cells can be induced by:",
+      "options": {
+        "A": "Kinetin",
+        "B": "Infrared rays",
+        "C": "Gamma rays",
+        "D": "Zeatin"
+      },
+      "correct_option": "C",
+      "explanation": "Gamma rays (and other ionizing radiation like X-rays) are mutagens that can induce mutations in plant cells. Kinetin and Zeatin are cytokinins."
+    },
+    {
+      "id": "BIO_2021_131",
+      "section": "Botany",
+      "question": "Which statement is NOT correct?",
+      "options": {
+        "A": "Pyramid of biomass in sea is generally inverted.",
+        "B": "Pyramid of biomass in sea is generally upright.",
+        "C": "Pyramid of energy is always upright.",
+        "D": "Pyramid of numbers in a grassland ecosystem is upright."
+      },
+      "correct_option": "B",
+      "explanation": "Pyramid of biomass in sea (aquatic ecosystem) is generally INVERTED because phytoplankton (producers) have lower biomass than zooplankton. Option B is incorrect."
+    },
+    {
+      "id": "BIO_2021_132",
+      "section": "Botany",
+      "question": "In equation GPP - R = NPP, R represents:",
+      "options": {
+        "A": "Radiant energy",
+        "B": "Retardation factor",
+        "C": "Environment factor",
+        "D": "Respiration losses"
+      },
+      "correct_option": "D",
+      "explanation": "GPP (Gross Primary Productivity) - R (Respiration losses) = NPP (Net Primary Productivity). R is the energy lost in respiration."
+    },
+    {
+      "id": "BIO_2021_133",
+      "section": "Botany",
+      "question": "Which algae produces Carrageen?",
+      "options": {
+        "A": "Green algae",
+        "B": "Brown algae",
+        "C": "Red algae",
+        "D": "Blue-green algae"
+      },
+      "correct_option": "C",
+      "explanation": "Carrageen (carrageenan) is a polysaccharide produced by red algae (Rhodophyta) like Chondrus crispus. It's used as a food additive."
+    },
+    {
+      "id": "BIO_2021_134",
+      "section": "Botany",
+      "question": "First stable product of CO2 fixation in sorghum is:",
+      "options": {
+        "A": "Pyruvic acid",
+        "B": "Oxaloacetic acid",
+        "C": "Succinic acid",
+        "D": "Phosphoglyceric acid"
+      },
+      "correct_option": "B",
+      "explanation": "Sorghum is a C4 plant. In C4 pathway, CO2 combines with PEP (phosphoenolpyruvate) to form Oxaloacetic acid (OAA) as the first stable product."
+    },
+    {
+      "id": "BIO_2021_135",
+      "section": "Botany",
+      "question": "Match: (a) Lenticels, (b) Cork cambium, (c) Secondary cortex, (d) Cork with (i) Phellogen, (ii) Suberin deposition, (iii) Exchange of gases, (iv) Phelloderm",
+      "options": {
+        "A": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "B": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "C": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "D": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+      },
+      "correct_option": "B",
+      "explanation": "Lenticels → exchange of gases. Cork cambium → Phellogen. Secondary cortex → Phelloderm. Cork → Suberin deposition."
+    },
+    {
+      "id": "BIO_2021_136",
+      "section": "Botany",
+      "question": "Which statement about respiration is incorrect?",
+      "options": {
+        "A": "During aerobic respiration, role of oxygen is limited to the terminal stage.",
+        "B": "In ETC, one NADH+H⁺ gives 2 ATP, one FADH2 gives 3 ATP.",
+        "C": "ATP is synthesized through complex V.",
+        "D": "Oxidation-reduction reactions produce proton gradient in respiration."
+      },
+      "correct_option": "B",
+      "explanation": "This is incorrect. NADH+H⁺ gives 2.5 ATP (or 3 ATP in older value), and FADH2 gives 1.5 ATP (or 2 ATP). The values in option B are reversed and wrong."
+    },
+    {
+      "id": "BIO_2021_137",
+      "section": "Botany",
+      "question": "Match floral formulas with families: (a) K(5)C(5)A(5+5)G1, (b) K(5)C(5)A5G(2), (c) P(3+3)A3+3G(3), (d) K2+2C4A2+4G(2)",
+      "options": {
+        "A": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "B": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "C": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "D": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+      },
+      "correct_option": "A",
+      "explanation": "(a) Fabaceae formula (9+1 stamens). (b) Solanaceae. (c) Liliaceae (tepals). (d) Brassicaceae (tetradynamous stamens)."
+    },
+    {
+      "id": "BIO_2021_138",
+      "section": "Botany",
+      "question": "Match: (a) S phase, (b) G2 phase, (c) Quiescent stage, (d) G1 phase with (i) Proteins synthesized, (ii) Inactive phase, (iii) Interval between mitosis and initiation of DNA replication, (iv) DNA replication",
+      "options": {
+        "A": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "B": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "C": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "D": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      },
+      "correct_option": "C",
+      "explanation": "S phase → DNA replication. G2 phase → proteins synthesized (for cell division). Quiescent stage → inactive phase (G0). G1 phase → interval between mitosis and DNA replication."
+    },
+    {
+      "id": "BIO_2021_139",
+      "section": "Botany",
+      "question": "Plasmid pBR322 has PstI site within ampR gene. If PstI is used to insert a gene, recombinant plasmid inserted in E.coli will:",
+      "options": {
+        "A": "Not be able to confer ampicillin resistance to host cell.",
+        "B": "Have ability to resist ampicillin and produce β-galactoside.",
+        "C": "Lead to lysis of host cell.",
+        "D": "Produce a novel protein with dual ability."
+      },
+      "correct_option": "A",
+      "explanation": "Inserting foreign gene at PstI site disrupts the ampR gene (insertional inactivation). Therefore, recombinants will not have ampicillin resistance."
+    },
+    {
+      "id": "BIO_2021_140",
+      "section": "Botany",
+      "question": "Identify the correct statement:",
+      "options": {
+        "A": "In capping, methyl guanosine triphosphate is added to 3' end of hnRNA.",
+        "B": "RNA polymerase binds with Rho factor to terminate transcription in bacteria.",
+        "C": "Coding strand in transcription unit is copied to mRNA.",
+        "D": "Split gene arrangement is characteristic of prokaryotes."
+      },
+      "correct_option": "B",
+      "explanation": "In bacteria, Rho factor binds to RNA polymerase to help terminate transcription. Capping is at 5' end. Template strand (not coding) is copied. Split genes (introns) are in eukaryotes."
+    },
+    {
+      "id": "BIO_2021_141",
+      "section": "Botany",
+      "question": "Radioactive probe used to detect mutated cancer gene via autoradiography. The mutated gene does not appear on photographic film because:",
+      "options": {
+        "A": "Mutated gene partially appears on photographic film.",
+        "B": "Mutated gene completely appears on photographic film.",
+        "C": "Mutated gene does not appear as probe has no complementarity with it.",
+        "D": "Mutated gene does not appear as probe has complementarity with it."
+      },
+      "correct_option": "C",
+      "explanation": "The probe is designed to be complementary to the normal gene. If the gene is mutated, the probe cannot hybridize, so no signal appears on the film."
+    },
+    {
+      "id": "BIO_2021_142",
+      "section": "Botany",
+      "question": "In exponential growth equation Nt = N0eʳᵗ, 'e' represents:",
+      "options": {
+        "A": "Base of number logarithms",
+        "B": "Base of exponential logarithms",
+        "C": "Base of natural logarithms",
+        "D": "Base of geometric logarithms"
+      },
+      "correct_option": "C",
+      "explanation": "In Nt = N0eʳᵗ, 'e' is Euler's number (≈2.718), the base of natural logarithms."
+    },
+    {
+      "id": "BIO_2021_143",
+      "section": "Botany",
+      "question": "Select the correct pair:",
+      "options": {
+        "A": "Large colorless empty cells in epidermis of grass leaves – Subsidiary cells",
+        "B": "Vascular bundles in dicot leaves surrounded by large thick-walled cells – Conjunctive tissue",
+        "C": "Cells of medullary rays forming part of cambial ring – Interfascicular cambium",
+        "D": "Loose parenchyma cells rupturing epidermis forming lens-shaped opening – Spongy parenchyma"
+      },
+      "correct_option": "C",
+      "explanation": "Cells of medullary rays that join with fascicular cambium to form a complete cambial ring are called interfascicular cambium."
+    },
+    {
+      "id": "BIO_2021_144",
+      "section": "Botany",
+      "question": "In members of which families do pollen grains retain viability for months after release?",
+      "options": {
+        "A": "Poaceae; Rosaceae",
+        "B": "Poaceae; Leguminosae",
+        "C": "Poaceae; Solanaceae",
+        "D": "Rosaceae; Leguminosae"
+      },
+      "correct_option": "D",
+      "explanation": "Pollen grains of Rosaceae and Leguminosae retain viability for months. Poaceae pollen is short-lived (loses viability within 30 minutes)."
+    },
+    {
+      "id": "BIO_2021_145",
+      "section": "Botany",
+      "question": "Role of RNA polymerase III in eukaryotic transcription is:",
+      "options": {
+        "A": "Transcribes rRNAs (28S, 18S and 5.8S)",
+        "B": "Transcribes tRNA, 5S rRNA and snRNA",
+        "C": "Transcribes precursor of mRNA",
+        "D": "Transcribes only snRNAs"
+      },
+      "correct_option": "B",
+      "explanation": "RNA pol I → rRNA (28S, 18S, 5.8S). RNA pol II → precursor mRNA (hnRNA). RNA pol III → tRNA, 5S rRNA, and snRNA."
+    },
+    {
+      "id": "BIO_2021_146",
+      "section": "Botany",
+      "question": "Which statement is incorrect about photophosphorylation?",
+      "options": {
+        "A": "Both ATP and NADPH+H⁺ are synthesized during non-cyclic photophosphorylation.",
+        "B": "Stroma lamellae have PS I only and lack NADP reductase.",
+        "C": "Grana lamellae have both PS I and PS II.",
+        "D": "Cyclic photophosphorylation involves both PS I and PS II."
+      },
+      "correct_option": "D",
+      "explanation": "Cyclic photophosphorylation involves ONLY PS I (not PS II). Only ATP is produced, no NADPH or O2 released."
+    },
+    {
+      "id": "BIO_2021_147",
+      "section": "Botany",
+      "question": "Which statement is correct?",
+      "options": {
+        "A": "Fusion of two cells is called Karyogamy.",
+        "B": "Fusion of protoplasms between two gametes is called plasmogamy.",
+        "C": "Organisms that depend on living plants are called saprophytes.",
+        "D": "Some organisms can fix atmospheric nitrogen in specialized sheath cells."
+      },
+      "correct_option": "B",
+      "explanation": "Plasmogamy is the fusion of cytoplasm (protoplasm) of two cells. Karyogamy is fusion of nuclei. Organisms on living plants are parasites. Nitrogen fixation occurs in heterocysts (not sheath cells)."
+    },
+    {
+      "id": "BIO_2021_148",
+      "section": "Botany",
+      "question": "Match: (a) Protein, (b) Unsaturated fatty acid, (c) Nucleic acid, (d) Polysaccharide with (i) C=C double bonds, (ii) Phosphodiester bonds, (iii) Glycosidic bonds, (iv) Peptide bonds",
+      "options": {
+        "A": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "B": "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+        "C": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "D": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+      },
+      "correct_option": "A",
+      "explanation": "Protein → Peptide bonds. Unsaturated fatty acid → C=C double bonds. Nucleic acid → Phosphodiester bonds. Polysaccharide → Glycosidic bonds."
+    },
+    {
+      "id": "BIO_2021_149",
+      "section": "Botany",
+      "question": "DNA fingerprinting involves identifying differences in specific regions of DNA sequence called:",
+      "options": {
+        "A": "Satellite DNA",
+        "B": "Repetitive DNA",
+        "C": "Single nucleotides",
+        "D": "Polymorphic DNA"
+      },
+      "correct_option": "B",
+      "explanation": "DNA fingerprinting uses Variable Number Tandem Repeats (VNTRs) which are repetitive DNA sequences that vary between individuals."
+    },
+    {
+      "id": "BIO_2021_150",
+      "section": "Botany",
+      "question": "Match: (a) Nitrococcus, (b) Rhizobium, (c) Thiobacillus, (d) Nitrobacter with (i) Denitrification, (ii) Conversion of ammonia to nitrite, (iii) Conversion of nitrite to nitrate, (iv) Conversion of atmospheric nitrogen to ammonia",
+      "options": {
+        "A": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "B": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "C": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "D": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      },
+      "correct_option": "A",
+      "explanation": "Nitrococcus → NH3 to NO2⁻ (nitrification). Rhizobium → N2 to NH3 (nitrogen fixation). Thiobacillus → denitrification. Nitrobacter → NO2⁻ to NO3⁻."
+    },
+    {
+      "id": "BIO_2021_151",
+      "section": "Zoology",
+      "question": "A specific recognition sequence identified by endonucleases to make cuts at specific positions within DNA is:",
+      "options": {
+        "A": "Degenerate primer sequence",
+        "B": "Okazaki sequences",
+        "C": "Palindromic Nucleotide sequences",
+        "D": "Poly(A) tail sequences"
+      },
+      "correct_option": "C",
+      "explanation": "Restriction endonucleases recognize palindromic nucleotide sequences (sequences that read the same on both strands in 5'→3' direction) to cut DNA."
+    },
+    {
+      "id": "BIO_2021_152",
+      "section": "Zoology",
+      "question": "Fruit fly has 2n=8. If chromosomes at G1 phase = 8, what is the number after S phase?",
+      "options": {
+        "A": "8",
+        "B": "16",
+        "C": "4",
+        "D": "32"
+      },
+      "correct_option": "A",
+      "explanation": "During S phase, DNA is replicated but chromosome number does NOT change. Each chromosome becomes two sister chromatids joined at centromere. Chromosome count remains 8."
+    },
+    {
+      "id": "BIO_2021_153",
+      "section": "Zoology",
+      "question": "Which one belongs to family Muscidae?",
+      "options": {
+        "A": "Fire fly",
+        "B": "Grasshopper",
+        "C": "Cockroach",
+        "D": "House fly"
+      },
+      "correct_option": "D",
+      "explanation": "House fly (Musca domestica) belongs to family Muscidae, order Diptera."
+    },
+    {
+      "id": "BIO_2021_154",
+      "section": "Zoology",
+      "question": "Succus entericus is referred to as:",
+      "options": {
+        "A": "Pancreatic juice",
+        "B": "Intestinal juice",
+        "C": "Gastric juice",
+        "D": "Chyme"
+      },
+      "correct_option": "B",
+      "explanation": "Succus entericus is the intestinal juice secreted by glands in the wall of the small intestine."
+    },
+    {
+      "id": "BIO_2021_155",
+      "section": "Zoology",
+      "question": "Regarding insulin, choose correct options: (a) C-peptide absent in mature insulin, (b) Insulin by rDNA technology has C-peptide, (c) Pro-insulin has C-peptide, (d) A and B peptides connected by disulphide bridges.",
+      "options": {
+        "A": "(b) and (d) only",
+        "B": "(b) and (c) only",
+        "C": "(a), (c) and (d) only",
+        "D": "(a) and (d) only"
+      },
+      "correct_option": "C",
+      "explanation": "(a) Mature insulin lacks C-peptide ✓. (b) rDNA insulin does NOT have C-peptide (proinsulin is processed) ✗. (c) Pro-insulin has C-peptide ✓. (d) A and B chains connected by disulphide bonds ✓."
+    },
+    {
+      "id": "BIO_2021_156",
+      "section": "Zoology",
+      "question": "Persons with 'AB' blood group are called 'Universal recipients'. This is due to:",
+      "options": {
+        "A": "Absence of antigens A and B on RBC surface",
+        "B": "Absence of antigens A and B in plasma",
+        "C": "Presence of antibodies anti-A and anti-B on RBCs",
+        "D": "Absence of antibodies anti-A and anti-B in plasma"
+      },
+      "correct_option": "D",
+      "explanation": "AB blood group individuals have no antibodies (anti-A, anti-B) in their plasma. So they can receive blood of any group without agglutination."
+    },
+    {
+      "id": "BIO_2021_157",
+      "section": "Zoology",
+      "question": "Cross between male and female both heterozygous for sickle cell anaemia. Percentage of diseased progeny is:",
+      "options": {
+        "A": "50%",
+        "B": "75%",
+        "C": "25%",
+        "D": "100%"
+      },
+      "correct_option": "C",
+      "explanation": "Cross: Ss × Ss → 1SS : 2Ss : 1ss. Only ss is diseased = 25% of progeny."
+    },
+    {
+      "id": "BIO_2021_158",
+      "section": "Zoology",
+      "question": "Which enzyme converts inactive fibrinogen to fibrin?",
+      "options": {
+        "A": "Thrombin",
+        "B": "Renin",
+        "C": "Epinephrine",
+        "D": "Thrombokinase"
+      },
+      "correct_option": "A",
+      "explanation": "Thrombin (formed from prothrombin by thrombokinase) converts soluble fibrinogen to insoluble fibrin threads during blood clotting."
+    },
+    {
+      "id": "BIO_2021_159",
+      "section": "Zoology",
+      "question": "Partial pressures (mm Hg) of O2 and CO2 at alveoli (site of diffusion) are:",
+      "options": {
+        "A": "pO2 = 104, pCO2 = 40",
+        "B": "pO2 = 40, pCO2 = 45",
+        "C": "pO2 = 95, pCO2 = 40",
+        "D": "pO2 = 159, pCO2 = 0.3"
+      },
+      "correct_option": "A",
+      "explanation": "At alveoli: pO2 = 104 mmHg (high, for diffusion into blood) and pCO2 = 40 mmHg (lower than venous blood pCO2 of 45)."
+    },
+    {
+      "id": "BIO_2021_160",
+      "section": "Zoology",
+      "question": "Chronic auto immune disorder affecting neuromuscular junction causing fatigue, weakening and paralysis of skeletal muscle is:",
+      "options": {
+        "A": "Arthritis",
+        "B": "Muscular dystrophy",
+        "C": "Myasthenia gravis",
+        "D": "Gout"
+      },
+      "correct_option": "C",
+      "explanation": "Myasthenia gravis is an autoimmune disease where antibodies attack acetylcholine receptors at neuromuscular junction, causing muscle weakness and fatigue."
+    },
+    {
+      "id": "BIO_2021_161",
+      "section": "Zoology",
+      "question": "The 'only enzyme' that catalyses initiation, elongation and termination in transcription in prokaryotes is:",
+      "options": {
+        "A": "DNA dependent DNA polymerase",
+        "B": "DNA dependent RNA polymerase",
+        "C": "DNA Ligase",
+        "D": "DNase"
+      },
+      "correct_option": "B",
+      "explanation": "In prokaryotes, a single DNA-dependent RNA polymerase performs all three steps (initiation, elongation, termination) of transcription."
+    },
+    {
+      "id": "BIO_2021_162",
+      "section": "Zoology",
+      "question": "Which RNA is NOT required for synthesis of protein?",
+      "options": {
+        "A": "mRNA",
+        "B": "tRNA",
+        "C": "rRNA",
+        "D": "siRNA"
+      },
+      "correct_option": "D",
+      "explanation": "siRNA (small interfering RNA) is involved in RNA interference/gene silencing, not in protein synthesis. mRNA, tRNA, and rRNA are all required for translation."
+    },
+    {
+      "id": "BIO_2021_163",
+      "section": "Zoology",
+      "question": "Which is an example of a hormone-releasing IUD?",
+      "options": {
+        "A": "CuT",
+        "B": "LNG 20",
+        "C": "Cu 7",
+        "D": "Multiload 375"
+      },
+      "correct_option": "B",
+      "explanation": "LNG 20 (Levonorgestrel-releasing IUD) is a hormone-releasing IUD. CuT, Cu7, and Multiload 375 are copper-releasing IUDs."
+    },
+    {
+      "id": "BIO_2021_164",
+      "section": "Zoology",
+      "question": "If Adenine makes 30% of a DNA molecule, percentages of Thymine, Guanine and Cytosine are:",
+      "options": {
+        "A": "T:20, G:30, C:20",
+        "B": "T:20, G:20, C:30",
+        "C": "T:30, G:20, C:20",
+        "D": "T:20, G:25, C:25"
+      },
+      "correct_option": "C",
+      "explanation": "By Chargaff's rule: A=T=30%. G+C = 100-60 = 40%, so G=C=20%. T=30, G=20, C=20."
+    },
+    {
+      "id": "BIO_2021_165",
+      "section": "Zoology",
+      "question": "Match: (a) Aspergillus niger, (b) Acetobacter aceti, (c) Clostridium butylicum, (d) Lactobacillus with products (i) Acetic acid, (ii) Lactic acid, (iii) Citric acid, (iv) Butyric acid",
+      "options": {
+        "A": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "B": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "C": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "D": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+      },
+      "correct_option": "A",
+      "explanation": "Aspergillus niger → Citric acid. Acetobacter aceti → Acetic acid. Clostridium butylicum → Butyric acid. Lactobacillus → Lactic acid."
+    },
+    {
+      "id": "BIO_2021_166",
+      "section": "Zoology",
+      "question": "Which statements are correct? (a) Metagenesis in Helminths, (b) Echinoderms are triploblastic and coelomate, (c) Round worms have organ-system level organization, (d) Comb plates in ctenophores help in digestion, (e) Water vascular system in Echinoderms.",
+      "options": {
+        "A": "(c), (d) and (e) are correct",
+        "B": "(a), (b) and (c) are correct",
+        "C": "(a), (d) and (e) are correct",
+        "D": "(b), (c) and (e) are correct"
+      },
+      "correct_option": "D",
+      "explanation": "(b) Echinoderms are triploblastic coelomates ✓. (c) Roundworms (Aschelminthes) have organ-system level ✓. (e) Water vascular system is characteristic of Echinoderms ✓. (a) Metagenesis is in Coelenterata not Helminths. (d) Comb plates aid in locomotion, not digestion."
+    },
+    {
+      "id": "BIO_2021_167",
+      "section": "Zoology",
+      "question": "Receptors for sperm binding in mammals are present on:",
+      "options": {
+        "A": "Corona radiata",
+        "B": "Vitelline membrane",
+        "C": "Perivitelline space",
+        "D": "Zona pellucida"
+      },
+      "correct_option": "D",
+      "explanation": "ZP3 glycoprotein on the Zona pellucida acts as receptor for sperm binding during fertilization in mammals."
+    },
+    {
+      "id": "BIO_2021_168",
+      "section": "Zoology",
+      "question": "Match: (a) Metamerism, (b) Canal system, (c) Comb plates, (d) Cnidoblasts with (i) Coelenterata, (ii) Ctenophora, (iii) Annelida, (iv) Porifera",
+      "options": {
+        "A": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "B": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "C": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "D": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+      },
+      "correct_option": "C",
+      "explanation": "Metamerism → Annelida. Canal system → Porifera. Comb plates → Ctenophora. Cnidoblasts (stinging cells) → Coelenterata."
+    },
+    {
+      "id": "BIO_2021_169",
+      "section": "Zoology",
+      "question": "Erythropoietin hormone stimulating RBC formation is produced by:",
+      "options": {
+        "A": "Alpha cells of pancreas",
+        "B": "Cells of rostral adenohypophysis",
+        "C": "Cells of bone marrow",
+        "D": "Juxtaglomerular cells of kidney"
+      },
+      "correct_option": "D",
+      "explanation": "Erythropoietin (EPO) is produced by juxtaglomerular cells of the kidney in response to low O2 levels, stimulating RBC production in bone marrow."
+    },
+    {
+      "id": "BIO_2021_170",
+      "section": "Zoology",
+      "question": "Venereal diseases can spread through: (a) Using sterile needles, (b) Blood transfusion from infected person, (c) Infected mother to foetus, (d) Kissing, (e) Inheritance",
+      "options": {
+        "A": "(a), (b) and (c) only",
+        "B": "(b), (c) and (d) only",
+        "C": "(b) and (c) only",
+        "D": "(a) and (c) only"
+      },
+      "correct_option": "C",
+      "explanation": "Venereal diseases spread through blood transfusion (b) and from infected mother to foetus through placenta (c). Sterile needles don't spread infection. Kissing is not a major route. STDs are not inherited."
+    },
+    {
+      "id": "BIO_2021_171",
+      "section": "Zoology",
+      "question": "Which characteristic is incorrect for cockroach?",
+      "options": {
+        "A": "Ring of gastric caeca at junction of midgut and hind gut.",
+        "B": "Hypopharynx lies within cavity enclosed by mouth parts.",
+        "C": "In females, 7th-9th sterna together form genital pouch.",
+        "D": "10th abdominal segment in both sexes bears pair of anal cerci."
+      },
+      "correct_option": "A",
+      "explanation": "In cockroach, gastric caeca (8 blind tubules) are present at the junction of FOREGUT and MIDGUT, not midgut and hindgut."
+    },
+    {
+      "id": "BIO_2021_172",
+      "section": "Zoology",
+      "question": "Match: (a) Physalia, (b) Limulus, (c) Ancylostoma, (d) Pinctada with (i) Pearl oyster, (ii) Portuguese Man of War, (iii) Living fossil, (iv) Hookworm",
+      "options": {
+        "A": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "B": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "C": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "D": "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
+      },
+      "correct_option": "C",
+      "explanation": "Physalia → Portuguese Man of War. Limulus → Living fossil (horseshoe crab). Ancylostoma → Hookworm. Pinctada → Pearl oyster."
+    },
+    {
+      "id": "BIO_2021_173",
+      "section": "Zoology",
+      "question": "Which organism bears hollow and pneumatic long bones?",
+      "options": {
+        "A": "Neophron",
+        "B": "Hemidactylus",
+        "C": "Macropus",
+        "D": "Ornithorhynchus"
+      },
+      "correct_option": "A",
+      "explanation": "Neophron (vulture/bird) has hollow pneumatic bones as an adaptation for flight. Hemidactylus = gecko, Macropus = kangaroo, Ornithorhynchus = platypus."
+    },
+    {
+      "id": "BIO_2021_174",
+      "section": "Zoology",
+      "question": "The centriole undergoes duplication during:",
+      "options": {
+        "A": "S-phase",
+        "B": "Prophase",
+        "C": "Metaphase",
+        "D": "G2 phase"
+      },
+      "correct_option": "A",
+      "explanation": "Centriole duplication (centriole cycle) occurs during S phase of interphase, concurrent with DNA replication."
+    },
+    {
+      "id": "BIO_2021_175",
+      "section": "Zoology",
+      "question": "During PCR, if very high temperature is not maintained in the beginning, which step will be affected first?",
+      "options": {
+        "A": "Annealing",
+        "B": "Extension",
+        "C": "Denaturation",
+        "D": "Ligation"
+      },
+      "correct_option": "C",
+      "explanation": "Denaturation (strand separation) is the first step of PCR requiring very high temperature (~94°C). Without high temperature, DNA strands won't separate."
+    },
+    {
+      "id": "BIO_2021_176",
+      "section": "Zoology",
+      "question": "Which is NOT an objective of Biofortification in crops?",
+      "options": {
+        "A": "Improve protein content",
+        "B": "Improve resistance to diseases",
+        "C": "Improve vitamin content",
+        "D": "Improve micronutrient and mineral content"
+      },
+      "correct_option": "B",
+      "explanation": "Biofortification aims to improve nutritional quality (proteins, vitamins, minerals). Disease resistance is an objective of plant breeding, not biofortification."
+    },
+    {
+      "id": "BIO_2021_177",
+      "section": "Zoology",
+      "question": "Dobson units are used to measure thickness of:",
+      "options": {
+        "A": "CFCs",
+        "B": "Stratosphere",
+        "C": "Ozone",
+        "D": "Troposphere"
+      },
+      "correct_option": "C",
+      "explanation": "Dobson units (DU) are the unit of measurement for the total amount of ozone in the atmosphere above a point on Earth's surface."
+    },
+    {
+      "id": "BIO_2021_178",
+      "section": "Zoology",
+      "question": "Sphincter of Oddi is present at:",
+      "options": {
+        "A": "Ileo-caecal junction",
+        "B": "Junction of hepato-pancreatic duct and duodenum",
+        "C": "Gastro-oesophageal junction",
+        "D": "Junction of jejunum and duodenum"
+      },
+      "correct_option": "B",
+      "explanation": "The Sphincter of Oddi regulates flow of bile and pancreatic juice from the common hepato-pancreatic duct into the duodenum."
+    },
+    {
+      "id": "BIO_2021_179",
+      "section": "Zoology",
+      "question": "Favourable conditions for formation of oxyhaemoglobin at alveoli are:",
+      "options": {
+        "A": "High pO2, low pCO2, less H⁺, lower temperature",
+        "B": "Low pO2, high pCO2, more H⁺, higher temperature",
+        "C": "High pO2, high pCO2, less H⁺, higher temperature",
+        "D": "Low pO2, low pCO2, more H⁺, higher temperature"
+      },
+      "correct_option": "A",
+      "explanation": "Oxyhaemoglobin formation is favoured by: high pO2 (at alveoli), low pCO2, low H⁺ (high pH), and lower temperature — all present at alveoli."
+    },
+    {
+      "id": "BIO_2021_180",
+      "section": "Zoology",
+      "question": "Identify the incorrect pair:",
+      "options": {
+        "A": "Alkaloids - Codeine",
+        "B": "Toxin - Abrin",
+        "C": "Lectins - Concanavalin A",
+        "D": "Drugs - Ricin"
+      },
+      "correct_option": "D",
+      "explanation": "Ricin is a TOXIN (from castor bean Ricinus communis), not a drug. Abrin is also a toxin. Codeine is an alkaloid. Concanavalin A is a lectin."
+    },
+    {
+      "id": "BIO_2021_181",
+      "section": "Zoology",
+      "question": "Which statement wrongly represents the nature of smooth muscle?",
+      "options": {
+        "A": "These muscles have no striations",
+        "B": "They are involuntary muscles",
+        "C": "Communication among cells is performed by intercalated discs",
+        "D": "These muscles are present in wall of blood vessels"
+      },
+      "correct_option": "C",
+      "explanation": "Intercalated discs are present in CARDIAC muscle, not smooth muscle. Smooth muscle cells communicate through gap junctions."
+    },
+    {
+      "id": "BIO_2021_182",
+      "section": "Zoology",
+      "question": "Which molecular diagnostic technique is very useful for early detection of disease?",
+      "options": {
+        "A": "Western Blotting Technique",
+        "B": "Southern Blotting Technique",
+        "C": "ELISA Technique",
+        "D": "Hybridization Technique"
+      },
+      "correct_option": "C",
+      "explanation": "ELISA (Enzyme Linked Immunosorbent Assay) is highly sensitive and useful for early diagnosis of diseases by detecting antigens or antibodies."
+    },
+    {
+      "id": "BIO_2021_183",
+      "section": "Zoology",
+      "question": "Match: (a) Vaults, (b) IUDs, (c) Vasectomy, (d) Tubectomy with (i) Entry of sperm through cervix blocked, (ii) Removal of Vas deferens, (iii) Phagocytosis of sperms within uterus, (iv) Removal of fallopian tube",
+      "options": {
+        "A": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "B": "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "C": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "D": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      },
+      "correct_option": "B",
+      "explanation": "Vaults → block entry of sperm through cervix. IUDs → increase phagocytosis of sperms in uterus. Vasectomy → removal/cutting of vas deferens. Tubectomy → removal/cutting of fallopian tube."
+    },
+    {
+      "id": "BIO_2021_184",
+      "section": "Zoology",
+      "question": "Organelles included in the endomembrane system are:",
+      "options": {
+        "A": "Endoplasmic reticulum, Mitochondria, Ribosomes and Lysosomes",
+        "B": "Endoplasmic reticulum, Golgi complex, Lysosomes and Vacuoles",
+        "C": "Golgi complex, Mitochondria, Ribosomes and Lysosomes",
+        "D": "Golgi complex, Endoplasmic reticulum, Mitochondria and Lysosomes"
+      },
+      "correct_option": "B",
+      "explanation": "Endomembrane system includes ER, Golgi complex, Lysosomes, Vacuoles, and nuclear envelope. Mitochondria and ribosomes are NOT part of it."
+    },
+    {
+      "id": "BIO_2021_185",
+      "section": "Zoology",
+      "question": "Which stage of meiotic prophase shows terminalisation of chiasmata as its distinctive feature?",
+      "options": {
+        "A": "Leptotene",
+        "B": "Zygotene",
+        "C": "Diakinesis",
+        "D": "Pachytene"
+      },
+      "correct_option": "C",
+      "explanation": "Diakinesis is characterized by terminalisation of chiasmata (chiasmata move towards ends of chromosomes) and condensation of bivalents."
+    },
+    {
+      "id": "BIO_2021_186",
+      "section": "Zoology",
+      "question": "Which is NOT an important component of initiation of parturition in humans?",
+      "options": {
+        "A": "Increase in estrogen and progesterone ratio",
+        "B": "Synthesis of prostaglandins",
+        "C": "Release of Oxytocin",
+        "D": "Release of Prolactin"
+      },
+      "correct_option": "D",
+      "explanation": "Prolactin is involved in lactation, not in initiation of parturition. Parturition is initiated by estrogen/progesterone ratio, prostaglandins, and oxytocin."
+    },
+    {
+      "id": "BIO_2021_187",
+      "section": "Zoology",
+      "question": "Which is NOT a step in Multiple Ovulation Embryo Transfer Technology (MOET)?",
+      "options": {
+        "A": "Cow administered hormone with LH-like activity for super ovulation",
+        "B": "Cow yields about 6-8 eggs at a time",
+        "C": "Cow is fertilized by artificial insemination",
+        "D": "Fertilized eggs transferred to surrogate mothers at 8-32 cell stage"
+      },
+      "correct_option": "A",
+      "explanation": "In MOET, the cow is given FSH-like hormones (not LH-like) for superovulation to produce multiple eggs."
+    },
+    {
+      "id": "BIO_2021_188",
+      "section": "Zoology",
+      "question": "Match: (a) Allen's Rule, (b) Physiological adaptation, (c) Behavioural adaptation, (d) Biochemical adaptation with (i) Kangaroo rat, (ii) Desert lizard, (iii) Marine fish at depth, (iv) Polar seal",
+      "options": {
+        "A": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "B": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "C": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "D": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      },
+      "correct_option": "C",
+      "explanation": "Allen's Rule (smaller appendages in cold) → Polar seal. Physiological → Kangaroo rat (concentrates urine). Behavioural → Desert lizard (burrowing). Biochemical → Marine fish at depth (pressure-stable enzymes)."
+    },
+    {
+      "id": "BIO_2021_189",
+      "section": "Zoology",
+      "question": "Assertion: Person at high altitude experiences 'altitude sickness' with breathing difficulty. Reason: Low atmospheric pressure at high altitude means insufficient oxygen.",
+      "options": {
+        "A": "Both A and R are true and R is correct explanation of A",
+        "B": "Both A and R are true but R is not correct explanation of A",
+        "C": "A is true but R is false",
+        "D": "A is false but R is true"
+      },
+      "correct_option": "A",
+      "explanation": "At high altitude, atmospheric pressure is low, so pO2 is low. Body doesn't get sufficient oxygen → altitude sickness symptoms. R correctly explains A."
+    },
+    {
+      "id": "BIO_2021_190",
+      "section": "Zoology",
+      "question": "Correct statements about lipids: (a) Lipids with only single bonds = unsaturated, (b) Lecithin is phospholipid, (c) Trihydroxy propane is glycerol, (d) Palmitic acid has 20 carbons, (e) Arachidonic acid has 16 carbons.",
+      "options": {
+        "A": "(a) and (b) only",
+        "B": "(c) and (d) only",
+        "C": "(b) and (c) only",
+        "D": "(b) and (e) only"
+      },
+      "correct_option": "C",
+      "explanation": "(a) Wrong - unsaturated FA has double bonds. (b) Lecithin is a phospholipid ✓. (c) Glycerol = 1,2,3-propanetriol (trihydroxy propane) ✓. (d) Wrong - palmitic acid has 16 carbons. (e) Wrong - arachidonic acid has 20 carbons."
+    },
+    {
+      "id": "BIO_2021_191",
+      "section": "Zoology",
+      "question": "Match: (a) Scapula, (b) Cranium, (c) Sternum, (d) Vertebral column with (i) Cartilaginous joints, (ii) Flat bone, (iii) Fibrous joints, (iv) Triangular flat bone",
+      "options": {
+        "A": "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "B": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "C": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "D": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      },
+      "correct_option": "D",
+      "explanation": "Scapula → triangular flat bone. Cranium → fibrous joints (sutures). Sternum → flat bone. Vertebral column → cartilaginous joints (intervertebral discs)."
+    },
+    {
+      "id": "BIO_2021_192",
+      "section": "Zoology",
+      "question": "Types of cell junctions that (1) stop leakage of substances and (2) facilitate communication via rapid transfer of ions/molecules respectively are:",
+      "options": {
+        "A": "Gap junctions and Adhering junctions",
+        "B": "Tight junctions and Gap junctions",
+        "C": "Adhering junctions and Tight junctions",
+        "D": "Adhering junctions and Gap junctions"
+      },
+      "correct_option": "B",
+      "explanation": "Tight junctions prevent leakage of substances between cells. Gap junctions allow rapid transfer of ions and molecules between adjacent cells."
+    },
+    {
+      "id": "BIO_2021_193",
+      "section": "Zoology",
+      "question": "Statement I: Codon 'AUG' codes for methionine and phenylalanine. Statement II: 'AAA' and 'AAG' both code for lysine.",
+      "options": {
+        "A": "Both Statement I and Statement II are true.",
+        "B": "Both Statement I and Statement II are false.",
+        "C": "Statement I is correct but Statement II is false.",
+        "D": "Statement I is incorrect but Statement II is true."
+      },
+      "correct_option": "D",
+      "explanation": "AUG codes for methionine (start codon) only, NOT phenylalanine (which is UUU/UUC). Statement I is false. AAA and AAG both code for lysine (degeneracy of code). Statement II is true."
+    },
+    {
+      "id": "BIO_2021_194",
+      "section": "Zoology",
+      "question": "Which secretes the hormone relaxin during later phase of pregnancy?",
+      "options": {
+        "A": "Graafian follicle",
+        "B": "Corpus luteum",
+        "C": "Foetus",
+        "D": "Uterus"
+      },
+      "correct_option": "B",
+      "explanation": "Corpus luteum secretes relaxin during later stages of pregnancy, which relaxes the pubic symphysis and helps in parturition."
+    },
+    {
+      "id": "BIO_2021_195",
+      "section": "Zoology",
+      "question": "Statements about prostomium of earthworm: (a) serves as covering for mouth, (b) helps open cracks in soil, (c) is a sensory structure, (d) is first body segment.",
+      "options": {
+        "A": "(a), (b) and (c) are correct",
+        "B": "(a), (b) and (d) are correct",
+        "C": "(a), (b), (c) and (d) are correct",
+        "D": "(b) and (c) are correct"
+      },
+      "correct_option": "A",
+      "explanation": "(a) Prostomium covers the mouth ✓. (b) It helps open soil cracks ✓. (c) It is a sensory lobe ✓. (d) It is NOT the first segment — it is a pre-segmental lobe. First segment is peristomium."
+    },
+    {
+      "id": "BIO_2021_196",
+      "section": "Zoology",
+      "question": "Which statement about Histones is WRONG?",
+      "options": {
+        "A": "Histones are organized to form a unit of 8 molecules.",
+        "B": "pH of histones is slightly acidic.",
+        "C": "Histones are rich in amino acids Lysine and Arginine.",
+        "D": "Histones carry positive charge in the side chain."
+      },
+      "correct_option": "B",
+      "explanation": "Histones are rich in basic amino acids (Lysine and Arginine), so they are BASIC in nature (alkaline pH), not acidic."
+    },
+    {
+      "id": "BIO_2021_197",
+      "section": "Zoology",
+      "question": "During muscular contraction which events occur? (a) H zone disappears, (b) A band widens, (c) I band reduces in width, (d) Myosin hydrolyzes ATP releasing ADP and Pi, (e) Z-lines attached to actins pulled inwards.",
+      "options": {
+        "A": "(a), (c), (d), (e) only",
+        "B": "(a), (b), (c), (d) only",
+        "C": "(b), (c), (d), (e) only",
+        "D": "(b), (d), (e), (a) only"
+      },
+      "correct_option": "A",
+      "explanation": "During contraction: H zone disappears ✓, A band remains CONSTANT (does not widen) ✗, I band reduces ✓, Myosin hydrolyzes ATP ✓, Z-lines pulled inward ✓. Option (b) is wrong as A band doesn't change."
+    },
+    {
+      "id": "BIO_2021_198",
+      "section": "Zoology",
+      "question": "Adenosine deaminase (ADA) deficiency results in:",
+      "options": {
+        "A": "Dysfunction of immune system",
+        "B": "Parkinson's disease",
+        "C": "Digestive disorder",
+        "D": "Addison's disease"
+      },
+      "correct_option": "A",
+      "explanation": "ADA deficiency causes SCID (Severe Combined Immunodeficiency Disease) — dysfunction of immune system. It was the first disease treated by gene therapy."
+    },
+    {
+      "id": "BIO_2021_199",
+      "section": "Zoology",
+      "question": "Match: (a) Adaptive radiation, (b) Convergent evolution, (c) Divergent evolution, (d) Evolution by anthropogenic action with (i) Selection of resistant varieties due to herbicides/pesticides, (ii) Bones of forelimbs in Man and Whale, (iii) Wings of Butterfly and Bird, (iv) Darwin Finches",
+      "options": {
+        "A": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "B": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "C": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "D": "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
+      },
+      "correct_option": "A",
+      "explanation": "Adaptive radiation → Darwin Finches. Convergent evolution → Wings of Butterfly and Bird (analogous organs). Divergent evolution → Forelimbs in Man and Whale (homologous organs). Anthropogenic → Herbicide/pesticide resistance."
+    },
+    {
+      "id": "BIO_2021_200",
+      "section": "Zoology",
+      "question": "Match: (a) Filariasis, (b) Amoebiasis, (c) Pneumonia, (d) Ringworm with (i) Haemophilus influenzae, (ii) Trichophyton, (iii) Wuchereria bancrofti, (iv) Entamoeba histolytica",
+      "options": {
+        "A": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "B": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "C": "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "D": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+      },
+      "correct_option": "B",
+      "explanation": "Filariasis → Wuchereria bancrofti. Amoebiasis → Entamoeba histolytica. Pneumonia → Haemophilus influenzae (also Streptococcus). Ringworm → Trichophyton (fungus)."
+    }
+  ]
+}
