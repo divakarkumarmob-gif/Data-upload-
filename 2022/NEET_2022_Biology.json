@@ -1,0 +1,1310 @@
+{
+  "exam": "NEET",
+  "year": 2022,
+  "subject": "Biology",
+  "date": "17-07-2022",
+  "code": "T2",
+  "sections": ["Botany", "Zoology"],
+  "questions": [
+    {
+      "id": "BIO_2022_101",
+      "section": "Botany",
+      "question": "Read statements about vascular bundles: (a) In roots, xylem/phloem alternate along different radii, (b) Conjoint closed bundles lack cambium, (c) In open bundles, cambium is between xylem and phloem, (d) Dicot stem possess endarch protoxylem, (e) Monocot root has more than six xylem bundles. Choose correct:",
+      "options": {
+        "A": "(b), (c), (d) and (e) only",
+        "B": "(a), (b), (c) and (d) only",
+        "C": "(a), (c), (d) and (e) only",
+        "D": "(a), (b) and (d) only"
+      },
+      "correct_option": "Bonus",
+      "explanation": "Officially declared Bonus. Note: (a) correct for roots - radial arrangement. (b) correct - closed = no cambium. (c) correct - open bundles have cambium. (d) incorrect - monocot stem has endarch. (e) correct for polyarch monocot roots."
+    },
+    {
+      "id": "BIO_2022_102",
+      "section": "Botany",
+      "question": "Identify correct set of statements about stem modifications: (a) Leaflets modified to hard thorns in Citrus/Bougainvillea, (b) Axillary buds form spirally coiled tendrils in cucumber/pumpkin, (c) Stem flattened/fleshy in Opuntia to perform leaf function, (d) Rhizophora shows vertically upward growing roots for O₂, (e) Subaerially growing stems in grasses/strawberry help vegetative propagation",
+      "options": {
+        "A": "(a) and (d) only",
+        "B": "(b), (c), (d) and (e) only",
+        "C": "(a), (b), (d) and (e) only",
+        "D": "(b) and (c) only"
+      },
+      "correct_option": "B",
+      "explanation": "(a) incorrect: thorns in Citrus are stem modifications, not leaflet modifications. (b) correct. (c) correct. (d) correct - pneumatophores of Rhizophora. (e) correct - stolons/runners."
+    },
+    {
+      "id": "BIO_2022_103",
+      "section": "Botany",
+      "question": "Appearance of recombination nodules on homologous chromosomes during meiosis characterizes:",
+      "options": {
+        "A": "Bivalent",
+        "B": "Sites at which crossing over occurs",
+        "C": "Terminalization",
+        "D": "Synaptonemal complex"
+      },
+      "correct_option": "B",
+      "explanation": "Recombination nodules appear on synaptonemal complex during pachytene and mark the sites where crossing over (recombination) actually occurs."
+    },
+    {
+      "id": "BIO_2022_104",
+      "section": "Botany",
+      "question": "Choose the set of correct statements: (a) Euchromatin is loosely packed, (b) Heterochromatin is transcriptionally active, (c) Histone octomer is wrapped by negatively charged DNA, (d) Histones rich in lysine and arginine, (e) A typical nucleosome contains 400 bp DNA helix",
+      "options": {
+        "A": "(a), (c), (d) only",
+        "B": "(b), (e) only",
+        "C": "(a), (c), (e) only",
+        "D": "(b), (d), (e) only"
+      },
+      "correct_option": "A",
+      "explanation": "(a) correct - euchromatin = loosely packed. (b) incorrect - heterochromatin is transcriptionally INACTIVE. (c) correct. (d) correct. (e) incorrect - nucleosome has ~200 bp (146 bp around octamer + linker)."
+    },
+    {
+      "id": "BIO_2022_105",
+      "section": "Botany",
+      "question": "Statement I: Primary CO₂ acceptor in C₄ plants is phosphoenolpyruvate found in mesophyll cells. Statement II: Mesophyll cells of C₄ plants lack RuBisCo enzyme.",
+      "options": {
+        "A": "Both Statement I and Statement II are incorrect",
+        "B": "Statement I is correct but Statement II is incorrect",
+        "C": "Statement I is incorrect but Statement II is correct",
+        "D": "Both Statement I and Statement II are correct"
+      },
+      "correct_option": "D",
+      "explanation": "Both correct. In C₄ plants: PEP (in mesophyll) is primary CO₂ acceptor forming OAA. RuBisCo is absent in mesophyll — it is only in bundle sheath cells."
+    },
+    {
+      "id": "BIO_2022_106",
+      "section": "Botany",
+      "question": "Identify the incorrect statement related to Pollination:",
+      "options": {
+        "A": "Pollination by wind is more common amongst abiotic pollination",
+        "B": "Flowers produce foul odours to attract flies and beetles to get pollinated",
+        "C": "Moths and butterflies are the most dominant pollinating agents among insects",
+        "D": "Pollination by water is quite rare in flowering plants"
+      },
+      "correct_option": "C",
+      "explanation": "Bees are the most dominant pollinating agents among insects, not moths and butterflies."
+    },
+    {
+      "id": "BIO_2022_107",
+      "section": "Botany",
+      "question": "Which statement is NOT TRUE regarding gel electrophoresis technique?",
+      "options": {
+        "A": "Separated DNA fragments are stained by using ethidium bromide.",
+        "B": "The presence of chromogenic substrate gives blue coloured DNA bands on the gel.",
+        "C": "Bright orange coloured bands of DNA can be observed when exposed to UV light.",
+        "D": "The process of extraction of separated DNA strands from gel is called elution."
+      },
+      "correct_option": "B",
+      "explanation": "Chromogenic substrate gives coloured bands in colony hybridisation (for recombinant identification), not in gel electrophoresis. DNA in gel stained with EtBr gives bright orange bands under UV."
+    },
+    {
+      "id": "BIO_2022_108",
+      "section": "Botany",
+      "question": "Habitat loss and fragmentation, over exploitation, alien species invasion and co-extinction are causes for:",
+      "options": {
+        "A": "Competition",
+        "B": "Biodiversity loss",
+        "C": "Natality",
+        "D": "Population explosion"
+      },
+      "correct_option": "B",
+      "explanation": "These four are the major causes of biodiversity loss as described by Edward Wilson."
+    },
+    {
+      "id": "BIO_2022_109",
+      "section": "Botany",
+      "question": "Production of Cucumber has increased due to application of which phytohormone known to produce female flowers?",
+      "options": {
+        "A": "Gibberellin",
+        "B": "Ethylene",
+        "C": "Cytokinin",
+        "D": "ABA"
+      },
+      "correct_option": "B",
+      "explanation": "Ethylene promotes femaleness in cucumber (increases female flower production), leading to increased fruit yield."
+    },
+    {
+      "id": "BIO_2022_110",
+      "section": "Botany",
+      "question": "Net gain of ATP when each molecule of glucose is converted to two molecules of pyruvic acid is:",
+      "options": {
+        "A": "Six",
+        "B": "Two",
+        "C": "Eight",
+        "D": "Four"
+      },
+      "correct_option": "B",
+      "explanation": "During glycolysis: 4 ATP produced - 2 ATP consumed = Net 2 ATP. Answer is officially 2 (or 3 per some sources). Official answer: (2, 3) = Bonus or 2."
+    },
+    {
+      "id": "BIO_2022_111",
+      "section": "Botany",
+      "question": "Statement I: Cleistogamous flowers are invariably autogamous. Statement II: Cleistogamy is disadvantageous as there is no chance for cross pollination.",
+      "options": {
+        "A": "Both Statement I and Statement II are incorrect",
+        "B": "Statement I is correct but Statement II is incorrect",
+        "C": "Statement I is incorrect but Statement II is correct",
+        "D": "Both Statement I and Statement II are correct"
+      },
+      "correct_option": "D",
+      "explanation": "Both correct. Cleistogamous flowers never open → always self-pollinated (autogamous). Disadvantage: no genetic variation through cross-pollination."
+    },
+    {
+      "id": "BIO_2022_112",
+      "section": "Botany",
+      "question": "Hydrocolloid carrageen is obtained from:",
+      "options": {
+        "A": "Phaeophyceae and Rhodophyceae",
+        "B": "Rhodophyceae only",
+        "C": "Phaeophyceae only",
+        "D": "Chlorophyceae and Phaeophyceae"
+      },
+      "correct_option": "B",
+      "explanation": "Carrageenan (hydrocolloid) is obtained from Rhodophyceae (red algae) like Chondrus crispus."
+    },
+    {
+      "id": "BIO_2022_113",
+      "section": "Botany",
+      "question": "'Girdling Experiment' was performed by Plant Physiologists to identify the plant tissue through which:",
+      "options": {
+        "A": "Food is transported",
+        "B": "Both water and food transportation",
+        "C": "Osmosis is observed",
+        "D": "Water is transported"
+      },
+      "correct_option": "A",
+      "explanation": "Girdling (ring barking) experiment removes phloem tissue → food accumulates above girdle → proves phloem transports food (organic solutes)."
+    },
+    {
+      "id": "BIO_2022_114",
+      "section": "Botany",
+      "question": "Which of the following is INCORRECTLY matched?",
+      "options": {
+        "A": "Ulothrix - Mannitol",
+        "B": "Porphyra - Floridian Starch",
+        "C": "Volvox - Starch",
+        "D": "Ectocarpus - Fucoxanthin"
+      },
+      "correct_option": "A",
+      "explanation": "Ulothrix is a green alga (Chlorophyceae) — its reserve food is Starch, NOT Mannitol. Mannitol is stored by brown algae (Phaeophyceae like Ectocarpus)."
+    },
+    {
+      "id": "BIO_2022_115",
+      "section": "Botany",
+      "question": "DNA polymorphism forms the basis of:",
+      "options": {
+        "A": "DNA finger printing",
+        "B": "Both genetic mapping and DNA finger printing",
+        "C": "Translation",
+        "D": "Genetic mapping"
+      },
+      "correct_option": "B",
+      "explanation": "DNA polymorphism (variation in DNA sequences) forms the basis of both DNA fingerprinting (forensics) and genetic mapping."
+    },
+    {
+      "id": "BIO_2022_116",
+      "section": "Botany",
+      "question": "Match: (a) Manganese, (b) Magnesium, (c) Boron, (d) Iron with (i) Activates enzyme catalase, (ii) Required for pollen germination, (iii) Activates enzymes of respiration, (iv) Functions in splitting of water during photosynthesis",
+      "options": {
+        "A": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "B": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "C": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "D": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      },
+      "correct_option": "A",
+      "explanation": "Manganese → splitting of water (photolysis) in PSII. Magnesium → activates enzyme catalase (and also central atom of chlorophyll). Boron → required for pollen germination. Iron → activates respiratory enzymes."
+    },
+    {
+      "id": "BIO_2022_117",
+      "section": "Botany",
+      "question": "Translation of mRNA to proteins begins as soon as:",
+      "options": {
+        "A": "The larger subunit of ribosome encounters mRNA",
+        "B": "Both the subunits join together to bind with mRNA",
+        "C": "The tRNA is activated and the larger subunit of ribosome encounters mRNA",
+        "D": "The small subunit of ribosome encounters mRNA"
+      },
+      "correct_option": "D",
+      "explanation": "Translation begins when the small (30S in prokaryotes) ribosomal subunit encounters and binds to mRNA at the ribosome binding site."
+    },
+    {
+      "id": "BIO_2022_118",
+      "section": "Botany",
+      "question": "Device which can remove particulate matter present in exhaust from thermal power plant is:",
+      "options": {
+        "A": "Incinerator",
+        "B": "Electrostatic Precipitator",
+        "C": "Catalytic Convertor",
+        "D": "STP"
+      },
+      "correct_option": "B",
+      "explanation": "Electrostatic Precipitator (ESP) removes particulate matter from industrial exhaust by charging particles and collecting them on oppositely charged plates."
+    },
+    {
+      "id": "BIO_2022_119",
+      "section": "Botany",
+      "question": "Flowers are Zygomorphic in: (a) Mustard, (b) Gulmohar, (c) Cassia, (d) Datura, (e) Chilly",
+      "options": {
+        "A": "(b), (c) only",
+        "B": "(d), (e) only",
+        "C": "(c), (d), (e) only",
+        "D": "(a), (b), (c) only"
+      },
+      "correct_option": "A",
+      "explanation": "Zygomorphic (bilaterally symmetrical): Gulmohar, Cassia. Mustard, Datura, Chilly are actinomorphic (radially symmetrical)."
+    },
+    {
+      "id": "BIO_2022_120",
+      "section": "Botany",
+      "question": "Assertion (A): PCR is used in DNA amplification. Reason (R): Ampicillin resistant gene is used as selectable marker to check transformation.",
+      "options": {
+        "A": "Both A and R are correct but R is not correct explanation of A",
+        "B": "A is correct but R is not correct",
+        "C": "A is not correct but R is correct",
+        "D": "Both A and R are correct and R is correct explanation of A"
+      },
+      "correct_option": "A",
+      "explanation": "A is correct (PCR amplifies DNA). R is also correct (ampR gene is selectable marker). But R has nothing to do with PCR — they are unrelated facts. R is not correct explanation of A."
+    },
+    {
+      "id": "BIO_2022_121",
+      "section": "Botany",
+      "question": "Which statement cannot be connected to Predation?",
+      "options": {
+        "A": "It might lead to extinction of a species",
+        "B": "Both the interacting species are negatively impacted",
+        "C": "It is necessitated by nature to maintain the ecological balance",
+        "D": "It helps in maintaining species diversity in a community"
+      },
+      "correct_option": "B",
+      "explanation": "In predation, one species benefits (+) and the other is harmed (-). It is NOT (-/-) interaction. Both being negatively impacted is competition, not predation."
+    },
+    {
+      "id": "BIO_2022_122",
+      "section": "Botany",
+      "question": "Which one of the following NEVER occurs during mitotic cell division?",
+      "options": {
+        "A": "Movement of centrioles towards opposite poles",
+        "B": "Pairing of homologous chromosomes",
+        "C": "Coiling and condensation of the chromatids",
+        "D": "Spindle fibres attach to kinetochores of chromosomes"
+      },
+      "correct_option": "B",
+      "explanation": "Pairing of homologous chromosomes (synapsis) occurs only in meiosis-I (zygotene stage), NEVER during mitosis."
+    },
+    {
+      "id": "BIO_2022_123",
+      "section": "Botany",
+      "question": "Which is NOT a method of ex situ conservation?",
+      "options": {
+        "A": "National Parks",
+        "B": "Micropropagation",
+        "C": "Cryopreservation",
+        "D": "In vitro fertilization"
+      },
+      "correct_option": "A",
+      "explanation": "National Parks are in situ conservation (conservation in natural habitat). Micropropagation, cryopreservation, and in vitro fertilization are ex situ methods."
+    },
+    {
+      "id": "BIO_2022_124",
+      "section": "Botany",
+      "question": "Statement I: Mendel studied seven pairs of contrasting traits in pea plants and proposed Laws of Inheritance. Statement II: Seven characters examined were seed shape/colour, flower colour, pod shape/colour, flower position and stem height.",
+      "options": {
+        "A": "Both Statement I and Statement II are incorrect",
+        "B": "Statement I is correct but Statement II is incorrect",
+        "C": "Statement I is incorrect but Statement II is correct",
+        "D": "Both Statement I and Statement II are correct"
+      },
+      "correct_option": "D",
+      "explanation": "Both correct. Mendel did study 7 pairs of contrasting traits in pea plants, exactly as listed in Statement II."
+    },
+    {
+      "id": "BIO_2022_125",
+      "section": "Botany",
+      "question": "Which plant does NOT show plasticity?",
+      "options": {
+        "A": "Coriander",
+        "B": "Buttercup",
+        "C": "Maize",
+        "D": "Cotton"
+      },
+      "correct_option": "C",
+      "explanation": "Maize is a monocot with more fixed developmental pattern. Coriander (heterophylly), Buttercup (aquatic/terrestrial leaf difference), and Cotton show plasticity in leaf morphology."
+    },
+    {
+      "id": "BIO_2022_126",
+      "section": "Botany",
+      "question": "Amount of energy released from glucose during lactic acid fermentation is:",
+      "options": {
+        "A": "More than 18%",
+        "B": "About 10%",
+        "C": "Less than 7%",
+        "D": "Approximately 15%"
+      },
+      "correct_option": "C",
+      "explanation": "Lactic acid fermentation: glucose → 2 lactic acid + 2 ATP. Only 2 ATP from 686 kcal (total energy of glucose) = less than 7% efficiency."
+    },
+    {
+      "id": "BIO_2022_127",
+      "section": "Botany",
+      "question": "The gaseous plant growth regulator is used in plants to:",
+      "options": {
+        "A": "Promote root growth and root hair formation",
+        "B": "Help overcome apical dominance",
+        "C": "Kill dicotyledonous weeds in the fields",
+        "D": "Speed up the malting process"
+      },
+      "correct_option": "A",
+      "explanation": "Ethylene (gaseous PGR) promotes root growth and root hair formation. It also promotes ripening, abscission, and femaleness."
+    },
+    {
+      "id": "BIO_2022_128",
+      "section": "Botany",
+      "question": "Which is NOT observed during apoplastic pathway?",
+      "options": {
+        "A": "The movement does not involve crossing of cell membrane",
+        "B": "The movement is aided by cytoplasmic streaming",
+        "C": "Apoplast is continuous and does not provide any barrier to water movement",
+        "D": "Movement of water occurs through intercellular spaces and wall of cells"
+      },
+      "correct_option": "B",
+      "explanation": "Cytoplasmic streaming aids symplastic transport, NOT apoplastic. In apoplastic pathway, water moves through cell walls and intercellular spaces (non-living components) without crossing cell membranes."
+    },
+    {
+      "id": "BIO_2022_129",
+      "section": "Botany",
+      "question": "Which is NOT TRUE regarding the release of energy during ATP synthesis through chemiosmosis?",
+      "options": {
+        "A": "Breakdown of electron gradient",
+        "B": "Movement of protons across the membrane to the stroma",
+        "C": "Reduction of NADP to NADPH₂ on the stroma side",
+        "D": "Breakdown of proton gradient"
+      },
+      "correct_option": "A",
+      "explanation": "Chemiosmosis involves breakdown of PROTON (H⁺) gradient (not electron gradient) to synthesize ATP via ATP synthase. Electron gradient is different — electrons move in ETC."
+    },
+    {
+      "id": "BIO_2022_130",
+      "section": "Botany",
+      "question": "Which plant shows vexillary aestivation and diadelphous stamens?",
+      "options": {
+        "A": "Pisum sativum",
+        "B": "Allium cepa",
+        "C": "Solanum nigrum",
+        "D": "Colchicum autumnale"
+      },
+      "correct_option": "A",
+      "explanation": "Pisum sativum (pea): Fabaceae family — shows vexillary aestivation (papilionaceous corolla) and diadelphous stamens (9+1)."
+    },
+    {
+      "id": "BIO_2022_131",
+      "section": "Botany",
+      "question": "Statement I: Decomposition is process where detritus is degraded into simpler substances by microbes. Statement II: Decomposition is faster if detritus is rich in lignin and chitin.",
+      "options": {
+        "A": "Both Statement I and Statement II are incorrect",
+        "B": "Statement I is correct but Statement II is incorrect",
+        "C": "Statement I is incorrect but Statement II is correct",
+        "D": "Both Statement I and Statement II are correct"
+      },
+      "correct_option": "B",
+      "explanation": "Statement I correct. Statement II incorrect: detritus rich in lignin and chitin decomposes SLOWER (they are resistant to microbial degradation)."
+    },
+    {
+      "id": "BIO_2022_132",
+      "section": "Botany",
+      "question": "Which produces nitrogen fixing nodules on roots of Alnus?",
+      "options": {
+        "A": "Frankia",
+        "B": "Rhodospirillum",
+        "C": "Beijernickia",
+        "D": "Rhizobium"
+      },
+      "correct_option": "A",
+      "explanation": "Frankia (actinomycete) forms nitrogen-fixing nodules on roots of non-leguminous plants like Alnus (alder trees)."
+    },
+    {
+      "id": "BIO_2022_133",
+      "section": "Botany",
+      "question": "Exoskeleton of arthropods is composed of:",
+      "options": {
+        "A": "Cellulose",
+        "B": "Chitin",
+        "C": "Glucosamine",
+        "D": "Cutin"
+      },
+      "correct_option": "B",
+      "explanation": "Exoskeleton of arthropods is composed of Chitin (a polysaccharide of N-acetylglucosamine units)."
+    },
+    {
+      "id": "BIO_2022_134",
+      "section": "Botany",
+      "question": "XO type of sex determination can be found in:",
+      "options": {
+        "A": "Birds",
+        "B": "Grasshoppers",
+        "C": "Monkeys",
+        "D": "Drosophila"
+      },
+      "correct_option": "B",
+      "explanation": "XO type sex determination: females = XX, males = XO (no Y chromosome). Found in grasshoppers (Acrididae). Drosophila has XY type."
+    },
+    {
+      "id": "BIO_2022_135",
+      "section": "Botany",
+      "question": "In old trees, secondary xylem is dark brown and resistant to insect attack due to: (a) secretion of secondary metabolites deposited in vessel lumen, (b) deposition of tannins/resins in central layers, (c) deposition of suberin in outer layer, (d) deposition of tannins/gum/resin in peripheral layers, (e) presence of parenchyma and essential oils",
+      "options": {
+        "A": "(c) and (d) only",
+        "B": "(d) and (e) only",
+        "C": "(b) and (d) only",
+        "D": "(a) and (b) only"
+      },
+      "correct_option": "D",
+      "explanation": "Heartwood is dark due to secondary metabolites (tannins, resins, gums) deposited in the lumen of vessel elements (a) and in central layers of stem (b)."
+    },
+    {
+      "id": "BIO_2022_136",
+      "section": "Botany",
+      "question": "Match List-I (chromosome type) with List-II (centromere position): (a) Metacentric, (b) Acrocentric, (c) Sub-metacentric, (d) Telocentric",
+      "options": {
+        "A": "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "B": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "C": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "D": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      },
+      "correct_option": "D",
+      "explanation": "Metacentric → centromere in middle, two equal arms (iii). Acrocentric → centromere close to end, one very short + one very long arm (i). Sub-metacentric → centromere slightly off-centre, one shorter + one longer (iv). Telocentric → centromere at terminal end (ii)."
+    },
+    {
+      "id": "BIO_2022_137",
+      "section": "Botany",
+      "question": "Delhi buses converted from diesel to CNG. Which statement is FALSE?",
+      "options": {
+        "A": "Same diesel engine used in CNG buses making conversion cost low",
+        "B": "It is cheaper than diesel",
+        "C": "It cannot be adulterated like diesel",
+        "D": "CNG burns more efficiently than diesel"
+      },
+      "correct_option": "A",
+      "explanation": "CNG requires a different engine (or significant modification). The same diesel engine CANNOT be directly used for CNG. This statement is false."
+    },
+    {
+      "id": "BIO_2022_138",
+      "section": "Botany",
+      "question": "Correct statements about lipids: (a) Lecithin in plasma membrane is glycolipid, (b) Saturated fatty acids have c=c bonds, (c) Gingely oil has lower MP hence remains oil in winter, (d) Lipids insoluble in water but soluble in organic solvents, (e) Fatty acid esterified with glycerol forms monoglycerides",
+      "options": {
+        "A": "(a), (d) and (e) only",
+        "B": "(c), (d) and (e) only",
+        "C": "(a), (b) and (d) only",
+        "D": "(a), (b) and (c) only"
+      },
+      "correct_option": "B",
+      "explanation": "(a) Incorrect: Lecithin is PHOSPHOLIPID, not glycolipid. (b) Incorrect: UNSATURATED fatty acids have C=C bonds. (c) Correct: lower MP → liquid at room temperature. (d) Correct. (e) Correct: one fatty acid + glycerol = monoglyceride."
+    },
+    {
+      "id": "BIO_2022_139",
+      "section": "Botany",
+      "question": "Identify correct statements about springwood: (a) Also called earlywood, (b) In spring cambium produces xylem with narrow vessels, (c) Lighter in colour, (d) Shows alternate concentric rings with autumnwood forming annual rings, (e) Has lower density",
+      "options": {
+        "A": "(a), (c), (d) and (e) only",
+        "B": "(a), (b) and (d) only",
+        "C": "(c), (d) and (e) only",
+        "D": "(a), (b), (d) and (e) only"
+      },
+      "correct_option": "A",
+      "explanation": "(a) correct. (b) incorrect: springwood has WIDER vessels (favourable season → more water conducting). (c) correct: lighter in colour. (d) correct. (e) correct: lower density."
+    },
+    {
+      "id": "BIO_2022_140",
+      "section": "Botany",
+      "question": "Transposons can be used during which of the following?",
+      "options": {
+        "A": "Gene silencing",
+        "B": "Autoradiography",
+        "C": "Gene sequencing",
+        "D": "Polymerase Chain Reaction"
+      },
+      "correct_option": "A",
+      "explanation": "Transposons can be used in gene silencing (insertional mutagenesis disrupts gene expression). They are used as tools to study gene function."
+    },
+    {
+      "id": "BIO_2022_141",
+      "section": "Botany",
+      "question": "Assertion (A): Mendel's law of Independent Assortment does not hold for genes located closely on same chromosome. Reason (R): Closely located genes assort independently.",
+      "options": {
+        "A": "Both A and R are correct but R is not correct explanation of A",
+        "B": "A is correct but R is not correct",
+        "C": "A is not correct but R is correct",
+        "D": "Both A and R are correct and R is correct explanation of A"
+      },
+      "correct_option": "B",
+      "explanation": "A is correct: linked genes (closely located) do NOT assort independently. R is INCORRECT: closely located genes show linkage, they do NOT assort independently."
+    },
+    {
+      "id": "BIO_2022_142",
+      "section": "Botany",
+      "question": "In palindromic base sequences of DNA, which can be cut by a restriction enzyme?",
+      "options": {
+        "A": "5' GAATTC 3' / 3' CTTAAG 5'",
+        "B": "5' CTCAGT 3' / 3' GAGTCA 5'",
+        "C": "5' GTATTC 3' / 3' CATAAG 5'",
+        "D": "5' GATACT 3' / 3' CTATGA 5'"
+      },
+      "correct_option": "A",
+      "explanation": "5'GAATTC3' / 3'CTTAAG5' is a true palindromic sequence (reads same on both strands 5'→3'). This is the recognition site of EcoRI."
+    },
+    {
+      "id": "BIO_2022_143",
+      "section": "Botany",
+      "question": "Which will accelerate phosphorus cycle?",
+      "options": {
+        "A": "Volcanic activity",
+        "B": "Weathering of rocks",
+        "C": "Rainfall and storms",
+        "D": "Burning of fossil fuels"
+      },
+      "correct_option": "B",
+      "explanation": "Phosphorus cycle does not have gaseous phase. Main reservoir is rocks. Weathering of rocks releases phosphates into the ecosystem, accelerating the phosphorus cycle."
+    },
+    {
+      "id": "BIO_2022_144",
+      "section": "Botany",
+      "question": "Match plant with life cycle type: (a) Spirogyra, (b) Fern, (c) Funaria, (d) Cycas",
+      "options": {
+        "A": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "B": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "C": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "D": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+      },
+      "correct_option": "A",
+      "explanation": "Spirogyra → dominant haploid free-living gametophyte (ii). Fern → dominant diploid sporophyte alternating with prothallus gametophyte (iii). Funaria → dominant diploid sporophyte alternating with reduced gametophyte (iv). Wait — official ans is (1): Spirogyra-(ii), Fern-(iii), Funaria-(iv), Cycas-(i)."
+    },
+    {
+      "id": "BIO_2022_145",
+      "section": "Botany",
+      "question": "In interspecific interaction, (+) = beneficial, (-) = detrimental, (0) = neutral. Which interaction is (+) for one and (-) for other?",
+      "options": {
+        "A": "Amensalism",
+        "B": "Commensalism",
+        "C": "Competition",
+        "D": "Predation"
+      },
+      "correct_option": "D",
+      "explanation": "Predation: predator benefits (+), prey is harmed (-). (+/-) interaction."
+    },
+    {
+      "id": "BIO_2022_146",
+      "section": "Botany",
+      "question": "Addition of more solutes in a given solution will:",
+      "options": {
+        "A": "Lower its water potential",
+        "B": "Make its water potential zero",
+        "C": "Not affect the water potential at all",
+        "D": "Raise its water potential"
+      },
+      "correct_option": "A",
+      "explanation": "Water potential (Ψw) = Ψs + Ψp. Adding solutes decreases solute potential (Ψs becomes more negative) → overall water potential decreases (becomes more negative)."
+    },
+    {
+      "id": "BIO_2022_147",
+      "section": "Botany",
+      "question": "Which part of the fruit (labelled in figure) makes it a false fruit? (Parts: A=Mesocarp, B=Endocarp, C=Thalamus, D=Seed)",
+      "options": {
+        "A": "B → Endocarp",
+        "B": "C → Thalamus",
+        "C": "D → Seed",
+        "D": "A → Mesocarp"
+      },
+      "correct_option": "B",
+      "explanation": "False fruits (pseudocarps) develop from parts other than ovary. Thalamus (receptacle) contributes to the edible part in apple and strawberry, making them false fruits."
+    },
+    {
+      "id": "BIO_2022_148",
+      "section": "Botany",
+      "question": "Which occurs due to presence of autosome-linked dominant trait?",
+      "options": {
+        "A": "Myotonic dystrophy",
+        "B": "Haemophilia",
+        "C": "Thalassemia",
+        "D": "Sickle cell anaemia"
+      },
+      "correct_option": "A",
+      "explanation": "Myotonic dystrophy is caused by autosomal dominant mutation. Haemophilia = X-linked recessive. Thalassemia = autosomal recessive. Sickle cell = autosomal recessive."
+    },
+    {
+      "id": "BIO_2022_149",
+      "section": "Botany",
+      "question": "Geneticist uses 'blind approach' to sequence whole genome, then assigns function to segments. This methodology is:",
+      "options": {
+        "A": "Gene mapping",
+        "B": "Expressed sequence tags",
+        "C": "Bioinformatics",
+        "D": "Sequence annotation"
+      },
+      "correct_option": "D",
+      "explanation": "Sequence annotation is the process of identifying functional elements in a genome sequence and assigning biological information to them."
+    },
+    {
+      "id": "BIO_2022_150",
+      "section": "Botany",
+      "question": "Role of large bundle sheath cells around vascular bundles in C₄ plants is:",
+      "options": {
+        "A": "To increase number of chloroplasts for operation of Calvin cycle",
+        "B": "To enable plant to tolerate high temperature",
+        "C": "To protect vascular tissue from high light intensity",
+        "D": "To provide site for photorespiratory pathway"
+      },
+      "correct_option": "A",
+      "explanation": "Bundle sheath cells in C₄ plants have large chloroplasts rich in RuBisCo to perform Calvin cycle (C3 cycle). They are the site of carbon fixation via RuBisCo."
+    },
+    {
+      "id": "BIO_2022_151",
+      "section": "Zoology",
+      "question": "Nitrogenous waste is excreted in the form of pellet or paste by:",
+      "options": {
+        "A": "Salamandra",
+        "B": "Hippocampus",
+        "C": "Pavo",
+        "D": "Ornithorhynchus"
+      },
+      "correct_option": "C",
+      "explanation": "Pavo (peacock) is a bird. Birds excrete uric acid as semi-solid white paste/pellets to conserve water (uricotelic). Ornithorhynchus = platypus (ammoniotelic)."
+    },
+    {
+      "id": "BIO_2022_152",
+      "section": "Zoology",
+      "question": "Select the INCORRECT statement with reference to mitosis:",
+      "options": {
+        "A": "Spindle fibres attach to centromere of chromosomes.",
+        "B": "Chromosomes decondense at telophase.",
+        "C": "Splitting of centromere occurs at anaphase.",
+        "D": "All the chromosomes lie at the equator at metaphase."
+      },
+      "correct_option": "A",
+      "explanation": "Spindle fibres attach to KINETOCHORE (a protein complex on centromere), not directly to centromere. This is technically incorrect statement."
+    },
+    {
+      "id": "BIO_2022_153",
+      "section": "Zoology",
+      "question": "Assertion (A): Osteoporosis is characterised by decreased bone mass and increased chances of fractures. Reason (R): Common cause of osteoporosis is increased levels of estrogen.",
+      "options": {
+        "A": "Both A and R are correct but R is not correct explanation of A",
+        "B": "A is correct but R is not correct",
+        "C": "A is not correct but R is correct",
+        "D": "Both A and R are correct and R is correct explanation of A"
+      },
+      "correct_option": "B",
+      "explanation": "A is correct. R is incorrect: osteoporosis is caused by DECREASED estrogen levels (post-menopause), not increased levels."
+    },
+    {
+      "id": "BIO_2022_154",
+      "section": "Zoology",
+      "question": "Under normal physiological conditions, every 100 ml of oxygenated blood can deliver _____ ml of O₂ to tissues.",
+      "options": {
+        "A": "5 ml",
+        "B": "4 ml",
+        "C": "10 ml",
+        "D": "2 ml"
+      },
+      "correct_option": "A",
+      "explanation": "Every 100 ml oxygenated blood carries ~20 ml O₂. At tissues, ~5 ml O₂ is delivered (tissue pO₂ = 40 mmHg). So net delivery = 5 ml O₂ per 100 ml blood."
+    },
+    {
+      "id": "BIO_2022_155",
+      "section": "Zoology",
+      "question": "Dehydration reaction links two glucose molecules to produce maltose. If glucose formula is C₆H₁₂O₆, formula for maltose is:",
+      "options": {
+        "A": "C₁₂H₂₄O₁₂",
+        "B": "C₁₂H₂₂O₁₁",
+        "C": "C₁₂H₂₄O₁₁",
+        "D": "C₁₂H₂₀O₁₀"
+      },
+      "correct_option": "B",
+      "explanation": "2C₆H₁₂O₆ → C₁₂H₂₂O₁₁ + H₂O. Dehydration removes one water molecule → C₁₂H₂₂O₁₁."
+    },
+    {
+      "id": "BIO_2022_156",
+      "section": "Zoology",
+      "question": "In which animals does digestive tract have additional chambers like crop and gizzard?",
+      "options": {
+        "A": "Bufo, Balaenoptera, Bangarus",
+        "B": "Catla, Columba, Crocodilus",
+        "C": "Pavo, Psittacula, Corvus",
+        "D": "Corvus, Columba, Chameleon"
+      },
+      "correct_option": "C",
+      "explanation": "Crop and gizzard are present in birds. Pavo (peacock), Psittacula (parrot), Corvus (crow) are all birds → all have crop and gizzard."
+    },
+    {
+      "id": "BIO_2022_157",
+      "section": "Zoology",
+      "question": "Statement I: Release of sperms into seminiferous tubules is called spermiation. Statement II: Spermiogenesis is formation of sperms from spermatogonia.",
+      "options": {
+        "A": "Both Statement I and Statement II are incorrect",
+        "B": "Statement I is correct but Statement II is incorrect",
+        "C": "Statement I is incorrect but Statement II is correct",
+        "D": "Both Statement I and Statement II are correct"
+      },
+      "correct_option": "B",
+      "explanation": "Statement I correct: spermiation = release of spermatozoa from Sertoli cells into lumen of seminiferous tubules. Statement II incorrect: spermiogenesis = transformation of spermatids to spermatozoa (from spermatids, NOT spermatogonia)."
+    },
+    {
+      "id": "BIO_2022_158",
+      "section": "Zoology",
+      "question": "Natural selection where more individuals acquire specific character value other than the mean leads to:",
+      "options": {
+        "A": "Directional change",
+        "B": "Disruptive change",
+        "C": "Random change",
+        "D": "Stabilising change"
+      },
+      "correct_option": "A",
+      "explanation": "Directional selection: individuals with values above or below mean have higher fitness → population mean shifts in one direction over time."
+    },
+    {
+      "id": "BIO_2022_159",
+      "section": "Zoology",
+      "question": "Which statement is INCORRECT about Endoplasmic Reticulum?",
+      "options": {
+        "A": "SER is devoid of ribosomes",
+        "B": "In prokaryotes only RER are present",
+        "C": "SER are sites for lipid synthesis",
+        "D": "RER has ribosomes attached to ER"
+      },
+      "correct_option": "B",
+      "explanation": "Prokaryotes do NOT have any ER (neither RER nor SER). ER is a eukaryotic organelle."
+    },
+    {
+      "id": "BIO_2022_160",
+      "section": "Zoology",
+      "question": "Which is present between adjacent bones of the vertebral column?",
+      "options": {
+        "A": "Cartilage",
+        "B": "Areolar tissue",
+        "C": "Smooth muscle",
+        "D": "Intercalated discs"
+      },
+      "correct_option": "A",
+      "explanation": "Intervertebral discs (cartilaginous joints) are made of fibrocartilage and are present between adjacent vertebrae."
+    },
+    {
+      "id": "BIO_2022_161",
+      "section": "Zoology",
+      "question": "Which function is NOT performed by secretions from salivary glands?",
+      "options": {
+        "A": "Digestion of complex carbohydrates",
+        "B": "Lubrication of oral cavity",
+        "C": "Digestion of disaccharides",
+        "D": "Control bacterial population in mouth"
+      },
+      "correct_option": "C",
+      "explanation": "Salivary amylase digests starch (complex carbohydrate) to maltose. Salivary glands do NOT secrete disaccharidases (maltase, sucrase, lactase) — those come from intestinal glands."
+    },
+    {
+      "id": "BIO_2022_162",
+      "section": "Zoology",
+      "question": "In E.coli, i gene mutated so product cannot bind inducer molecule. Growth medium has lactose. What will be the outcome?",
+      "options": {
+        "A": "z, y, a genes will be transcribed",
+        "B": "z, y, a genes will not be translated",
+        "C": "RNA polymerase will bind the promoter region",
+        "D": "Only z gene will get transcribed"
+      },
+      "correct_option": "B",
+      "explanation": "i gene mutant repressor cannot bind inducer (allolactose) → repressor stays bound to operator → structural genes z, y, a are NOT transcribed (and thus not translated)."
+    },
+    {
+      "id": "BIO_2022_163",
+      "section": "Zoology",
+      "question": "Identify the asexual reproductive structure associated with Penicillium:",
+      "options": {
+        "A": "Conidia",
+        "B": "Gemmules",
+        "C": "Buds",
+        "D": "Zoospores"
+      },
+      "correct_option": "A",
+      "explanation": "Penicillium reproduces asexually by conidia (conidiospores) — chains of spores produced on specialised structures called conidiophores."
+    },
+    {
+      "id": "BIO_2022_164",
+      "section": "Zoology",
+      "question": "If the length of a DNA molecule is 1.1 metres, approximate number of base pairs is:",
+      "options": {
+        "A": "6.6 × 10⁹ bp",
+        "B": "3.3 × 10⁶ bp",
+        "C": "6.6 × 10⁶ bp",
+        "D": "3.3 × 10⁹ bp"
+      },
+      "correct_option": "D",
+      "explanation": "Distance per bp = 0.34 nm = 3.4 × 10⁻¹⁰ m. Number of bp = 1.1/(3.4 × 10⁻¹⁰) = 3.235 × 10⁹ ≈ 3.3 × 10⁹ bp."
+    },
+    {
+      "id": "BIO_2022_165",
+      "section": "Zoology",
+      "question": "Which is NOT a connective tissue?",
+      "options": {
+        "A": "Adipose tissue",
+        "B": "Cartilage",
+        "C": "Neuroglia",
+        "D": "Blood"
+      },
+      "correct_option": "C",
+      "explanation": "Neuroglia (glial cells) are part of nervous tissue, not connective tissue. Adipose tissue, cartilage, and blood are all connective tissues."
+    },
+    {
+      "id": "BIO_2022_166",
+      "section": "Zoology",
+      "question": "Statement I: Restriction endonucleases recognise specific palindromic nucleotide sequence to cut DNA. Statement II: Restriction endonucleases cut the DNA strand a little away from centre of palindromic site.",
+      "options": {
+        "A": "Both Statement I and Statement II are incorrect",
+        "B": "Statement I is correct but Statement II is incorrect",
+        "C": "Statement I is incorrect but Statement II is correct",
+        "D": "Both Statement I and Statement II are correct"
+      },
+      "correct_option": "D",
+      "explanation": "Both correct. Statement I correct. Statement II correct: most restriction enzymes cut at specific positions within or close to, but not exactly at centre of palindrome, creating sticky or blunt ends."
+    },
+    {
+      "id": "BIO_2022_167",
+      "section": "Zoology",
+      "question": "Detritivores breakdown detritus into smaller particles. This process is called:",
+      "options": {
+        "A": "Fragmentation",
+        "B": "Humification",
+        "C": "Decomposition",
+        "D": "Catabolism"
+      },
+      "correct_option": "A",
+      "explanation": "Fragmentation is the physical breakdown of detritus into smaller particles by detritivores (earthworms, millipedes, etc.), increasing surface area for microbial action."
+    },
+    {
+      "id": "BIO_2022_168",
+      "section": "Zoology",
+      "question": "Which statements are true for spermatogenesis but NOT for oogenesis? (a) Results in haploid gametes, (b) Differentiation after meiosis, (c) Meiosis occurs continuously in mitotically dividing stem cells, (d) Controlled by LH and FSH from anterior pituitary, (e) Initiated at puberty",
+      "options": {
+        "A": "(b) and (c) only",
+        "B": "(b), (d) and (e) only",
+        "C": "(b), (c) and (e) only",
+        "D": "(c) and (e) only"
+      },
+      "correct_option": "C",
+      "explanation": "(b) correct: in spermatogenesis, differentiation occurs after meiosis; in oogenesis, it begins before. (c) correct: spermatogenesis is continuous from puberty; oogenesis begins in fetal life. (e) correct: spermatogenesis starts at puberty; oogenesis starts in embryo."
+    },
+    {
+      "id": "BIO_2022_169",
+      "section": "Zoology",
+      "question": "Statement I: Fatty acids and glycerols cannot be absorbed into the blood. Statement II: Specialized lymphatic capillaries called lacteals carry chylomicrons into lymphatic vessels and ultimately into blood.",
+      "options": {
+        "A": "Both Statement I and Statement II are incorrect",
+        "B": "Statement I is correct but Statement II is incorrect",
+        "C": "Statement I is incorrect but Statement II is correct",
+        "D": "Both Statement I and Statement II are correct"
+      },
+      "correct_option": "D",
+      "explanation": "Both correct. Fatty acids and glycerol are absorbed into intestinal epithelium and repackaged as chylomicrons, which then enter lacteals (lymphatics) → thoracic duct → blood."
+    },
+    {
+      "id": "BIO_2022_170",
+      "section": "Zoology",
+      "question": "If 8 Drosophila in population of 80 died in a week, death rate is _____ individuals per Drosophila per week.",
+      "options": {
+        "A": "10",
+        "B": "1.0",
+        "C": "Zero",
+        "D": "0.1"
+      },
+      "correct_option": "D",
+      "explanation": "Death rate = number died / total population = 8/80 = 0.1 individuals per Drosophila per week."
+    },
+    {
+      "id": "BIO_2022_171",
+      "section": "Zoology",
+      "question": "Statement I: Coagulum is formed of network of threads called thrombins. Statement II: Spleen is the graveyard of erythrocytes.",
+      "options": {
+        "A": "Both Statement I and Statement II are incorrect",
+        "B": "Statement I is correct but Statement II is incorrect",
+        "C": "Statement I is incorrect but Statement II is correct",
+        "D": "Both Statement I and Statement II are correct"
+      },
+      "correct_option": "C",
+      "explanation": "Statement I incorrect: coagulum is made of fibrin threads (not thrombin). Thrombin is the enzyme that converts fibrinogen to fibrin. Statement II correct: spleen destroys old/damaged RBCs."
+    },
+    {
+      "id": "BIO_2022_172",
+      "section": "Zoology",
+      "question": "Tegmina in cockroach arises from:",
+      "options": {
+        "A": "Mesothorax",
+        "B": "Metathorax",
+        "C": "Prothorax and Mesothorax",
+        "D": "Prothorax"
+      },
+      "correct_option": "A",
+      "explanation": "In cockroach, tegmina (leathery forewings) arise from mesothorax. Membranous hindwings arise from metathorax."
+    },
+    {
+      "id": "BIO_2022_173",
+      "section": "Zoology",
+      "question": "Taxonomic categories in correct hierarchical ascending order in case of animals:",
+      "options": {
+        "A": "Kingdom, Class, Phylum, Family, Order, Genus, Species",
+        "B": "Kingdom, Order, Class, Phylum, Family, Genus, Species",
+        "C": "Kingdom, Order, Phylum, Class, Family, Genus, Species",
+        "D": "Kingdom, Phylum, Class, Order, Family, Genus, Species"
+      },
+      "correct_option": "D",
+      "explanation": "Correct descending order: Kingdom > Phylum > Class > Order > Family > Genus > Species. (Note: question asks ascending = Species to Kingdom, but answer key says option 4 which is actually descending order)."
+    },
+    {
+      "id": "BIO_2022_174",
+      "section": "Zoology",
+      "question": "Microorganism responsible for production of immunosuppressive molecule cyclosporin A:",
+      "options": {
+        "A": "Clostridium butylicum",
+        "B": "Aspergillus niger",
+        "C": "Streptococcus cerevisiae",
+        "D": "Trichoderma polysporum"
+      },
+      "correct_option": "D",
+      "explanation": "Cyclosporin A is produced by the fungus Trichoderma polysporum. It is used as an immunosuppressant in organ transplantation."
+    },
+    {
+      "id": "BIO_2022_175",
+      "section": "Zoology",
+      "question": "Which is NOT a function of the conducting part of respiratory system?",
+      "options": {
+        "A": "Inhaled air is humidified",
+        "B": "Temperature of inhaled air is brought to body temperature",
+        "C": "Provides surface for diffusion of O₂ and CO₂",
+        "D": "It clears inhaled air from foreign particles"
+      },
+      "correct_option": "C",
+      "explanation": "Gas exchange (diffusion of O₂ and CO₂) occurs in the alveoli (respiratory part), NOT in the conducting part (nasal cavity, trachea, bronchi)."
+    },
+    {
+      "id": "BIO_2022_176",
+      "section": "Zoology",
+      "question": "Lippe's loop is a type of contraceptive used as:",
+      "options": {
+        "A": "Vault barrier",
+        "B": "Non-Medicated IUD",
+        "C": "Copper releasing IUD",
+        "D": "Cervical barrier"
+      },
+      "correct_option": "B",
+      "explanation": "Lippe's loop is a non-medicated IUD (made of polyethylene). It does not release copper or hormones."
+    },
+    {
+      "id": "BIO_2022_177",
+      "section": "Zoology",
+      "question": "Assertion (A): All vertebrates are chordates but all chordates are not vertebrates. Reason (R): Notochord is replaced by vertebral column in adult vertebrates.",
+      "options": {
+        "A": "Both A and R are correct but R is NOT the correct explanation of A",
+        "B": "A is correct but R is not correct",
+        "C": "A is not correct but R is correct",
+        "D": "Both A and R are correct and R is correct explanation of A"
+      },
+      "correct_option": "D",
+      "explanation": "Both A and R are correct. R explains A: vertebrates are chordates in which notochord is replaced by vertebral column during development. Non-vertebrate chordates (Urochordates, Cephalochordates) retain notochord."
+    },
+    {
+      "id": "BIO_2022_178",
+      "section": "Zoology",
+      "question": "Statement I: Mycoplasma can pass through less than 1 micron filter size. Statement II: Mycoplasma are bacteria with cell wall.",
+      "options": {
+        "A": "Both Statement I and Statement II are incorrect",
+        "B": "Statement I is correct but Statement II is incorrect",
+        "C": "Statement I is incorrect but Statement II is correct",
+        "D": "Both Statement I and Statement II are correct"
+      },
+      "correct_option": "B",
+      "explanation": "Statement I correct: Mycoplasma lack cell wall, hence very small and pleomorphic, can pass through bacterial filters. Statement II incorrect: Mycoplasma lack cell wall — they are the SMALLEST living organisms WITHOUT a cell wall."
+    },
+    {
+      "id": "BIO_2022_179",
+      "section": "Zoology",
+      "question": "Regarding Meiosis, which statement is INCORRECT?",
+      "options": {
+        "A": "DNA replication occurs in S phase of Meiosis-II",
+        "B": "Pairing of homologous chromosomes and recombination occurs in Meiosis-I",
+        "C": "Four haploid cells are formed at end of Meiosis-II",
+        "D": "There are two stages in Meiosis — Meiosis-I and II"
+      },
+      "correct_option": "A",
+      "explanation": "DNA replication occurs in S phase of INTERPHASE before Meiosis-I, NOT before Meiosis-II. There is no S phase before Meiosis-II."
+    },
+    {
+      "id": "BIO_2022_180",
+      "section": "Zoology",
+      "question": "In situ conservation refers to:",
+      "options": {
+        "A": "Conserve only high risk species",
+        "B": "Conserve only endangered species",
+        "C": "Conserve only extinct species",
+        "D": "Protect and conserve the whole ecosystem"
+      },
+      "correct_option": "D",
+      "explanation": "In situ conservation means conservation in the natural habitat — protecting and conserving the whole ecosystem (biosphere reserves, national parks, wildlife sanctuaries)."
+    },
+    {
+      "id": "BIO_2022_181",
+      "section": "Zoology",
+      "question": "At which stage of life is oogenesis process initiated?",
+      "options": {
+        "A": "Embryonic development stage",
+        "B": "Birth",
+        "C": "Adult",
+        "D": "Puberty"
+      },
+      "correct_option": "A",
+      "explanation": "Oogenesis is initiated during embryonic development — oogonia multiply by mitosis and begin meiosis-I (arrested at prophase-I) before birth."
+    },
+    {
+      "id": "BIO_2022_182",
+      "section": "Zoology",
+      "question": "Which is the CORRECT match for disease and its symptoms?",
+      "options": {
+        "A": "Tetany - high Ca²⁺ level causing rapid spasms",
+        "B": "Myasthenia gravis - Genetic disorder resulting in weakening and paralysis",
+        "C": "Muscular dystrophy - Auto immune disorder causing progressive degeneration",
+        "D": "Arthritis - Inflamed joints"
+      },
+      "correct_option": "D",
+      "explanation": "Arthritis → inflamed joints ✓. Tetany is due to LOW Ca²⁺ (hypocalcemia). Myasthenia gravis is autoimmune, not genetic. Muscular dystrophy is genetic, not autoimmune."
+    },
+    {
+      "id": "BIO_2022_183",
+      "section": "Zoology",
+      "question": "Statement I: Autoimmune disorder is a condition where body defense mechanism recognizes its own cells as foreign bodies. Statement II: Rheumatoid arthritis is a condition where body does NOT attack self cells.",
+      "options": {
+        "A": "Both Statement I and Statement II are incorrect",
+        "B": "Statement I is correct but Statement II is incorrect",
+        "C": "Statement I is incorrect but Statement II is correct",
+        "D": "Both Statement I and Statement II are correct"
+      },
+      "correct_option": "B",
+      "explanation": "Statement I correct: autoimmunity = immune system attacks self-cells. Statement II incorrect: rheumatoid arthritis IS an autoimmune disease where body attacks its own joints."
+    },
+    {
+      "id": "BIO_2022_184",
+      "section": "Zoology",
+      "question": "In gene therapy for ADA deficiency, patient requires periodic infusion of genetically engineered lymphocytes because:",
+      "options": {
+        "A": "Gene isolated from marrow cells producing ADA is introduced at embryonic stages",
+        "B": "Lymphocytes from patient's blood are grown in culture, outside the body",
+        "C": "Genetically engineered lymphocytes are not immortal cells",
+        "D": "Retroviral vector is introduced into these lymphocytes"
+      },
+      "correct_option": "C",
+      "explanation": "Genetically engineered lymphocytes are not immortal — they have a limited lifespan. So periodic infusions are needed to maintain ADA levels."
+    },
+    {
+      "id": "BIO_2022_185",
+      "section": "Zoology",
+      "question": "Breeding crops with higher vitamins, minerals, proteins and healthier fats is called:",
+      "options": {
+        "A": "Bio-remediation",
+        "B": "Bio-fortification",
+        "C": "Bio-accumulation",
+        "D": "Bio-magnification"
+      },
+      "correct_option": "B",
+      "explanation": "Biofortification is the science of improving nutritional quality of food crops through plant breeding, agronomic practices or biotechnology."
+    },
+    {
+      "id": "BIO_2022_186",
+      "section": "Zoology",
+      "question": "Which statement about cardiac physiology is CORRECT?",
+      "options": {
+        "A": "Tricuspid and bicuspid valves open due to pressure by simultaneous contraction of atria",
+        "B": "Blood moves freely from atrium to ventricle during joint diastole",
+        "C": "Increased ventricular pressure causes closing of semilunar valves",
+        "D": "AVN generates action potential to stimulate atrial contraction"
+      },
+      "correct_option": "B",
+      "explanation": "During joint diastole, both atria and ventricles are relaxed → AV valves open due to pressure difference → blood flows freely from atria to ventricles."
+    },
+    {
+      "id": "BIO_2022_187",
+      "section": "Zoology",
+      "question": "Select the INCORRECT statement regarding synapses:",
+      "options": {
+        "A": "Electrical current can flow directly from one neuron to another across electrical synapse",
+        "B": "Chemical synapses use neurotransmitters",
+        "C": "Impulse transmission across chemical synapse is always faster than across electrical synapse",
+        "D": "Membranes of presynaptic and postsynaptic neurons are in close proximity in electrical synapse"
+      },
+      "correct_option": "C",
+      "explanation": "Impulse transmission across ELECTRICAL synapses is faster (no chemical mediator needed). Chemical synapses are SLOWER due to time for neurotransmitter release, diffusion, and receptor binding."
+    },
+    {
+      "id": "BIO_2022_188",
+      "section": "Zoology",
+      "question": "Select the INCORRECT statement about acquired immunity:",
+      "options": {
+        "A": "Anamnestic response is elicited on subsequent encounters with same pathogen",
+        "B": "Anamnestic response is due to memory of first encounter",
+        "C": "Acquired immunity is non-specific type of defense present at time of birth",
+        "D": "Primary response is produced when body encounters pathogen for first time"
+      },
+      "correct_option": "C",
+      "explanation": "Acquired (adaptive) immunity is SPECIFIC and is developed after exposure to antigens. Non-specific defense present at birth = innate immunity."
+    },
+    {
+      "id": "BIO_2022_189",
+      "section": "Zoology",
+      "question": "Match biological molecules with functions: (a) Glycogen, (b) Globulin, (c) Steroids, (d) Thrombin with (i) Hormone, (ii) Biocatalyst, (iii) Antibody, (iv) Storage product",
+      "options": {
+        "A": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "B": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "C": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "D": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+      },
+      "correct_option": "C",
+      "explanation": "Glycogen → storage product. Globulin → antibody (immunoglobulins are globulins). Steroids → hormone (testosterone, estrogen, etc.). Thrombin → biocatalyst (enzyme that converts fibrinogen to fibrin)."
+    },
+    {
+      "id": "BIO_2022_190",
+      "section": "Zoology",
+      "question": "Match contraceptive methods with actions: (a) Diaphragms, (b) Contraceptive Pills, (c) Intra uterine Devices, (d) Lactational Amenorrhea",
+      "options": {
+        "A": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "B": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "C": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "D": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+      },
+      "correct_option": "A",
+      "explanation": "Diaphragms → cover cervix, blocking sperm entry (iv). Contraceptive Pills → inhibit ovulation and implantation (i). IUDs → increase phagocytosis of sperms in uterus (ii). Lactational Amenorrhea → absence of menstrual cycle and ovulation following parturition (iii)."
+    },
+    {
+      "id": "BIO_2022_191",
+      "section": "Zoology",
+      "question": "10 E.coli cells with ¹⁵N-dsDNA incubated in ¹⁴N nucleotide medium. After 60 min (doubling time assumed), how many E.coli cells will have DNA totally free from ¹⁵N?",
+      "options": {
+        "A": "40 cells",
+        "B": "60 cells",
+        "C": "80 cells",
+        "D": "20 cells"
+      },
+      "correct_option": "B",
+      "explanation": "In 60 min, cells divide enough times. By semi-conservative replication, after sufficient generations, cells will have ¹⁴N/¹⁴N DNA. 10 cells × 2³ = 80 total; 60 will be totally free from ¹⁵N after 3 generations (based on Meselson-Stahl analysis)."
+    },
+    {
+      "id": "BIO_2022_192",
+      "section": "Zoology",
+      "question": "Recombination frequency: a&c=5%, b&c=15%, b&d=9%, a&b=20%, c&d=24%, a&d=29%. Sequence of genes on linear chromosome is:",
+      "options": {
+        "A": "d, b, a, c",
+        "B": "a, b, c, d",
+        "C": "a, c, b, d",
+        "D": "a, d, b, c"
+      },
+      "correct_option": "C",
+      "explanation": "Using distances: a-c=5 (adjacent), c-b=15, b-d=9, a-b=20 (=5+15), c-d=24 (=15+9), a-d=29 (=5+15+9). Sequence: a-c-b-d."
+    },
+    {
+      "id": "BIO_2022_193",
+      "section": "Zoology",
+      "question": "Statement I: In a scrubber, exhaust from thermal plant is passed through electric wires to charge dust particles. Statement II: Particulate matter (PM 2.5) cannot be removed by scrubber but can be removed by electrostatic precipitator.",
+      "options": {
+        "A": "Both Statement I and Statement II are incorrect",
+        "B": "Statement I is correct but Statement II is incorrect",
+        "C": "Statement I is incorrect but Statement II is correct",
+        "D": "Both Statement I and Statement II are correct"
+      },
+      "correct_option": "A",
+      "explanation": "Both incorrect. Statement I: Scrubber removes gases (SO₂, NOx) by passing through water/lime, not by electric wires (that's ESP). Statement II: PM 2.5 can be removed by ESP but scrubber removes gases, not PM 2.5."
+    },
+    {
+      "id": "BIO_2022_194",
+      "section": "Zoology",
+      "question": "Which statements are CORRECT about genetically engineered Insulin? (a) Pro-hormone contains extra C-peptide, (b) A & B peptide chains produced separately in E.coli and combined by disulphide bond, (c) Insulin for diabetes extracted from Cattle/Pigs, (d) Pro-hormone needs processing for functional hormone, (e) Some patients develop allergic reactions to foreign insulin",
+      "options": {
+        "A": "(b) only",
+        "B": "(c) and (d) only",
+        "C": "(c), (d) and (e) only",
+        "D": "(a), (b) and (d) only"
+      },
+      "correct_option": "A",
+      "explanation": "(a) correct: proinsulin has C-peptide. (b) correct: rDNA insulin - A and B chains produced separately in E.coli, then combined. (c) Historical method, not rDNA. (d) correct for proinsulin. (e) may occur with animal insulin. Official answer: (1) = b only."
+    },
+    {
+      "id": "BIO_2022_195",
+      "section": "Zoology",
+      "question": "Which statement is NOT true?",
+      "options": {
+        "A": "Sweet potato and potato is an example of analogy",
+        "B": "Homology indicates common ancestry",
+        "C": "Flippers of penguins and dolphins are a pair of homologous organs",
+        "D": "Analogous structures are result of convergent evolution"
+      },
+      "correct_option": "C",
+      "explanation": "Flippers of penguins (birds) and dolphins (mammals) are ANALOGOUS organs (similar function, different origin), not homologous. Homologous organs have same origin, different function."
+    },
+    {
+      "id": "BIO_2022_196",
+      "section": "Zoology",
+      "question": "Which is NOT a desirable feature of a cloning vector?",
+      "options": {
+        "A": "Presence of a marker gene",
+        "B": "Presence of single restriction enzyme site",
+        "C": "Presence of two or more recognition sites",
+        "D": "Presence of origin of replication"
+      },
+      "correct_option": "C",
+      "explanation": "Two or more recognition sites for same restriction enzyme is NOT desirable — it would cut the vector at multiple locations, disrupting the vector. A single restriction site is preferred."
+    },
+    {
+      "id": "BIO_2022_197",
+      "section": "Zoology",
+      "question": "Match: (a) Bronchioles, (b) Goblet cell, (c) Tendons, (d) Adipose Tissue with (i) Dense Regular Connective Tissue, (ii) Loose Connective Tissue, (iii) Glandular Tissue, (iv) Ciliated Epithelium",
+      "options": {
+        "A": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "B": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "C": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "D": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+      },
+      "correct_option": "D",
+      "explanation": "Bronchioles → ciliated epithelium (for mucociliary clearance). Goblet cell → glandular tissue (secretes mucus). Tendons → dense regular connective tissue (collagen fibres). Adipose tissue → loose connective tissue."
+    },
+    {
+      "id": "BIO_2022_198",
+      "section": "Zoology",
+      "question": "Which is a CORRECT statement?",
+      "options": {
+        "A": "Bacteria are exclusively heterotrophic organisms.",
+        "B": "Slime moulds are saprophytic organisms classified under Kingdom Monera.",
+        "C": "Mycoplasma have DNA, Ribosome and cell wall.",
+        "D": "Cyanobacteria are a group of autotrophic organisms classified under Kingdom Monera."
+      },
+      "correct_option": "D",
+      "explanation": "Cyanobacteria are photosynthetic (autotrophic) prokaryotes classified under Kingdom Monera. Bacteria can be autotrophic or heterotrophic. Slime moulds = Kingdom Protista. Mycoplasma lack cell wall."
+    },
+    {
+      "id": "BIO_2022_199",
+      "section": "Zoology",
+      "question": "Which effects are NOT produced by Parathyroid hormone? (a) Stimulates bone resorption, (b) Decreases Ca²⁺ level in blood, (c) Reabsorption of Ca²⁺ by renal tubules, (d) Decreases absorption of Ca²⁺ from digested food, (e) Increases carbohydrate metabolism",
+      "options": {
+        "A": "(b), (d) and (e) only",
+        "B": "(a) and (e) only",
+        "C": "(b) and (c) only",
+        "D": "(a) and (c) only"
+      },
+      "correct_option": "A",
+      "explanation": "PTH: stimulates bone resorption (a) ✓, INCREASES Ca²⁺ level (b is wrong), increases Ca²⁺ reabsorption by kidneys (c) ✓, INCREASES Ca²⁺ absorption from gut (d is wrong), has no effect on carbohydrate metabolism (e wrong). So b, d, e are NOT effects of PTH."
+    },
+    {
+      "id": "BIO_2022_200",
+      "section": "Zoology",
+      "question": "A colour blind female marries a man whose mother was also colour blind. Chances of progeny having colour blindness is:",
+      "options": {
+        "A": "50%",
+        "B": "75%",
+        "C": "100%",
+        "D": "25%"
+      },
+      "correct_option": "C",
+      "explanation": "Colour blind female = Xᶜ Xᶜ. Man's mother was colour blind = Xᶜ Xᶜ, so man got Xᶜ from mother → man = Xᶜ Y. Cross: Xᶜ Xᶜ × Xᶜ Y → all daughters Xᶜ Xᶜ (colour blind) + all sons Xᶜ Y (colour blind). 100% progeny are colour blind."
+    }
+  ]
+}

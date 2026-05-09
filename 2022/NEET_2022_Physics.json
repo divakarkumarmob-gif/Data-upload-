@@ -1,0 +1,609 @@
+{
+  "exam": "NEET",
+  "year": 2022,
+  "subject": "Physics",
+  "date": "17-07-2022",
+  "code": "T2",
+  "questions": [
+    {
+      "id": "PHY_2022_01",
+      "question": "Two hollow conducting spheres of radii R1 and R2 (R1 >> R2) have equal charges. The potential would be:",
+      "options": {
+        "A": "More on smaller sphere",
+        "B": "Equal on both the spheres",
+        "C": "Dependent on the material property of the sphere",
+        "D": "More on bigger sphere"
+      },
+      "correct_option": "A",
+      "explanation": "V = (1/4πε0)(Q/R). Since Q is same, V ∝ 1/R. Smaller radius → higher potential."
+    },
+    {
+      "id": "PHY_2022_02",
+      "question": "The angular speed of a flywheel changes from 1200 rpm to 3120 rpm in 16 seconds. The angular acceleration in rad/s² is:",
+      "options": {
+        "A": "4π",
+        "B": "12π",
+        "C": "104π",
+        "D": "2π"
+      },
+      "correct_option": "A",
+      "explanation": "α = (ω - ω0)/t = (3120 - 1200)/16 rpm/s = (1920 × 2π)/(16 × 60) = 4π rad/s²."
+    },
+    {
+      "id": "PHY_2022_03",
+      "question": "In circuits (a), (b) and (c) with two p-n junctions, the potential drop across the two junctions are equal in:",
+      "options": {
+        "A": "Circuit (b) only",
+        "B": "Circuit (c) only",
+        "C": "Both circuits (a) and (c)",
+        "D": "Circuit (a) only"
+      },
+      "correct_option": "C",
+      "explanation": "In circuits (a) and (c), both junctions are in the same biasing conditions, so they offer equal resistance. Being in series, equal potential drops across each junction."
+    },
+    {
+      "id": "PHY_2022_04",
+      "question": "Two objects of mass 10 kg and 20 kg are connected to ends of a rigid rod of length 10 m. Distance of centre of mass from 10 kg mass is:",
+      "options": {
+        "A": "20/3 m",
+        "B": "10 m",
+        "C": "5 m",
+        "D": "10/3 m"
+      },
+      "correct_option": "A",
+      "explanation": "XCM = (m2 × L)/(m1 + m2) = (20 × 10)/(20 + 10) = 200/30 = 20/3 m."
+    },
+    {
+      "id": "PHY_2022_05",
+      "question": "A biconvex lens has radii of curvature 20 cm each. Refractive index of lens = 1.5. Power of lens is:",
+      "options": {
+        "A": "+20 D",
+        "B": "+5 D",
+        "C": "Infinity",
+        "D": "+2 D"
+      },
+      "correct_option": "B",
+      "explanation": "P = (μ-1)(1/R1 - 1/R2) = (3/2 - 1)(1/0.2 + 1/0.2) = (1/2)(10) = 5 D."
+    },
+    {
+      "id": "PHY_2022_06",
+      "question": "A spherical ball is dropped in a highly viscous liquid. The curve representing speed (v) as function of time (t) is:",
+      "options": {
+        "A": "Curve B (increases then becomes constant)",
+        "B": "Curve C",
+        "C": "Curve D",
+        "D": "Curve A"
+      },
+      "correct_option": "A",
+      "explanation": "Ball starts from rest, speed increases with decreasing acceleration (due to increasing viscous force), then reaches terminal velocity (constant speed). This is curve B."
+    },
+    {
+      "id": "PHY_2022_07",
+      "question": "Ratio of radius of gyration of a thin uniform disc about axis through centre (normal to plane) to radius of gyration about its diameter is:",
+      "options": {
+        "A": "√2 : 1",
+        "B": "4 : 1",
+        "C": "1 : √2",
+        "D": "2 : 1"
+      },
+      "correct_option": "A",
+      "explanation": "I1 = mR²/2, I2 = mR²/4. k1/k2 = √(I1/I2) = √(mR²/2 ÷ mR²/4) = √2. Ratio = √2 : 1."
+    },
+    {
+      "id": "PHY_2022_08",
+      "question": "A shell of mass m explodes into three fragments (ratio 2:2:1). Equal mass fragments fly perpendicular with speed v. Speed of lighter fragment is:",
+      "options": {
+        "A": "√2 v",
+        "B": "2√2 v",
+        "C": "3√2 v",
+        "D": "v"
+      },
+      "correct_option": "B",
+      "explanation": "By conservation of momentum: 0 = (2m/5)(-vî) + (2m/5)(-vĵ) + (m/5)v'. So v' = 2vî + 2vĵ. |v'| = √(4v² + 4v²) = 2√2 v."
+    },
+    {
+      "id": "PHY_2022_09",
+      "question": "A long solenoid of radius 1 mm has 100 turns per mm. Current = 1A. Magnetic field at centre is:",
+      "options": {
+        "A": "12.56 × 10⁻² T",
+        "B": "12.56 × 10⁻⁴ T",
+        "C": "6.28 × 10⁻⁴ T",
+        "D": "6.28 × 10⁻² T"
+      },
+      "correct_option": "A",
+      "explanation": "B = μ0nI = 4π × 10⁻⁷ × (100/10⁻³) × 1 = 4π × 10⁻⁷ × 10⁵ = 4π × 10⁻² ≈ 12.56 × 10⁻² T."
+    },
+    {
+      "id": "PHY_2022_10",
+      "question": "T1 and T2 are energies in first and second excited states of hydrogen atom. Ratio T1 : T2 is:",
+      "options": {
+        "A": "4 : 1",
+        "B": "4 : 9",
+        "C": "9 : 4",
+        "D": "1 : 4"
+      },
+      "correct_option": "C",
+      "explanation": "First excited state n=2: T1 = -13.6/4 eV. Second excited state n=3: T2 = -13.6/9 eV. T1:T2 = (1/4):(1/9) = 9:4."
+    },
+    {
+      "id": "PHY_2022_11",
+      "question": "A light ray falls on glass (μ = √3) at angle 60°. Angle between refracted and reflected ray is:",
+      "options": {
+        "A": "60°",
+        "B": "90°",
+        "C": "120°",
+        "D": "30°"
+      },
+      "correct_option": "B",
+      "explanation": "By Snell's law: 1×sin60° = √3×sinr → sinr = 1/2 → r = 30°. Reflected ray at 60° to normal, refracted at 30°. Angle between them = 90°. Also, 60° is Brewster's angle for μ=√3."
+    },
+    {
+      "id": "PHY_2022_12",
+      "question": "If a soap bubble expands, the pressure inside the bubble:",
+      "options": {
+        "A": "Increases",
+        "B": "Remains the same",
+        "C": "Is equal to atmospheric pressure",
+        "D": "Decreases"
+      },
+      "correct_option": "D",
+      "explanation": "P = P0 + 4T/R. As bubble expands, R increases, so excess pressure 4T/R decreases. Hence total pressure decreases."
+    },
+    {
+      "id": "PHY_2022_13",
+      "question": "Plane angle and solid angle have:",
+      "options": {
+        "A": "Dimensions but no units",
+        "B": "No units and no dimensions",
+        "C": "Both units and dimensions",
+        "D": "Units but no dimensions"
+      },
+      "correct_option": "D",
+      "explanation": "Plane angle (radian) and solid angle (steradian) are dimensionless quantities but have units."
+    },
+    {
+      "id": "PHY_2022_14",
+      "question": "When light propagates through a medium of relative permittivity εr and relative permeability μr, velocity v is:",
+      "options": {
+        "A": "v = √(μr/εr)",
+        "B": "v = √(εr/μr)",
+        "C": "v = c/√(εr μr)",
+        "D": "v = c"
+      },
+      "correct_option": "C",
+      "explanation": "Refractive index n = √(εr μr). v = c/n = c/√(εr μr)."
+    },
+    {
+      "id": "PHY_2022_15",
+      "question": "100 Ω and 200 Ω resistors in parallel. Ratio of thermal energy developed in 100 Ω to that in 200 Ω in given time is:",
+      "options": {
+        "A": "2 : 1",
+        "B": "1 : 4",
+        "C": "4 : 1",
+        "D": "1 : 2"
+      },
+      "correct_option": "A",
+      "explanation": "In parallel, V is same. P = V²/R → P ∝ 1/R. P1/P2 = R2/R1 = 200/100 = 2:1."
+    },
+    {
+      "id": "PHY_2022_16",
+      "question": "Graph showing variation of de Broglie wavelength (λ) with momentum (p) is:",
+      "options": {
+        "A": "Linearly decreasing",
+        "B": "Linearly increasing",
+        "C": "Hyperbolic (decreasing curve)",
+        "D": "Linearly increasing from origin"
+      },
+      "correct_option": "C",
+      "explanation": "λ = h/p. Graph of λ vs p is a rectangular hyperbola (decreasing curve)."
+    },
+    {
+      "id": "PHY_2022_17",
+      "question": "A square loop of side 1 m, resistance 1 Ω is placed in magnetic field 0.5 T. Plane of loop is perpendicular to B. Magnetic flux through loop is:",
+      "options": {
+        "A": "0.5 weber",
+        "B": "1 weber",
+        "C": "Zero weber",
+        "D": "2 weber"
+      },
+      "correct_option": "A",
+      "explanation": "φ = BA cosθ. Plane ⊥ to B means B is parallel to area vector (θ=0°). φ = 0.5 × 1² × cos0° = 0.5 Wb."
+    },
+    {
+      "id": "PHY_2022_18",
+      "question": "Dimensions [MLT⁻² A⁻²] belong to:",
+      "options": {
+        "A": "Self inductance",
+        "B": "Magnetic permeability",
+        "C": "Electric permittivity",
+        "D": "Magnetic flux"
+      },
+      "correct_option": "B",
+      "explanation": "[MLT⁻²A⁻²] are dimensions of magnetic permeability (μ0). F = μ0I1I2L/2πd → [μ0] = [MLT⁻²A⁻²]."
+    },
+    {
+      "id": "PHY_2022_19",
+      "question": "Two monochromatic lights of frequency υ and υ/2 are incident on photoelectric metal; stopping potentials become Vs/2 and Vs respectively. Threshold frequency is:",
+      "options": {
+        "A": "3υ",
+        "B": "2υ/3",
+        "C": "3υ/2",
+        "D": "2υ"
+      },
+      "correct_option": "Bonus",
+      "explanation": "Data in question is inconsistent. Declared Bonus by official answer key."
+    },
+    {
+      "id": "PHY_2022_20",
+      "question": "In half wave rectification, if input frequency is 60 Hz, output frequency would be:",
+      "options": {
+        "A": "30 Hz",
+        "B": "60 Hz",
+        "C": "120 Hz",
+        "D": "Zero"
+      },
+      "correct_option": "B",
+      "explanation": "In half wave rectification, fin = fout. So output frequency = 60 Hz."
+    },
+    {
+      "id": "PHY_2022_21",
+      "question": "An ideal gas undergoes adiabatic, isothermal, isobaric and isochoric processes from same initial state (P-V graph). Which curve (1,2,3,4) represents adiabatic process?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "1"
+      },
+      "correct_option": "A",
+      "explanation": "In P-V graph: steepest curve = adiabatic (slope = -γP/V), next = isothermal, then isobaric (horizontal), isochoric (vertical). Curve 2 is adiabatic (steeper than isothermal curve 3)."
+    },
+    {
+      "id": "PHY_2022_22",
+      "question": "Match EM waves with wavelengths: (a) AM radio waves, (b) Microwaves, (c) Infrared, (d) X-rays with (i) 10⁻¹⁰ m, (ii) 10² m, (iii) 10⁻² m, (iv) 10⁻⁴ m",
+      "options": {
+        "A": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "B": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "C": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "D": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      },
+      "correct_option": "C",
+      "explanation": "AM radio ~ 10² m. Microwave ~ 10⁻² m. Infrared ~ 10⁻⁴ m. X-rays ~ 10⁻¹⁰ m."
+    },
+    {
+      "id": "PHY_2022_23",
+      "question": "Two particles make angles 30° and 45° with x-axis in displacement-time graph. Ratio of their velocities is:",
+      "options": {
+        "A": "1 : 1",
+        "B": "1 : 2",
+        "C": "1 : √3",
+        "D": "√3 : 1"
+      },
+      "correct_option": "C",
+      "explanation": "Velocity = slope = tan θ. V1/V2 = tan30°/tan45° = (1/√3)/1 = 1:√3."
+    },
+    {
+      "id": "PHY_2022_24",
+      "question": "In Young's double slit, 8 fringes observed with 600 nm light. With 400 nm, number of fringes in same region is:",
+      "options": {
+        "A": "8",
+        "B": "9",
+        "C": "12",
+        "D": "6"
+      },
+      "correct_option": "C",
+      "explanation": "n1λ1 = n2λ2 (same width). 8 × 600 = n2 × 400. n2 = 4800/400 = 12."
+    },
+    {
+      "id": "PHY_2022_25",
+      "question": "The peak voltage of an AC source is equal to:",
+      "options": {
+        "A": "The rms value of the ac source",
+        "B": "√2 times the rms value of the ac source",
+        "C": "1/√2 times the rms value of the ac source",
+        "D": "The value of voltage supplied to the circuit"
+      },
+      "correct_option": "B",
+      "explanation": "V0 = √2 × Vrms. Peak voltage is √2 times the rms value."
+    },
+    {
+      "id": "PHY_2022_26",
+      "question": "Initial tension on stretched string is doubled. Ratio of initial to final speed of transverse wave is:",
+      "options": {
+        "A": "√2 : 1",
+        "B": "1 : √2",
+        "C": "1 : 2",
+        "D": "1 : 1"
+      },
+      "correct_option": "B",
+      "explanation": "v ∝ √T. vi/vf = √Ti/√Tf = √T/√2T = 1/√2."
+    },
+    {
+      "id": "PHY_2022_27",
+      "question": "Statement I: Biot-Savart's law gives expression for magnetic field of infinitesimal current element Idl only. Statement II: Biot-Savart's law is analogous to Coulomb's law with former related to scalar source Idl, latter to vector source q.",
+      "options": {
+        "A": "Both Statement I and Statement II are incorrect",
+        "B": "Statement I is correct and Statement II is incorrect",
+        "C": "Statement I is incorrect and Statement II is correct",
+        "D": "Both Statement I and Statement II are correct"
+      },
+      "correct_option": "B",
+      "explanation": "Statement I is correct. Statement II is incorrect because Idl is a VECTOR source (not scalar), while q is a scalar source."
+    },
+    {
+      "id": "PHY_2022_28",
+      "question": "As temperature increases, electrical resistance:",
+      "options": {
+        "A": "Decreases for both conductors and semiconductors",
+        "B": "Increases for conductors but decreases for semiconductors",
+        "C": "Decreases for conductors but increases for semiconductors",
+        "D": "Increases for both conductors and semiconductors"
+      },
+      "correct_option": "B",
+      "explanation": "For conductors: α is positive → R increases. For semiconductors: α is negative → R decreases with temperature."
+    },
+    {
+      "id": "PHY_2022_29",
+      "question": "Energy ideally radiated by a 100 kW transmitter in 1 hour is:",
+      "options": {
+        "A": "36 × 10⁴ J",
+        "B": "36 × 10⁵ J",
+        "C": "1 × 10⁵ J",
+        "D": "36 × 10⁷ J"
+      },
+      "correct_option": "D",
+      "explanation": "E = P × t = 100 × 10³ × 3600 = 36 × 10⁷ J."
+    },
+    {
+      "id": "PHY_2022_30",
+      "question": "A body of mass 60 g experiences gravitational force 3.0 N at a point. Gravitational field intensity at that point is:",
+      "options": {
+        "A": "50 N/kg",
+        "B": "20 N/kg",
+        "C": "180 N/kg",
+        "D": "0.05 N/kg"
+      },
+      "correct_option": "A",
+      "explanation": "Ig = F/m = 3.0/(60 × 10⁻³) = 3/0.06 = 50 N/kg."
+    },
+    {
+      "id": "PHY_2022_31",
+      "question": "In nuclear reaction ²²₁₁Na → X + e⁺ + ν, element X is:",
+      "options": {
+        "A": "²³₁₀Ne",
+        "B": "²²₁₀Ne",
+        "C": "²²₁₂Mg",
+        "D": "²³₁₁Na"
+      },
+      "correct_option": "B",
+      "explanation": "This is β⁺ decay. Atomic number decreases by 1, mass number unchanged. ²²₁₁Na → ²²₁₀Ne + e⁺ + ν."
+    },
+    {
+      "id": "PHY_2022_32",
+      "question": "Angle between electric lines of force and equipotential surface is:",
+      "options": {
+        "A": "45°",
+        "B": "90°",
+        "C": "180°",
+        "D": "0°"
+      },
+      "correct_option": "B",
+      "explanation": "Electric field is always perpendicular to equipotential surfaces, so angle = 90°."
+    },
+    {
+      "id": "PHY_2022_33",
+      "question": "A copper wire of length 10 m, radius (10⁻²/√π) m, resistance 10 Ω. Current density for electric field 10 V/m is:",
+      "options": {
+        "A": "10⁶ A/m²",
+        "B": "10⁻⁵ A/m²",
+        "C": "10⁵ A/m²",
+        "D": "10⁴ A/m²"
+      },
+      "correct_option": "C",
+      "explanation": "A = πr² = π × (10⁻²/√π)² = 10⁻⁴ m². j = (V/R)/A = E·l/(R·A) = 10×10/(10×10⁻⁴) = 10⁵ A/m²."
+    },
+    {
+      "id": "PHY_2022_34",
+      "question": "Ratio of distances travelled by freely falling body in 1st, 2nd, 3rd and 4th second is:",
+      "options": {
+        "A": "1 : 4 : 9 : 16",
+        "B": "1 : 3 : 5 : 7",
+        "C": "1 : 1 : 1 : 1",
+        "D": "1 : 2 : 3 : 4"
+      },
+      "correct_option": "B",
+      "explanation": "Sn ∝ (2n-1). S1:S2:S3:S4 = 1:3:5:7."
+    },
+    {
+      "id": "PHY_2022_35",
+      "question": "Electric lift (max load 2000 kg) moves up at constant speed 1.5 m/s. Frictional force = 3000 N. Minimum power by motor is: (g = 10 m/s²)",
+      "options": {
+        "A": "20000 W",
+        "B": "34500 W",
+        "C": "23500 W",
+        "D": "23000 W"
+      },
+      "correct_option": "B",
+      "explanation": "Constant speed → T = W + f = 2000×10 + 3000 = 23000 N. P = Tv = 23000 × 1.5 = 34500 W."
+    },
+    {
+      "id": "PHY_2022_36",
+      "question": "Volume occupied by molecules in 4.5 kg water at STP if intermolecular forces vanish is:",
+      "options": {
+        "A": "5.6 × 10³ m³",
+        "B": "5.6 × 10⁻³ m³",
+        "C": "5.6 m³",
+        "D": "5.6 × 10⁶ m³"
+      },
+      "correct_option": "C",
+      "explanation": "Moles = 4500/18 = 250. Volume = 250 × 22.4 × 10⁻³ = 5.6 m³."
+    },
+    {
+      "id": "PHY_2022_37",
+      "question": "Area of rectangular field of length 55.3 m and breadth 25 m after rounding for correct significant digits is:",
+      "options": {
+        "A": "1382 m²",
+        "B": "1382.5 m²",
+        "C": "14 × 10² m²",
+        "D": "138 × 10¹ m²"
+      },
+      "correct_option": "C",
+      "explanation": "55.3 × 25 = 1382.5. Limiting significant figures = 2 (from 25). Result = 14 × 10² m²."
+    },
+    {
+      "id": "PHY_2022_38",
+      "question": "Capacitor C = 900 pF charged to 100 V, then connected to another uncharged 900 pF capacitor. Electrostatic energy stored by system is:",
+      "options": {
+        "A": "3.25 × 10⁻⁶ J",
+        "B": "2.25 × 10⁻⁶ J",
+        "C": "1.5 × 10⁻⁶ J",
+        "D": "4.5 × 10⁻⁶ J"
+      },
+      "correct_option": "B",
+      "explanation": "Common V = (C×100 + C×0)/(C+C) = 50 V. E = 2 × (1/2)CV² = CV² = 900×10⁻¹² × 50² = 2.25 × 10⁻⁶ J."
+    },
+    {
+      "id": "PHY_2022_39",
+      "question": "Match: (a) Gravitational constant G, (b) Gravitational potential energy, (c) Gravitational potential, (d) Gravitational intensity with dimensions (i)[L²T⁻²], (ii)[M⁻¹L³T⁻²], (iii)[LT⁻²], (iv)[ML²T⁻²]",
+      "options": {
+        "A": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "B": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "C": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "D": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      },
+      "correct_option": "A",
+      "explanation": "G=[M⁻¹L³T⁻²], PE=[ML²T⁻²], Potential=[L²T⁻²], Intensity(field)=[LT⁻²]."
+    },
+    {
+      "id": "PHY_2022_40",
+      "question": "Two pendulums of length 121 cm and 100 cm start vibrating in phase. Minimum vibrations of shorter pendulum after which they are again in phase at mean position is:",
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "8",
+        "D": "11"
+      },
+      "correct_option": "D",
+      "explanation": "T ∝ √L. (n)×T121 = (n+1)×T100. n × 1.1 = n+1. 0.1n = 1. n = 10. Shorter pendulum oscillations = n+1 = 11."
+    },
+    {
+      "id": "PHY_2022_41",
+      "question": "Assertion (A): Stretching of spring is determined by shear modulus. Reason (R): Copper coil spring has more tensile strength than steel spring of same dimensions.",
+      "options": {
+        "A": "Both A and R are true and R is not correct explanation of A",
+        "B": "A is true but R is false",
+        "C": "A is false but R is true",
+        "D": "Both A and R are true and R is correct explanation of A"
+      },
+      "correct_option": "B",
+      "explanation": "A is correct (spring stretching involves shape change → shear modulus). R is false (Ysteel > Ycopper, so steel has more tensile strength)."
+    },
+    {
+      "id": "PHY_2022_42",
+      "question": "Ball projected at 10 m/s at 60° with vertical. Speed at highest point of trajectory is:",
+      "options": {
+        "A": "5√3 m/s",
+        "B": "5 m/s",
+        "C": "10 m/s",
+        "D": "Zero"
+      },
+      "correct_option": "A",
+      "explanation": "Angle with horizontal = 90° - 60° = 30°. At highest point, only horizontal component remains: ux = 10 cos30° = 10 × (√3/2) = 5√3 m/s."
+    },
+    {
+      "id": "PHY_2022_43",
+      "question": "Two media A and B: speed of light 1.5 × 10⁸ m/s and 2.0 × 10⁸ m/s. Critical angle for total internal reflection is:",
+      "options": {
+        "A": "sin⁻¹(0.750)",
+        "B": "tan⁻¹(0.500)",
+        "C": "tan⁻¹(0.750)",
+        "D": "sin⁻¹(0.500)"
+      },
+      "correct_option": "A",
+      "explanation": "sin(ic) = μR/μD = uD/uR = 1.5/2.0 = 3/4 = 0.75. ic = sin⁻¹(0.750)."
+    },
+    {
+      "id": "PHY_2022_44",
+      "question": "Truth table for given logic circuit (NAND + AND combination) with inputs A, B and output C is:",
+      "options": {
+        "A": "A=0,B=0→C=1; A=0,B=1→C=0; A=1,B=0→C=0; A=1,B=1→C=1",
+        "B": "A=0,B=0→C=1; A=0,B=1→C=0; A=1,B=0→C=1; A=1,B=1→C=0",
+        "C": "A=0,B=0→C=0; A=0,B=1→C=1; A=1,B=0→C=0; A=1,B=1→C=1",
+        "D": "A=0,B=0→C=0; A=0,B=1→C=1; A=1,B=0→C=1; A=1,B=1→C=0"
+      },
+      "correct_option": "B",
+      "explanation": "C = B̄ (output is complement of B). When B=0, C=1; when B=1, C=0, regardless of A."
+    },
+    {
+      "id": "PHY_2022_45",
+      "question": "Series LCR: L=10H, C=10 μF, R=50Ω, V=200sin(100t) V. Resonant frequency v0 and source frequency v are:",
+      "options": {
+        "A": "v0 = v = 50/π Hz",
+        "B": "v0 = 50/π Hz, v = 50 Hz",
+        "C": "v = 100 Hz; v0 = 100/π Hz",
+        "D": "v0 = v = 50 Hz"
+      },
+      "correct_option": "A",
+      "explanation": "ω = 100 → v = 100/2π = 50/π Hz. v0 = 1/(2π√LC) = 1/(2π√(10×10×10⁻⁶)) = 1/(2π×0.01) = 50/π Hz."
+    },
+    {
+      "id": "PHY_2022_46",
+      "question": "In Wheatstone bridge for most precise measurement of unknown resistance X, resistances P and Q should:",
+      "options": {
+        "A": "Be approximately equal and are small",
+        "B": "Be very large and unequal",
+        "C": "Not play any significant role",
+        "D": "Be approximately equal to 2X"
+      },
+      "correct_option": "A",
+      "explanation": "P and Q approximately equal minimizes percentage error in measurement of X."
+    },
+    {
+      "id": "PHY_2022_47",
+      "question": "From Ampere's law, variation of magnetic field inside and outside a long straight wire (circular cross-section, steady current) is:",
+      "options": {
+        "A": "Linearly increasing upto boundary then linearly decreasing outside",
+        "B": "Linearly increasing upto boundary then decreasing as 1/r outside",
+        "C": "Linearly decreasing upto boundary then linearly increasing outside",
+        "D": "Uniform and constant for both regions"
+      },
+      "correct_option": "B",
+      "explanation": "Inside: B = μ0Ir/2πR² ∝ r (linear). Outside: B = μ0I/2πr ∝ 1/r."
+    },
+    {
+      "id": "PHY_2022_48",
+      "question": "Circular coil: 1000 turns, radius 10 m, rotating at 2 rad/s. Vertical component of Earth's field = 2×10⁻⁵ T, resistance = 12.56 Ω. Maximum induced current is:",
+      "options": {
+        "A": "1.5 A",
+        "B": "1 A",
+        "C": "2 A",
+        "D": "0.25 A"
+      },
+      "correct_option": "B",
+      "explanation": "imax = NBAω/R = (1000 × 2×10⁻⁵ × π×10² × 2)/12.56 = (1000 × 2×10⁻⁵ × 314.16 × 2)/12.56 ≈ 1 A."
+    },
+    {
+      "id": "PHY_2022_49",
+      "question": "Two point charges -q and +q separated by distance L. Electric field at distance R (R >> L) varies as:",
+      "options": {
+        "A": "1/R³",
+        "B": "1/R⁴",
+        "C": "1/R⁶",
+        "D": "1/R²"
+      },
+      "correct_option": "A",
+      "explanation": "This is an electric dipole. For a dipole at large distance, E = (KP/R³)√(1+3cos²θ) ∝ 1/R³."
+    },
+    {
+      "id": "PHY_2022_50",
+      "question": "Nucleus of mass number 189 splits into nuclei of mass 125 and 64. Ratio of radius of daughter nuclei is:",
+      "options": {
+        "A": "4 : 5",
+        "B": "5 : 4",
+        "C": "25 : 16",
+        "D": "1 : 1"
+      },
+      "correct_option": "B",
+      "explanation": "R = R0(A)^(1/3). R(125)/R(64) = (125)^(1/3)/(64)^(1/3) = 5/4."
+    }
+  ]
+}
