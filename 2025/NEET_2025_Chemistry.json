@@ -1,0 +1,550 @@
+{
+  "exam": "NEET",
+  "year": 2025,
+  "subject": "Chemistry",
+  "code": 45,
+  "date": "04-05-2025",
+  "questions": [
+    {
+      "id": "CHEM_2025_46",
+      "question": "The ratio of the wavelengths of the light absorbed by a Hydrogen atom when it undergoes n = 2 → n = 3 and n = 4 → n = 6 transitions, respectively, is:",
+      "options": {
+        "1": "1/36",
+        "2": "1/16",
+        "3": "1/9",
+        "4": "1/4"
+      },
+      "correct_option": "4",
+      "explanation": "1/λ ∝ (1/n₁² - 1/n₂²). For 2→3: (1/4-1/9) = 5/36. For 4→6: (1/16-1/36) = 5/144. Ratio λ₁/λ₂ = (5/144)/(5/36) = 1/4."
+    },
+    {
+      "id": "CHEM_2025_47",
+      "question": "Which of the following statements are true? A. Unlike Ga that has a very high melting point, Cs has a very low melting point. B. On Pauling scale, the electronegativity values of N and Cl are not the same. C. Ar, K⁺, Cl⁻, Ca²⁺, and S²⁻ are all isoelectronic species. D. The correct order of the first ionization enthalpies of Na, Mg, Al, and Si is Si > Al > Mg > Na. E. The atomic radius of Cs is greater than that of Li and Rb.",
+      "options": {
+        "1": "A, B and E only",
+        "2": "C and E only",
+        "3": "C and D only",
+        "4": "A, C and E only"
+      },
+      "correct_option": "2",
+      "explanation": "C is true — all have 18 electrons. E is true — Cs has the largest atomic radius in Group 1. A is false — Ga has a low melting point (29.76°C). B is false — N and Cl both have EN = 3.0 on Pauling scale. D is wrong — correct order is Si > Mg > Al > Na (Al has lower IE than Mg due to p vs s)."
+    },
+    {
+      "id": "CHEM_2025_48",
+      "question": "Match List I with List II: A. Co²⁺ — B. Mg²⁺ — C. Pb²⁺ — D. Al³⁺; I. Group-I, II. Group-III, III. Group-IV, IV. Group-VI (in cation analysis)",
+      "options": {
+        "1": "A-III, B-IV, C-II, D-I",
+        "2": "A-III, B-IV, C-I, D-II",
+        "3": "A-III, B-II, C-IV, D-I",
+        "4": "A-III, B-II, C-I, D-IV"
+      },
+      "correct_option": "2",
+      "explanation": "Co²⁺-III (Group III cation), Mg²⁺-IV (Group IV/V), Pb²⁺-I (Group I as PbCl₂ precipitates), Al³⁺-II (Group III)."
+    },
+    {
+      "id": "CHEM_2025_49",
+      "question": "Predict the major product 'P' in the following sequence of reactions: Methylcyclopentane → (i) HBr, benzoyl peroxide → (ii) KCN → (iii) Na(Hg)/C₂H₅OH → P (Major)",
+      "options": {
+        "1": "Cyclopentylmethylamine (CH₂NH₂ substituent)",
+        "2": "Cyclopentyl CH₂NH₂",
+        "3": "Cyclopentyl CH₂NC (nitrile at ring)",
+        "4": "Cyclopentyl NC-CH₃"
+      },
+      "correct_option": "1",
+      "explanation": "HBr with peroxide (anti-Markovnikov) adds Br to CH₂ group → bromomethylcyclopentane. KCN converts to nitrile. Na(Hg)/EtOH reduces nitrile to amine → CH₂NH₂ substituent on cyclopentane."
+    },
+    {
+      "id": "CHEM_2025_50",
+      "question": "Energy and radius of first Bohr orbit of He⁺ and Li²⁺ are [Given RH = 2.18 × 10⁻¹⁸ J, a₀ = 52.9 pm]",
+      "options": {
+        "1": "En(Li²⁺) = -19.62 × 10⁻¹⁸ J; rn(Li²⁺) = 17.6 pm; En(He⁺) = -8.72 × 10⁻¹⁸ J; rn(He⁺) = 26.4 pm",
+        "2": "En(Li²⁺) = -8.72 × 10⁻¹⁸ J; rn(Li²⁺) = 26.4 pm; En(He⁺) = -19.62 × 10⁻¹⁸ J; rn(He⁺) = 17.6 pm",
+        "3": "En(Li²⁺) = -19.62 × 10⁻¹⁶ J; rn(Li²⁺) = 17.6 pm; En(He⁺) = -8.72 × 10⁻¹⁶ J; rn(He⁺) = 26.4 pm",
+        "4": "En(Li²⁺) = -8.72 × 10⁻¹⁶ J; rn(Li²⁺) = 17.6 pm; En(He⁺) = -19.62 × 10⁻¹⁶ J; rn(He⁺) = 17.6 pm"
+      },
+      "correct_option": "1",
+      "explanation": "En = -Z²×2.18×10⁻¹⁸ J. He⁺ (Z=2): E = -4×2.18×10⁻¹⁸ = -8.72×10⁻¹⁸ J. Li²⁺ (Z=3): E = -9×2.18×10⁻¹⁸ = -19.62×10⁻¹⁸ J. rn = a₀/Z: He⁺ = 52.9/2 = 26.4 pm; Li²⁺ = 52.9/3 = 17.6 pm."
+    },
+    {
+      "id": "CHEM_2025_51",
+      "question": "Which of the following are paramagnetic? A. [NiCl₄]²⁻, B. Ni(CO)₄, C. [Ni(CN)₄]²⁻, D. [Ni(H₂O)₆]²⁺, E. Ni(PPh₃)₄",
+      "options": {
+        "1": "A and C only",
+        "2": "B and E only",
+        "3": "A and D only",
+        "4": "A, D and E only"
+      },
+      "correct_option": "3",
+      "explanation": "[NiCl₄]²⁻ (sp³, Ni²⁺ d⁸, 2 unpaired = paramagnetic). [Ni(H₂O)₆]²⁺ (octahedral, high spin, 2 unpaired = paramagnetic). Ni(CO)₄ and [Ni(CN)₄]²⁻ are diamagnetic (all paired). Ni(PPh₃)₄ is also diamagnetic."
+    },
+    {
+      "id": "CHEM_2025_52",
+      "question": "Statement I: Like nitrogen that can form ammonia, arsenic can form arsine. Statement II: Antimony cannot form antimony pentoxide. Choose the most appropriate answer.",
+      "options": {
+        "1": "Both Statement I and Statement II are correct",
+        "2": "Both Statement I and Statement II are incorrect",
+        "3": "Statement I is correct but Statement II is incorrect",
+        "4": "Statement I is incorrect but Statement II is correct."
+      },
+      "correct_option": "3",
+      "explanation": "Statement I is correct — arsenic forms AsH₃ (arsine), analogous to NH₃. Statement II is incorrect — Sb₂O₅ (antimony pentoxide) does exist."
+    },
+    {
+      "id": "CHEM_2025_53",
+      "question": "Which among the following electronic configurations belong to main group elements? A. [Ne]3s¹, B. [Ar]3d⁴4s², C. [Kr]4d¹⁰5s²5p⁵, D. [Ar]3d¹⁰4s¹, E. [Rn]5f⁶6d⁷7s²",
+      "options": {
+        "1": "B and E only",
+        "2": "A and C only",
+        "3": "D and E only",
+        "4": "A, C and D only"
+      },
+      "correct_option": "2",
+      "explanation": "Main group elements have s or p as their last electron. A ([Ne]3s¹ = Na) and C ([Kr]4d¹⁰5s²5p⁵ = I) are main group elements. B is Cr (d-block), D is Cu (d-block), E is f-block."
+    },
+    {
+      "id": "CHEM_2025_54",
+      "question": "Dalton's Atomic theory could not explain which of the following?",
+      "options": {
+        "1": "Law of conservation of mass",
+        "2": "Law of constant proportion",
+        "3": "Law of multiple proportion",
+        "4": "Law of gaseous volume"
+      },
+      "correct_option": "4",
+      "explanation": "Dalton's atomic theory could not explain Gay-Lussac's Law of Gaseous Volumes (ratios of gas volumes in reactions) because it didn't account for molecules/diatomic nature of gases."
+    },
+    {
+      "id": "CHEM_2025_55",
+      "question": "Consider the following compounds: K̲O₂, H̲₂O₂ and H̲₂SO₄. The oxidation states of the underlined elements in them are, respectively:",
+      "options": {
+        "1": "+1, -1, and +6",
+        "2": "+2, -2, and +6",
+        "3": "+1, -2, and +4",
+        "4": "+4, -4, and +6"
+      },
+      "correct_option": "1",
+      "explanation": "In KO₂: K = +1. In H₂O₂: H = +1 (oxygen is -1 in peroxide). In H₂SO₄: S = +6."
+    },
+    {
+      "id": "CHEM_2025_56",
+      "question": "If the half-life (t₁/₂) for a first order reaction is 1 minutes, then the time required for 99.9% completion of the reaction is closest to:",
+      "options": {
+        "1": "2 minutes",
+        "2": "4 minutes",
+        "3": "5 minutes",
+        "4": "10 minutes"
+      },
+      "correct_option": "4",
+      "explanation": "k = 0.693/1 = 0.693 min⁻¹. For 99.9% completion: ln(1000) = kt → t = 6.908/0.693 ≈ 9.97 ≈ 10 minutes."
+    },
+    {
+      "id": "CHEM_2025_57",
+      "question": "The correct order of the wavelength of light absorbed by the following complexes is: A. [Co(NH₃)₆]³⁺, B. [Co(CN)₆]³⁻, C. [Cu(H₂O)₄]²⁺, D. [Ti(H₂O)₆]³⁺. Choose the correct order.",
+      "options": {
+        "1": "B < D < A < C",
+        "2": "B < A < D < C",
+        "3": "C < D < A < B",
+        "4": "C < A < D < B"
+      },
+      "correct_option": "2",
+      "explanation": "Larger Δ (CFSE) → shorter wavelength absorbed. CN⁻ is strongest field ligand → largest Δ → shortest λ. Order of Δ: CN⁻ > NH₃ > H₂O. So λ: B < A < D < C."
+    },
+    {
+      "id": "CHEM_2025_58",
+      "question": "Which one of the following compounds can exist as cis-trans isomers?",
+      "options": {
+        "1": "Pent-1-ene",
+        "2": "2-Methylhex-2-ene",
+        "3": "1,1-Dimethylcyclopropane",
+        "4": "1,2-Dimethylcyclohexane"
+      },
+      "correct_option": "4",
+      "explanation": "1,2-Dimethylcyclohexane can show cis-trans isomerism because each carbon bearing a methyl group has two different substituents. The other options either have identical substituents or lack proper asymmetry."
+    },
+    {
+      "id": "CHEM_2025_59",
+      "question": "Phosphoric acid ionizes in three steps with their ionization constant values Ka₁, Ka₂, and Ka₃, respectively. While K is the overall ionization constant. Which of the following statements are true? A. log K = log Ka₁ + log Ka₂ + log Ka₃, B. H₃PO₄ is a stronger acid than H₂PO₄⁻ and HPO₄²⁻, C. Ka₁ > Ka₂ > Ka₃, D. Ka₁ = (Ka₃ + Ka₂)/2",
+      "options": {
+        "1": "A and B only",
+        "2": "A and C only",
+        "3": "B, C and D only",
+        "4": "A, B and C only"
+      },
+      "correct_option": "4",
+      "explanation": "A is true (log K = sum of log Ka values). B is true (successive ionization is harder, H₃PO₄ is strongest acid). C is true (Ka₁ > Ka₂ > Ka₃ for polyprotic acids). D is false — no such relationship exists."
+    },
+    {
+      "id": "CHEM_2025_60",
+      "question": "Which one of the following reactions does NOT give benzene as the product?",
+      "options": {
+        "1": "Sodium benzoate heated with soda lime",
+        "2": "n-hexane with Mo₂O₃ at 773K, 10–20 atm",
+        "3": "H–C≡C–H with red hot iron tube at 873 K",
+        "4": "Benzene diazonium chloride with warm water"
+      },
+      "correct_option": "4",
+      "explanation": "Benzene diazonium chloride with warm water gives phenol (C₆H₅OH), not benzene. The other reactions all produce benzene."
+    },
+    {
+      "id": "CHEM_2025_61",
+      "question": "If the molar conductivity (Λm) of a 0.050 mol L⁻¹ solution of a monobasic weak acid is 90 S cm² mol⁻¹, its extent (degree) of dissociation will be [Assume Λ°+ = 349.6 S cm² mol⁻¹ and Λ°- = 50.4 S cm² mol⁻¹]",
+      "options": {
+        "1": "0.115",
+        "2": "0.125",
+        "3": "0.225",
+        "4": "0.215"
+      },
+      "correct_option": "3",
+      "explanation": "Λ°m = 349.6 + 50.4 = 400 S cm² mol⁻¹. α = Λm/Λ°m = 90/400 = 0.225."
+    },
+    {
+      "id": "CHEM_2025_62",
+      "question": "Statement I: A hypothetical diatomic molecule with bond order zero is quite stable. Statement II: As bond order increases, the bond length increases.",
+      "options": {
+        "1": "Both Statement I and Statement II are true",
+        "2": "Both Statement I and Statement II are false",
+        "3": "Statement I is true but Statement II are false",
+        "4": "Statement I is false but Statement II are true"
+      },
+      "correct_option": "2",
+      "explanation": "Statement I is false — bond order zero means no bond, hence unstable. Statement II is false — as bond order increases, bond length DECREASES (stronger bond = shorter)."
+    },
+    {
+      "id": "CHEM_2025_63",
+      "question": "Out of the following complex compounds, which of the compound will be having the minimum conductance in solution? (1) [Co(NH₃)₃Cl₃], (2) [Co(NH₃)₄Cl₂], (3) [Co(NH₃)₆]Cl₃, (4) [Co(NH₃)₅Cl]Cl",
+      "options": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4"
+      },
+      "correct_option": "1",
+      "explanation": "[Co(NH₃)₃Cl₃] is a non-electrolyte (no ions in solution) and will have minimum conductance.",
+      "note": "Both options 1 and 2 were marked correct by ALLEN."
+    },
+    {
+      "id": "CHEM_2025_64",
+      "question": "Match List-I with List-II: A. XeO₃ — B. XeF₂ — C. XeOF₄ — D. XeF₆; I. sp³d, linear, II. sp³, pyramidal, III. sp³d², distorted octahedral, IV. sp³d², square pyramidal",
+      "options": {
+        "1": "A-II, B-I, C-IV, D-III",
+        "2": "A-II, B-I, C-III, D-IV",
+        "3": "A-IV, B-II, C-III, D-I",
+        "4": "A-IV, B-II, C-I, D-III"
+      },
+      "correct_option": "1",
+      "explanation": "XeO₃-II (sp³, pyramidal), XeF₂-I (sp³d, linear), XeOF₄-IV (sp³d², square pyramidal), XeF₆-III (sp³d³, distorted octahedral)."
+    },
+    {
+      "id": "CHEM_2025_65",
+      "question": "C(s) + 2H₂(g) → CH₄(g); ΔH = −74.8 kJ mol⁻¹. Which of the following diagrams gives an accurate representation of the above reaction? [R → reactants; P → products]",
+      "options": {
+        "1": "Option 1 (R higher than P, exothermic, energy released = 74.8)",
+        "2": "Option 2 (P higher than R, endothermic)",
+        "3": "Option 3 (R and P same level with activation energy)",
+        "4": "Option 4 (P higher than R)"
+      },
+      "correct_option": "1",
+      "explanation": "ΔH = -74.8 kJ mol⁻¹ means the reaction is exothermic. Products (CH₄) are at a lower energy level than reactants (C + H₂). Diagram 1 correctly shows reactants higher than products with 74.8 kJ released."
+    },
+    {
+      "id": "CHEM_2025_66",
+      "question": "Match List-I (Example) with List-II (Type of Solution): A. Humidity — B. Alloys — C. Amalgams — D. Smoke; I. Solid in solid, II. Liquid in gas, III. Solid in gas, IV. Liquid in solid",
+      "options": {
+        "1": "A-II, B-IV, C-I, D-III",
+        "2": "A-II, B-I, C-IV, D-III",
+        "3": "A-III, B-I, C-IV, D-II",
+        "4": "A-III, B-II, C-I, D-IV"
+      },
+      "correct_option": "2",
+      "explanation": "Humidity-II (liquid water in gas), Alloys-I (solid in solid), Amalgams-IV (liquid mercury in solid metal), Smoke-III (solid particles in gas)."
+    },
+    {
+      "id": "CHEM_2025_67",
+      "question": "The correct order of decreasing basic strength of the given amines is:",
+      "options": {
+        "1": "N-methylaniline > benzenamine > ethanamine > N-ethylethanamine",
+        "2": "N-ethylethanamine > ethanamine > benzenamine > N-methylaniline",
+        "3": "N-ethylethanamine > ethanamine > N-methylaniline > benzenamine",
+        "4": "benzenamine > ethanamine > N-methylaniline > N-ethylethanamine"
+      },
+      "correct_option": "3",
+      "explanation": "Basic strength order: aliphatic > aromatic amines. Among aliphatic: secondary > primary. N-ethylethanamine (2° aliphatic) > ethanamine (1° aliphatic) > N-methylaniline (2° aromatic) > benzenamine (1° aromatic/aniline)."
+    },
+    {
+      "id": "CHEM_2025_68",
+      "question": "Among the following choose the ones with equal number of atoms: A. 212 g of Na₂CO₃(s) [molar mass = 106 g], B. 248 g of Na₂O(s) [molar mass = 62 g], C. 240 g of NaOH(s) [molar mass = 40 g], D. 12 g of H₂(g) [molar mass = 2 g], E. 220 g of CO₂(g) [molar mass = 44 g]",
+      "options": {
+        "1": "A, B and C only",
+        "2": "A, B and D only",
+        "3": "B, C and D only",
+        "4": "B, D and E only"
+      },
+      "correct_option": "2",
+      "explanation": "Moles: A = 212/106 = 2 mol (5 atoms each) = 10NA atoms. B = 248/62 = 4 mol (3 atoms) = 12NA. C = 240/40 = 6 mol (2 atoms) = 12NA. D = 12/2 = 6 mol (2 atoms) = 12NA. E = 220/44 = 5 mol (3 atoms) = 15NA. B, C and D all have 12NA atoms."
+    },
+    {
+      "id": "CHEM_2025_69",
+      "question": "Match List-I (Name of the Vitamin) with List-II (Deficiency disease): A. Vitamin B₁₂ — B. Vitamin D — C. Vitamin B₂ — D. Vitamin B₆; I. Cheilosis, II. Convulsions, III. Rickets, IV. Pernicious anaemia",
+      "options": {
+        "1": "A-I, B-III, C-II, D-IV",
+        "2": "A-IV, B-III, C-I, D-II",
+        "3": "A-II, B-III, C-I, D-IV",
+        "4": "A-IV, B-III, C-II, D-I"
+      },
+      "correct_option": "2",
+      "explanation": "Vitamin B₁₂-IV (Pernicious anaemia), Vitamin D-III (Rickets), Vitamin B₂-I (Cheilosis/cracked lips), Vitamin B₆-II (Convulsions)."
+    },
+    {
+      "id": "CHEM_2025_70",
+      "question": "The correct order of decreasing acidity of the following aliphatic acids is:",
+      "options": {
+        "1": "(CH₃)₃CCOOH > (CH₃)₂CHCOOH > CH₃COOH > HCOOH",
+        "2": "CH₃COOH > (CH₃)₂CHCOOH > (CH₃)₃CCOOH > HCOOH",
+        "3": "HCOOH > CH₃COOH > (CH₃)₂CHCOOH > (CH₃)₃CCOOH",
+        "4": "HCOOH > (CH₃)₃CCOOH > (CH₃)₂CHCOOH > CH₃COOH"
+      },
+      "correct_option": "3",
+      "explanation": "Alkyl groups are electron-donating (destabilize carboxylate anion = decrease acidity). More alkyl groups = less acidic. Order: HCOOH > CH₃COOH > (CH₃)₂CHCOOH > (CH₃)₃CCOOH."
+    },
+    {
+      "id": "CHEM_2025_71",
+      "question": "Statement I: Ferromagnetism is considered as an extreme form of paramagnetism. Statement II: The number of unpaired electrons in a Cr²⁺ ion (Z = 24) is the same as that of a Nd³⁺ ion (Z = 60).",
+      "options": {
+        "1": "Both Statements I and II are true",
+        "2": "Both Statement I and Statements II are false",
+        "3": "Statement I is true but Statement II is false",
+        "4": "Statement I is false but Statements II is true"
+      },
+      "correct_option": "3",
+      "explanation": "Statement I is true — ferromagnetism is an extreme case of paramagnetism. Statement II is false — Cr²⁺ ([Ar]3d⁴) has 4 unpaired electrons; Nd³⁺ ([Xe]4f³) has 3 unpaired electrons."
+    },
+    {
+      "id": "CHEM_2025_72",
+      "question": "Match List-I (Mixture) with List-II (Method of Separation): A. CHCl₃ + C₆H₅NH₂ — B. Crude oil in petroleum industry — C. Glycerol from spent-lye — D. Aniline-water; I. Distillation under reduced pressure, II. Steam distillation, III. Fractional distillation, IV. Simple distillation",
+      "options": {
+        "1": "A-IV, B-III, C-I, D-II",
+        "2": "A-IV, B-III, C-II, D-I",
+        "3": "A-III, B-IV, C-I, D-II",
+        "4": "A-III, B-IV, C-II, D-I"
+      },
+      "correct_option": "1",
+      "explanation": "CHCl₃+aniline-IV (simple distillation, different BPs), Crude oil-III (fractional distillation), Glycerol-I (distillation under reduced pressure, high BP compound), Aniline-water-II (steam distillation)."
+    },
+    {
+      "id": "CHEM_2025_73",
+      "question": "For the reaction A(g) ⇌ 2B(g), the backward reaction rate constant is higher than the forward reaction rate constant by a factor of 2500, at 1000 K. [Given: R = 0.0831 L atm mol⁻¹K⁻¹]. Kp for the reaction at 1000 K is:",
+      "options": {
+        "1": "83.1",
+        "2": "2.077 × 10⁵",
+        "3": "0.033",
+        "4": "0.021"
+      },
+      "correct_option": "3",
+      "explanation": "Kc = kf/kb = 1/2500 = 4×10⁻⁴. Δn = 2-1 = 1. Kp = Kc(RT)^Δn = 4×10⁻⁴ × (0.0831×1000) = 4×10⁻⁴ × 83.1 = 0.033."
+    },
+    {
+      "id": "CHEM_2025_74",
+      "question": "Statement I: Benzenediazonium salt is prepared by the reaction of aniline with nitrous acid at 273-278 K. It decomposes easily in the dry state. Statement II: Insertion of iodine into the benzene ring is difficult and hence iodobenzene is prepared through the reaction of benzenediazonium salt with KI.",
+      "options": {
+        "1": "Both Statement I and Statement II are correct",
+        "2": "Both Statement I and Statement II are incorrect",
+        "3": "Statement I is correct but Statement II is incorrect",
+        "4": "Statement I is incorrect but Statement II is correct"
+      },
+      "correct_option": "1",
+      "explanation": "Both statements are correct. Diazonium salts are prepared at low temperature (0-5°C) from aniline + NaNO₂/HCl and are unstable in dry state. Iodine cannot be introduced by direct electrophilic substitution; the Sandmeyer reaction with KI is used."
+    },
+    {
+      "id": "CHEM_2025_75",
+      "question": "How many products (including stereoisomers) are expected from monochlorination of the following compound? (H₃C)₂CH-CH₂-CH₃ (2-methylbutane)",
+      "options": {
+        "1": "2",
+        "2": "3",
+        "3": "5",
+        "4": "6"
+      },
+      "correct_option": "4",
+      "explanation": "2-methylbutane has different types of H: (a) 6H at two CH₃ groups on C2 (equivalent), (b) 1H at C2 (tertiary), (c) 2H at C3, (d) 3H at terminal CH₃. Including stereoisomers (chiral centre at C3 position gives R and S), total products = 6."
+    },
+    {
+      "id": "CHEM_2025_76",
+      "question": "Among the given compound I-III, the correct order of bond dissociation energy of C-H bond marked with * is: (I = benzene C-H, II = alkyne C-H, III = cyclopropane C-H)",
+      "options": {
+        "1": "II > I > III",
+        "2": "I > II > III",
+        "3": "III > II > I",
+        "4": "II > III > I"
+      },
+      "correct_option": "1",
+      "explanation": "Higher s-character → stronger C-H bond. Alkyne C-H (sp, 50% s-character) > Benzene C-H (sp², 33% s-character) > Cyclopropane C-H (sp³ with some s-character enhancement but weaker). Order: II > I > III."
+    },
+    {
+      "id": "CHEM_2025_77",
+      "question": "Which one of the following compounds does not decolourize bromine water?",
+      "options": {
+        "1": "Cyclohexane",
+        "2": "Phenol",
+        "3": "Styrene (Ph-CH=CH₂)",
+        "4": "Aniline"
+      },
+      "correct_option": "1",
+      "explanation": "Cyclohexane is a saturated hydrocarbon and does not react with bromine water (no decolourization). Phenol, styrene (double bond), and aniline all react with Br₂ water."
+    },
+    {
+      "id": "CHEM_2025_78",
+      "question": "The major product of the following reaction is: Ph-CO-CH₂-CN + (i) CH₃MgBr(excess), (ii) H₃O⁺ →",
+      "options": {
+        "1": "Ph-C(CH₃)(OH)-CN",
+        "2": "Ph-C(CH₃)(OH)-CO-CH₃",
+        "3": "Ph-C(CH₃)(OH)-C(CH₃)(OH)-CH₃",
+        "4": "Ph-CO-CH₂-CO-CH₃"
+      },
+      "correct_option": "2",
+      "explanation": "Grignard reagent (excess CH₃MgBr) attacks the more reactive ketone carbonyl first, giving an alcohol. CN group is converted to ketone (C=O) upon hydrolysis. Major product is an α-hydroxy ketone."
+    },
+    {
+      "id": "CHEM_2025_79",
+      "question": "Which of the following aqueous solution will exhibit highest boiling point?",
+      "options": {
+        "1": "0.01 M Urea",
+        "2": "0.01 M KNO₃",
+        "3": "0.01 M Na₂SO₄",
+        "4": "0.015 M C₆H₁₂O₆"
+      },
+      "correct_option": "3",
+      "explanation": "ΔTb = iKb×m. Urea: i=1, particles=0.01. KNO₃: i=2, particles=0.02. Na₂SO₄: i=3, particles=0.03. Glucose (0.015M): i=1, particles=0.015. Na₂SO₄ gives highest boiling point elevation."
+    },
+    {
+      "id": "CHEM_2025_80",
+      "question": "Match List-I with List-II: A. Haber process — B. Wacker oxidation — C. Wilkinson catalyst — D. Ziegler catalyst; I. Fe catalyst, II. PdCl₂, III. [(PPh₃)₃RhCl], IV. TiCl₄ with Al(CH₃)₃",
+      "options": {
+        "1": "A-I, B-II, C-IV, D-III",
+        "2": "A-II, B-III, C-I, D-IV",
+        "3": "A-I, B-II, C-III, D-IV",
+        "4": "A-I, B-IV, C-III, D-II"
+      },
+      "correct_option": "3",
+      "explanation": "Haber process-I (Fe catalyst for NH₃ synthesis), Wacker oxidation-II (PdCl₂ for ethylene to acetaldehyde), Wilkinson catalyst-III ([(PPh₃)₃RhCl] for hydrogenation), Ziegler catalyst-IV (TiCl₄/Al(CH₃)₃ for polymerization)."
+    },
+    {
+      "id": "CHEM_2025_81",
+      "question": "5 moles of liquid X and 10 moles of liquid Y make a solution having a vapour pressure of 70 torr. The vapour pressures of pure X and Y are 63 torr and 78 torr respectively. Which of the following is true regarding the described solution?",
+      "options": {
+        "1": "The solution shows positive deviation.",
+        "2": "The solution shows negative deviation.",
+        "3": "The solution is ideal.",
+        "4": "The solution has volume greater than the sum of individual volumes."
+      },
+      "correct_option": "2",
+      "explanation": "Ideal VP = (5/15)×63 + (10/15)×78 = 21 + 52 = 73 torr. Observed VP = 70 torr < 73 torr → negative deviation from Raoult's law."
+    },
+    {
+      "id": "CHEM_2025_82",
+      "question": "Sugar 'X': A. is found in honey. B. is a keto sugar. C. exists in α and β-anomeric forms. D. is laevorotatory. 'X' is:",
+      "options": {
+        "1": "D-Glucose",
+        "2": "D-Fructose",
+        "3": "Maltose",
+        "4": "Sucrose"
+      },
+      "correct_option": "2",
+      "explanation": "D-Fructose: found in honey (A ✓), is a ketohexose (B ✓), has α and β anomers (C ✓), is laevorotatory [-92°] (D ✓). All properties match D-Fructose."
+    },
+    {
+      "id": "CHEM_2025_83",
+      "question": "Identify the suitable reagent for the following conversion: Ph-CO-OCH₃ → Ph-CHO",
+      "options": {
+        "1": "(i) LiAlH₄, (ii) H⁺/H₂O",
+        "2": "(i) AlH(iBu)₂, (ii) H₂O",
+        "3": "(i) NaBH₄, (ii) H⁺/H₂O",
+        "4": "H₂/Pd-BaSO₄"
+      },
+      "correct_option": "2",
+      "explanation": "DIBAL-H (diisobutylaluminium hydride, AlH(iBu)₂) selectively reduces esters to aldehydes at low temperature. LiAlH₄ would over-reduce to alcohol."
+    },
+    {
+      "id": "CHEM_2025_84",
+      "question": "Assertion (A): Allyl iodide (CH₂=CH-CH₂I) undergoes SN2 reaction faster than allyl chloride (CH₂=CH-CH₂Cl). Reason (R): Iodine is a better leaving group because of its large size.",
+      "options": {
+        "1": "Both A and R are true and R is the correct explanation of A.",
+        "2": "Both A and R are true but R is not the correct explanation of A.",
+        "3": "A is true but R is false",
+        "4": "A is false but R is true"
+      },
+      "correct_option": "1",
+      "explanation": "Both A and R are true. Iodide is a better leaving group than chloride due to its larger size (weaker C-I bond, more polarizable), so SN2 rate is higher for allyl iodide."
+    },
+    {
+      "id": "CHEM_2025_85",
+      "question": "The standard heat of formation, in kcal/mol of Ba²⁺ is: [Given: standard heat of formation of SO₄²⁻ ion (aq) = −216 kcal/mol, Standard heat of crystallisation of BaSO₄(s) = −4.5 kcal/mol, standard heat of formation of BaSO₄(s) = −349 kcal/mol]",
+      "options": {
+        "1": "-128.5",
+        "2": "-133.0",
+        "3": "+133.0",
+        "4": "+220.5"
+      },
+      "correct_option": "1",
+      "explanation": "ΔHf[BaSO₄(s)] = ΔHf[Ba²⁺(aq)] + ΔHf[SO₄²⁻(aq)] + ΔH_crystallisation. -349 = ΔHf[Ba²⁺] + (-216) + (-4.5). ΔHf[Ba²⁺] = -349 + 216 + 4.5 = -128.5 kcal/mol."
+    },
+    {
+      "id": "CHEM_2025_86",
+      "question": "Total number of possible isomers (both structural as well as stereoisomers) of cyclic ethers of molecular formula C₄H₈O is:",
+      "options": {
+        "1": "6",
+        "2": "8",
+        "3": "10",
+        "4": "11"
+      },
+      "correct_option": "3",
+      "explanation": "Cyclic ethers of C₄H₈O include oxetane, tetrahydrofuran, methyloxetane, dimethyloxirane, ethyloxirane, etc. Counting all structural isomers and stereoisomers (cis/trans) gives 10 total."
+    },
+    {
+      "id": "CHEM_2025_87",
+      "question": "Identify the correct orders against the property mentioned: (A) H₂O > NH₃ > CHCl₃ – dipole moment, (B) XeF₄ > XeO₃ > XeF₂ – number of lone pairs on central atom, (C) O–H > C–H > N–O – bond length, (D) N₂ > O₂ > H₂ – bond enthalpy",
+      "options": {
+        "1": "A, D only",
+        "2": "B, D only",
+        "3": "A, C only",
+        "4": "B, C only"
+      },
+      "correct_option": "1",
+      "explanation": "A is correct (H₂O = 1.84D > NH₃ = 1.46D > CHCl₃ = 1.04D). D is correct (N₂ = 945, O₂ = 498, H₂ = 436 kJ/mol). B is wrong (XeF₄ has 2 LPs, XeO₃ has 1 LP, XeF₂ has 3 LPs — order wrong). C is wrong (N-O > O-H > C-H in terms of length)."
+    },
+    {
+      "id": "CHEM_2025_88",
+      "question": "Higher yield of NO in N₂(g) + O₂(g) ⇌ 2NO(g) can be obtained at [ΔH of the reaction = +180.7 kJ mol⁻¹]: A. higher temperature, B. lower temperature, C. higher concentration of N₂, D. higher concentration of O₂",
+      "options": {
+        "1": "A, D only",
+        "2": "B, C only",
+        "3": "B, C, D only",
+        "4": "A, C, D only"
+      },
+      "correct_option": "4",
+      "explanation": "Reaction is endothermic (ΔH > 0) → higher temperature favours forward reaction (A ✓). Higher concentration of reactants N₂ (C ✓) and O₂ (D ✓) shifts equilibrium forward. Lower temperature (B) is wrong."
+    },
+    {
+      "id": "CHEM_2025_89",
+      "question": "If the rate constant of a reaction is 0.03 s⁻¹, how much time does it take for 7.2 mol L⁻¹ concentration of the reactant to get reduced to 0.9 mol L⁻¹? (Given: log 2 = 0.301)",
+      "options": {
+        "1": "69.3 s",
+        "2": "23.1 s",
+        "3": "210 s",
+        "4": "21.0 s"
+      },
+      "correct_option": "1",
+      "explanation": "First order reaction (k in s⁻¹). t = (2.303/k) × log(C₀/C) = (2.303/0.03) × log(7.2/0.9) = 76.77 × log(8) = 76.77 × 3×0.301 = 76.77 × 0.903 ≈ 69.3 s."
+    },
+    {
+      "id": "CHEM_2025_90",
+      "question": "Which one of the following reactions does NOT belong to 'Lassaigne's test'?",
+      "options": {
+        "1": "Na + C + N →(Δ) NaCN",
+        "2": "2Na + S →(Δ) Na₂S",
+        "3": "Na + X →(Δ) NaX",
+        "4": "2CuO + C →(Δ) 2Cu + CO₂"
+      },
+      "correct_option": "4",
+      "explanation": "Lassaigne's test involves fusing organic compound with sodium metal to detect N, S, and halogens (reactions 1, 2, 3). Reaction 4 (CuO + C) is not part of Lassaigne's test."
+    }
+  ]
+}

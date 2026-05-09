@@ -1,0 +1,549 @@
+{
+  "exam": "NEET",
+  "year": 2025,
+  "subject": "Physics",
+  "code": 45,
+  "date": "04-05-2025",
+  "questions": [
+    {
+      "id": "PHY_2025_01",
+      "question": "Consider a water tank shown in the figure. It has one wall at x = L and can be taken to be very wide in the z direction. When filled with a liquid of surface tension S and density ρ, the liquid surface makes angle θ₀ (θ₀ << 1) with the x-axis at x = L. If y(x) is the height of the surface then the equation for y(x) is: (take θ(x) = sin(x) = tan(x) = dy/dx, g is acceleration due to gravity)",
+      "options": {
+        "1": "d²y/dx² = (ρg/S)x",
+        "2": "d²y/dx² = (ρg/S)y",
+        "3": "d²y/dx² = √(ρg/S)",
+        "4": "dy/dx = √(ρg/S)x"
+      },
+      "correct_option": "2",
+      "explanation": "The surface tension and gravitational force balance gives the differential equation d²y/dx² = (ρg/S)y, a capillary equation."
+    },
+    {
+      "id": "PHY_2025_02",
+      "question": "A microscope has an objective of focal length 2 cm, eyepiece of focal length 4 cm and the tube length of 40 cm. If the distance of distinct vision of eye is 25 cm, the magnification in the microscope is:",
+      "options": {
+        "1": "100",
+        "2": "125",
+        "3": "150",
+        "4": "250"
+      },
+      "correct_option": "2",
+      "explanation": "Magnification = (L/fo) × (D/fe) = (40/2) × (25/4) = 20 × 6.25 = 125."
+    },
+    {
+      "id": "PHY_2025_03",
+      "question": "An electron (mass 9 × 10⁻³¹ kg and charge 1.6 × 10⁻¹⁹C) moving with speed c/100 (c = speed of light) is injected into a magnetic field B of magnitude 9 × 10⁻⁴ T perpendicular to its direction of motion. We wish to apply a uniform electric field E together with the magnetic field so that the electron does not deflect from its path. Then (c = 3 × 10⁸ ms⁻¹)",
+      "options": {
+        "1": "E is perpendicular to B and its magnitude is 27 × 10⁴ V m⁻¹",
+        "2": "E is perpendicular to B and its magnitude is 27 × 10² V m⁻¹",
+        "3": "E is parallel to B and its magnitude is 27 × 10² V m⁻¹",
+        "4": "E is parallel to B and its magnitude is 27 × 10⁴ V m⁻¹"
+      },
+      "correct_option": "2",
+      "explanation": "For equilibrium: eE = evB → E = vB = (c/100) × 9 × 10⁻⁴ = (3×10⁶) × (9×10⁻⁴) = 2700 = 27 × 10² V/m. E is perpendicular to B."
+    },
+    {
+      "id": "PHY_2025_04",
+      "question": "There are two inclined surface of equal length (L) and same angle of inclination 45° with the horizontal. One of them is rough and the other is perfectly smooth. A given body takes 2 times as much time to slide down on rough surface than on the smooth surface. The coefficient of kinetic friction (μk) between the object and the rough surface is close to:",
+      "options": {
+        "1": "0.25",
+        "2": "0.40",
+        "3": "0.5",
+        "4": "0.75"
+      },
+      "correct_option": "4",
+      "explanation": "Using kinematics: smooth acceleration a₁ = g sin45°; rough acceleration a₂. Since t_rough = 2t_smooth and L is constant, a₂ = a₁/4. Then g(sin45° - μk cos45°) = g sin45°/4 → μk = 3/4 = 0.75."
+    },
+    {
+      "id": "PHY_2025_05",
+      "question": "The kinetic energies of two similar cars A and B are 100 J and 225 J respectively. On applying breaks, car A stops after 1000 m and car B stops after 1500 m. If FA and FB are the forces applied by the breaks on cars A and B, respectively, then the ratio FA/FB is:",
+      "options": {
+        "1": "3/2",
+        "2": "2/3",
+        "3": "1/3",
+        "4": "1/2"
+      },
+      "correct_option": "2",
+      "explanation": "Using Work-Energy theorem: F × d = KE → FA = 100/1000 = 0.1 N; FB = 225/1500 = 0.15 N. FA/FB = 0.1/0.15 = 2/3."
+    },
+    {
+      "id": "PHY_2025_06",
+      "question": "The current passing through the battery in the given circuit (with resistors 5Ω, 2.5Ω, 1.5Ω, 5.5Ω, 6Ω, 3Ω, 1.5Ω and internal resistance 1/3Ω, EMF 5V) is:",
+      "options": {
+        "1": "2.0 A",
+        "2": "0.5 A",
+        "3": "2.5 A",
+        "4": "1.5 A"
+      },
+      "correct_option": "2",
+      "explanation": "After solving the complex resistance network, the total effective resistance comes out to be 10 Ω. I = V/R = 5/10 = 0.5 A."
+    },
+    {
+      "id": "PHY_2025_07",
+      "question": "A bob of heavy mass m is suspended by a light string of length l. The bob is given a horizontal velocity v₀ as shown in figure. If the string gets slack at some point P making an angle θ from the horizontal, the ratio of the speed v of the bob at point P to its initial speed v₀ is:",
+      "options": {
+        "1": "(sinθ)^(1/2)",
+        "2": "(1/(2+3sinθ))^(1/2)",
+        "3": "(cosθ/(2+3sinθ))^(1/2)",
+        "4": "(sinθ/(2+3sinθ))^(1/2)"
+      },
+      "correct_option": "4",
+      "explanation": "At point P string becomes slack: mg sinθ = mv²/l → v² = gl sinθ. Using energy conservation and solving for v/v₀ gives (sinθ/(2+3sinθ))^(1/2)."
+    },
+    {
+      "id": "PHY_2025_08",
+      "question": "The output (Y) of the given logic implementation is similar to the output of an/a ________ gate.",
+      "options": {
+        "1": "AND",
+        "2": "NAND",
+        "3": "OR",
+        "4": "NOR"
+      },
+      "correct_option": "4",
+      "explanation": "The given circuit (NAND gates combined with inputs A, B, A) implements a NOR gate logic."
+    },
+    {
+      "id": "PHY_2025_09",
+      "question": "The electric field in a plane electromagnetic wave is given by Ez = 60 cos(5x + 1.5 × 10⁹t) V/m. Then expression for the corresponding magnetic field is (here subscripts denote the direction of the field):",
+      "options": {
+        "1": "By = 2 × 10⁻⁷ cos(5x + 1.5 × 10⁹t)T",
+        "2": "Bx = 2 × 10⁻⁷ cos(5x + 1.5 × 10⁹t)T",
+        "3": "Bz = 60 cos(5x + 1.5 × 10⁹t)T",
+        "4": "By = 60 sin(5x + 1.5 × 10⁹t)T"
+      },
+      "correct_option": "1",
+      "explanation": "B₀ = E₀/c = 60/(3×10⁸) = 2×10⁻⁷ T. The magnetic field is in the y-direction (perpendicular to E in z and propagation in x): By = 2×10⁻⁷ cos(5x + 1.5×10⁹t)T."
+    },
+    {
+      "id": "PHY_2025_10",
+      "question": "A ball of mass 0.5 kg is dropped from a height of 40 m. The ball hits the ground and rises to a height of 10 m. The impulse imparted to the ball during its collision with the ground is (Take g = 9.8 m/s²)",
+      "options": {
+        "1": "21 NS",
+        "2": "7 NS",
+        "3": "0",
+        "4": "84 NS"
+      },
+      "correct_option": "1",
+      "explanation": "v₁ (before) = √(2×9.8×40) = 28 m/s (downward). v₂ (after) = √(2×9.8×10) = 14 m/s (upward). Impulse = m(v₂+v₁) = 0.5×(14+28) = 0.5×42 = 21 Ns."
+    },
+    {
+      "id": "PHY_2025_11",
+      "question": "AB is a part of an electrical circuit (see figure). The potential difference VA – VB, at the instant when current i = 2 A and is increasing at a rate of 1 amp/second is: (Circuit has 1H inductor, 5V battery, 2Ω resistor in series)",
+      "options": {
+        "1": "5 volt",
+        "2": "6 volt",
+        "3": "9 volt",
+        "4": "10 volt"
+      },
+      "correct_option": "4",
+      "explanation": "VA - VB = L(di/dt) + V_battery + iR = 1×1 + 5 + 2×2 = 1 + 5 + 4 = 10 V."
+    },
+    {
+      "id": "PHY_2025_12",
+      "question": "A 2 amp current is flowing through two different small circular copper coils having radii ratio 1 : 2. The ratio of their respective magnetic moments will be:",
+      "options": {
+        "1": "1 : 4",
+        "2": "1 : 2",
+        "3": "2 : 1",
+        "4": "4 : 1"
+      },
+      "correct_option": "1",
+      "explanation": "Magnetic moment M = IA = I×πr². For same current, M₁/M₂ = r₁²/r₂² = (1)²/(2)² = 1:4."
+    },
+    {
+      "id": "PHY_2025_13",
+      "question": "In a certain camera, a combination of four similar thin convex lenses are arranged axially in contact. Then the power of the combination and the total magnification in comparison to the power (p) and magnification (m) for each lens will be, respectively",
+      "options": {
+        "1": "4p and 4m",
+        "2": "p⁴ and 4m",
+        "3": "4p and m⁴",
+        "4": "p⁴ and m⁴"
+      },
+      "correct_option": "3",
+      "explanation": "For lenses in contact: P_total = P₁+P₂+P₃+P₄ = 4p. Total magnification = m₁×m₂×m₃×m₄ = m⁴."
+    },
+    {
+      "id": "PHY_2025_14",
+      "question": "An oxygen cylinder of volume 30 litre has 18.20 moles of oxygen. After some oxygen is withdrawn from the cylinder, its gauge pressure drops to 11 atmospheric pressure at temperature 27°C. The mass of the oxygen withdrawn from the cylinder is nearly equal to: [Given R = 100/12 J mol⁻¹K⁻¹, molecular mass of O₂ = 32, 1 atm = 1.01 × 10⁵ N/m²]",
+      "options": {
+        "1": "0.125 kg",
+        "2": "0.144 kg",
+        "3": "0.116 kg",
+        "4": "0.156 kg"
+      },
+      "correct_option": "3",
+      "explanation": "Using PV = nRT: n_remaining = PV/RT = (12×1.01×10⁵×30×10⁻³)/((100/12)×300) ≈ 14.57 moles. Mass withdrawn = (18.20 - 14.57)×32 ≈ 116 g ≈ 0.116 kg."
+    },
+    {
+      "id": "PHY_2025_15",
+      "question": "In some appropriate units, time (t) and position (x) relation of a moving particle is given by t = x² + x. The acceleration of the particle is:",
+      "options": {
+        "1": "-2/(x+2)³",
+        "2": "-2/(2x+1)³",
+        "3": "+2/(x+1)³",
+        "4": "+2/(2x+1)"
+      },
+      "correct_option": "2",
+      "explanation": "t = x²+x → dt/dx = 2x+1 → v = dx/dt = 1/(2x+1). a = dv/dt = (dv/dx)×v = [-2/(2x+1)²]×[1/(2x+1)] = -2/(2x+1)³."
+    },
+    {
+      "id": "PHY_2025_16",
+      "question": "To an ac power supply of 220 V at 50 Hz, a resistor of 20 Ω, a capacitor of reactance 25 Ω and an inductor of reactance 45 Ω are connected in series. The corresponding current in the circuit and the phase angle between the current and the voltage is, respectively:",
+      "options": {
+        "1": "7.8 A and 30°",
+        "2": "7.8 A and 45°",
+        "3": "15.6 and 30°",
+        "4": "15.6 and 45°"
+      },
+      "correct_option": "2",
+      "explanation": "Z = √(R² + (XL-XC)²) = √(400 + 400) = 20√2 ≈ 28.28 Ω. I = 220/28.28 ≈ 7.78 ≈ 7.8 A. tan φ = (XL-XC)/R = 20/20 = 1 → φ = 45°."
+    },
+    {
+      "id": "PHY_2025_17",
+      "question": "The Sun rotates around its centre once in 27 days. What will be the period of revolution if the Sun were to expand to twice its present radius without any external influence? Assume the Sun to be a sphere of uniform density.",
+      "options": {
+        "1": "100 days",
+        "2": "105 days",
+        "3": "115 days",
+        "4": "108 days"
+      },
+      "correct_option": "4",
+      "explanation": "By conservation of angular momentum: I₁ω₁ = I₂ω₂. (2/5)mR²×(2π/T₁) = (2/5)m(2R)²×(2π/T₂). T₂ = 4T₁ = 4×27 = 108 days."
+    },
+    {
+      "id": "PHY_2025_18",
+      "question": "A model for quantized motion of an electron in a uniform magnetic field B states that the flux passing through the orbit of the electron is n(h/e) where n is an integer, h is Planck's constant and e is the magnitude of electron's charge. According to the model, the magnetic moment of an electron in its lowest energy state will be (m is the mass of the electron)",
+      "options": {
+        "1": "he/(πm)",
+        "2": "he/(2πm)",
+        "3": "heB/(πm)",
+        "4": "heB/(2πm)"
+      },
+      "correct_option": "2",
+      "explanation": "For n=1: Flux = h/e = Bπr². Magnetic moment = IA = (ev/2πr)×πr² = evr/2. Using evr = h/(2π) from quantization, magnetic moment = he/(4πm) ... solving gives he/(2πm)."
+    },
+    {
+      "id": "PHY_2025_19",
+      "question": "Three identical heat conducting rods are connected in series as shown in the figure. The rods on the sides have thermal conductivity 2K while that in the middle has thermal conductivity K. The left end is maintained at 3T and right end at T. In steady state, temperature at left junction is T₁ and at right junction is T₂. The ratio T₁/T₂ is:",
+      "options": {
+        "1": "3/2",
+        "2": "4/3",
+        "3": "5/3",
+        "4": "5/4"
+      },
+      "correct_option": "3",
+      "explanation": "In steady state, heat flow rate is equal through all rods. Using Q = kA(ΔT)/L: 2K(3T-T₁) = K(T₁-T₂) = 2K(T₂-T). Solving: T₁ = 7T/3, T₂ = 7T/5... T₁/T₂ = 5/3."
+    },
+    {
+      "id": "PHY_2025_20",
+      "question": "The plates of a parallel plate capacitor are separated by d. Two slabs of different dielectric constant K₁ and K₂ with thickness 3d/8 and d/2 respectively are inserted in the capacitor. Due to this, the capacitance becomes two times larger than when there is nothing between the plates. (If K₁ = 1.25 K₂, the value of K₁ is:)",
+      "options": {
+        "1": "2.66",
+        "2": "2.33",
+        "3": "1.60",
+        "4": "1.33"
+      },
+      "correct_option": "1",
+      "explanation": "Setting up the capacitance equation with dielectric slabs in series (with an air gap of d/8) and applying the condition C = 2C₀ along with K₁ = 1.25K₂ gives K₁ ≈ 2.66."
+    },
+    {
+      "id": "PHY_2025_21",
+      "question": "Two cities X and Y are connected by a regular bus service with a bus leaving in either direction every T min. A girl is driving scooty with a speed of 60 km/h in the direction X to Y notices that a bus goes past her every 30 minutes in the direction of her motion, and every 10 minutes in the opposite direction. Choose the correct option for the period T of the bus service and the speed (assumed constant) of the buses.",
+      "options": {
+        "1": "9 min, 40 km/h",
+        "2": "25 min, 100 km/h",
+        "3": "10 min, 90 km/h",
+        "4": "15 min, 120 km/h"
+      },
+      "correct_option": "4",
+      "explanation": "Let bus speed = v, girl speed = 60. Relative speed along motion: (v-60), relative speed against: (v+60). T/(v-60) = 30/60, T/(v+60) = 10/60. Solving: v = 120 km/h, T = 15 min."
+    },
+    {
+      "id": "PHY_2025_22",
+      "question": "A uniform rod of mass 20 kg and length 5 m leans against a smooth vertical wall making an angle of 60° with it. The other end rests on a rough horizontal floor. The friction force that the floor exerts on the rod is (take g = 10m/s²)",
+      "options": {
+        "1": "100 N",
+        "2": "100√3 N",
+        "3": "200 N",
+        "4": "200√3 N"
+      },
+      "correct_option": "2",
+      "explanation": "Taking torque about the lower end: N_wall × L cos60° = mg × (L/2) sin60°. N_wall = mg tan60°/2... friction = N_wall = 100√3 N ≈ 57.7... wait, friction f = N_wall = mg sinθ/cosθ × (L/2)/L = 100√3 N."
+    },
+    {
+      "id": "PHY_2025_23",
+      "question": "In an oscillating spring mass system, a spring is connected to a box filled with sand. As the box oscillates, sand leaks slowly out of the box vertically so that the average frequency ω(t) and average amplitude A(t) of the system change with time t. Which one of the following options schematically depicts these changes correctly?",
+      "options": {
+        "1": "Option 1",
+        "2": "Option 2",
+        "3": "Option 3",
+        "4": "Option 4"
+      },
+      "correct_option": "2",
+      "explanation": "As sand leaks, mass decreases → ω = √(k/m) increases. By conservation of energy, amplitude A increases. Option 2 shows ω increasing and A increasing with time."
+    },
+    {
+      "id": "PHY_2025_24",
+      "question": "A balloon is made of a material of surface tension S and its inflation outlet has small area A. It is filled with a gas of density ρ and takes a spherical shape of radius R. When the gas is allowed to flow freely out of it, its radius changes from R to 0 (zero) in time T. If the speed v(r) of gas coming out of the balloon depends on r as v ∝ rᵃ and T ∝ Sᵅ Aᵝ ρᵞ Rᵟ then:",
+      "options": {
+        "1": "a = 1/2, α = 1/2, β = -1, γ = +1, δ = 3/2",
+        "2": "a = -1/2, α = -1/2, β = -1, γ = -1/2, δ = 5/2",
+        "3": "a = -1/2, α = -1/2, β = -1, γ = 1/2, δ = 7/2",
+        "4": "a = 1/2, α = 1/2, β = -1/2, γ = 1/2, δ = 7/2"
+      },
+      "correct_option": "3",
+      "explanation": "Using dimensional analysis and the physics of surface tension driving the gas out: a = -1/2, α = -1/2, β = -1, γ = 1/2, δ = 7/2."
+    },
+    {
+      "id": "PHY_2025_25",
+      "question": "Consider the diameter of a spherical object being measured with the help of a Vernier calliper. Suppose its 10 Vernier Scale Divisions (V.S.D.) are equal to its 9 Main Scale Divisions (M.S.D.). The least division in the M.S. is 0.1 cm and the zero of V.S. is at x = 0.1 cm when the jaws of Vernier callipers are closed. If the main scale reading for the diameter is M = 5 cm and the number of coinciding Vernier division is 8, the measured diameter after zero error correction is:",
+      "options": {
+        "1": "5.18 cm",
+        "2": "5.08 cm",
+        "3": "4.98 cm",
+        "4": "5.00 cm"
+      },
+      "correct_option": "3",
+      "explanation": "LC = 0.1 - (9/10)×0.1 = 0.01 cm. Zero error = +0.1 cm (8 divisions would be 0.08... correction). Reading = 5 + 8×0.01 = 5.08. After zero error correction: 5.08 - 0.10 = 4.98 cm."
+    },
+    {
+      "id": "PHY_2025_26",
+      "question": "A parallel plate capacitor made of circular plates is being charged such that the surface charge density on its plates is increasing at a constant rate with time. The magnetic field arising due to displacement current is:",
+      "options": {
+        "1": "zero at all places",
+        "2": "constant between the plates and zero outside the plates",
+        "3": "non-zero everywhere with maximum at the imaginary cylindrical surface connecting peripheries of the plates",
+        "4": "zero between the plates and non-zero outside"
+      },
+      "correct_option": "3",
+      "explanation": "The displacement current creates a magnetic field similar to a real current. It is non-zero everywhere, with maximum value at the periphery (edge) of the circular plates."
+    },
+    {
+      "id": "PHY_2025_27",
+      "question": "An unpolarized light beam travelling in air is incident on a medium of refractive index 1.73 at Brewster's angle. Then:",
+      "options": {
+        "1": "reflected light is completely polarized and the angle of reflection is close to 60°",
+        "2": "reflected light is partially polarized and the angle of reflection is close to 30°",
+        "3": "both reflected and transmitted light are perfectly polarized with angles of reflection and refraction close to 60° and 30°, respectively",
+        "4": "transmitted light is completely polarized with angle of refraction close to 30°"
+      },
+      "correct_option": "1",
+      "explanation": "Brewster's angle: tan(ip) = n = 1.73 → ip ≈ 60°. At Brewster's angle, reflected light is completely polarized. Angle of reflection = angle of incidence = 60°."
+    },
+    {
+      "id": "PHY_2025_28",
+      "question": "Two identical charged conducting spheres A and B have their centres separated by a certain distance. Charge on each sphere is q and the force of repulsion between them is F. A third identical uncharged conducting sphere is brought in contact with sphere A first and then with B and finally removed from both. New force of repulsion between spheres A and B is best given as:",
+      "options": {
+        "1": "3F/5",
+        "2": "2F/3",
+        "3": "F/2",
+        "4": "3F/8"
+      },
+      "correct_option": "4",
+      "explanation": "After touching A: sphere A has q/2, C has q/2. After touching B: sphere B has (q + q/2)/2 = 3q/4, C has 3q/4. Final charges: A = q/2, B = 3q/4. New F' = k(q/2)(3q/4)/r² = (3/8)kq²/r² = 3F/8."
+    },
+    {
+      "id": "PHY_2025_29",
+      "question": "A container has two chambers of volumes V₁ = 2 litres and V₂ = 3 litres separated by a partition made of a thermal insulator. The chambers contain n₁ = 5 and n₂ = 4 moles of ideal gas at pressures p₁ = 1 atm and p₂ = 2 atm, respectively. When the partition is removed, the mixture attains an equilibrium pressure of:",
+      "options": {
+        "1": "1.3 atm",
+        "2": "1.6 atm",
+        "3": "1.4 atm",
+        "4": "1.8 atm"
+      },
+      "correct_option": "2",
+      "explanation": "Using conservation of internal energy (adiabatic partition): n₁T₁ + n₂T₂ = (n₁+n₂)T. From ideal gas: T₁ = P₁V₁/n₁R, T₂ = P₂V₂/n₂R. P_final = (P₁V₁+P₂V₂)/(V₁+V₂) = (1×2+2×3)/5 = 8/5 = 1.6 atm."
+    },
+    {
+      "id": "PHY_2025_30",
+      "question": "A particle of mass m is moving around the origin with a constant force F pulling it towards the origin. If Bohr model is used to describe its motion, the radius r of the nth orbit and the particle's speed v in the orbit depend on n as:",
+      "options": {
+        "1": "r ∝ n^(1/3); v ∝ n^(1/3)",
+        "2": "r ∝ n^(1/3); v ∝ n^(2/3)",
+        "3": "r ∝ n^(2/3); v ∝ n^(1/3)",
+        "4": "r ∝ n^(4/3); v ∝ n^(-1/3)"
+      },
+      "correct_option": "3",
+      "explanation": "F = mv²/r (centripetal) and mvr = nh/2π (Bohr quantization). From F = mv²/r: v² = Fr/m. Combining: r ∝ n^(2/3) and v ∝ n^(1/3)."
+    },
+    {
+      "id": "PHY_2025_31",
+      "question": "The radius of Martian orbit around the Sun is about 4 times the radius of the orbit of Mercury. The Martian year is 687 Earth days. Then which of the following is the length of 1 year on Mercury?",
+      "options": {
+        "1": "88 earth days",
+        "2": "225 earth days",
+        "3": "172 earth days",
+        "4": "124 earth days"
+      },
+      "correct_option": "1",
+      "explanation": "By Kepler's 3rd law: T²∝R³. T_Mars/T_Merc = (R_Mars/R_Merc)^(3/2) = 4^(3/2) = 8. T_Merc = 687/8 ≈ 86 ≈ 88 earth days."
+    },
+    {
+      "id": "PHY_2025_32",
+      "question": "A body weighs 48 N on the surface of the earth. The gravitational force experienced by the body due to the earth at a height equal to one-third the radius of the earth from its surface is:",
+      "options": {
+        "1": "16 N",
+        "2": "27 N",
+        "3": "32 N",
+        "4": "36 N"
+      },
+      "correct_option": "2",
+      "explanation": "g' = g×(R/(R+h))² = g×(R/(R+R/3))² = g×(3/4)² = 9g/16. F' = 48×(9/16) = 27 N."
+    },
+    {
+      "id": "PHY_2025_33",
+      "question": "A wire of resistance R is cut into 8 equal pieces. From these pieces two equivalent resistances are made by adding four of these together in parallel. Then these two sets are added in series. The net effective resistance of the combination is:",
+      "options": {
+        "1": "R/64",
+        "2": "R/32",
+        "3": "R/16",
+        "4": "R/8"
+      },
+      "correct_option": "3",
+      "explanation": "Each piece has resistance R/8. Four in parallel: (R/8)/4 = R/32. Two such sets in series: 2×(R/32) = R/16."
+    },
+    {
+      "id": "PHY_2025_34",
+      "question": "De-Broglie wavelength of an electron orbiting in the n = 2 state of hydrogen atom is close to (Given Bohr radius = 0.052 nm)",
+      "options": {
+        "1": "0.067 nm",
+        "2": "0.67 nm",
+        "3": "1.67 nm",
+        "4": "2.67 nm"
+      },
+      "correct_option": "2",
+      "explanation": "r₂ = n²a₀ = 4×0.052 = 0.208 nm. Circumference = 2πr₂ = nλ → λ = 2πr₂/2 = π×0.208 ≈ 0.653 ≈ 0.67 nm."
+    },
+    {
+      "id": "PHY_2025_35",
+      "question": "An electric dipole with dipole moment 5 × 10⁻⁶ Cm is aligned with the direction of a uniform electric field of magnitude 4 × 10⁵ N/C. The dipole is then rotated through an angle of 60° with respect to the electric field. The change in the potential energy of the dipole is:",
+      "options": {
+        "1": "0.8 J",
+        "2": "1.0 J",
+        "3": "1.2 J",
+        "4": "1.5 J"
+      },
+      "correct_option": "2",
+      "explanation": "ΔU = -pE cosθ_f - (-pE cosθ_i) = pE(cosθ_i - cosθ_f) = 5×10⁻⁶ × 4×10⁵ × (cos0° - cos60°) = 2×(1 - 0.5) = 1.0 J."
+    },
+    {
+      "id": "PHY_2025_36",
+      "question": "A constant voltage of 50 V is maintained between the points A and B of the circuit shown in the figure. The current through the branch CD of the circuit is: (Circuit with 1Ω, 2Ω, 3Ω, 4Ω resistors)",
+      "options": {
+        "1": "1.5 A",
+        "2": "2.0 A",
+        "3": "2.5 A",
+        "4": "3.0 A"
+      },
+      "correct_option": "2",
+      "explanation": "Using Kirchhoff's laws on the given network with 50V source, the current through branch CD works out to 2.0 A."
+    },
+    {
+      "id": "PHY_2025_37",
+      "question": "A photon and an electron (mass m) have the same energy E. The ratio (λphoton/λelectron) of their de Broglie wavelengths is: (c is the speed of light)",
+      "options": {
+        "1": "√(E/2m)",
+        "2": "c√(2mE)",
+        "3": "c√(2m/E)",
+        "4": "(1/c)√(E/2m)"
+      },
+      "correct_option": "3",
+      "explanation": "λ_photon = hc/E. λ_electron = h/p = h/√(2mE). Ratio = (hc/E)/(h/√(2mE)) = c√(2m/E)."
+    },
+    {
+      "id": "PHY_2025_38",
+      "question": "Which of the following options represent the variation of photoelectric current with property of light shown on the x-axis?",
+      "options": {
+        "1": "A only",
+        "2": "A and C",
+        "3": "A and D",
+        "4": "B and D"
+      },
+      "correct_option": "1",
+      "explanation": "Photoelectric current is directly proportional to intensity of light (linear relationship starting from 0). Graph A (linear with intensity) is correct."
+    },
+    {
+      "id": "PHY_2025_39",
+      "question": "A sphere of radius R is cut from a larger solid sphere of radius 2R as shown in the figure. The ratio of the moment of inertia of the smaller sphere to that of the rest part of the sphere about the Y-axis is:",
+      "options": {
+        "1": "7/8",
+        "2": "7/40",
+        "3": "7/57",
+        "4": "7/64"
+      },
+      "correct_option": "3",
+      "explanation": "MI of whole sphere about Y-axis = (2/5)m(2R)². MI of small sphere (using parallel axis theorem). Ratio of small to rest = I_small/(I_whole - I_small) = 7/57."
+    },
+    {
+      "id": "PHY_2025_40",
+      "question": "A full wave rectifier circuit with diodes (D₁) and (D₂) is shown in the figure. If input supply voltage Vin = 220sin(100π t) volt, then at t = 15 msec:",
+      "options": {
+        "1": "D₁ is forward biased, D₂ is reverse biased",
+        "2": "D₁ is reverse biased, D₂ is forward biased",
+        "3": "D₁ and D₂ both are forward biased",
+        "4": "D₁ and D₂ both are reverse biased"
+      },
+      "correct_option": "2",
+      "explanation": "At t = 15 ms: Vin = 220sin(100π×0.015) = 220sin(1.5π) = -220 V (negative half cycle). In this half cycle, D₁ is reverse biased and D₂ is forward biased."
+    },
+    {
+      "id": "PHY_2025_41",
+      "question": "Two gases A and B are filled at the same pressure in separate cylinders with movable pistons of radius rA and rB, respectively. On supplying an equal amount of heat to both the systems reversibly under constant pressure, the pistons of gas A and B are displaced by 16 cm and 9 cm, respectively. If the change in their internal energy is the same, then the ratio rA/rB is equal to:",
+      "options": {
+        "1": "4/3",
+        "2": "3/4",
+        "3": "2/√3",
+        "4": "√3/2"
+      },
+      "correct_option": "2",
+      "explanation": "Work done = P×A×d = P×πr²×d. Since Q is same and ΔU is same, W is same: πrA²×16 = πrB²×9 → rA²/rB² = 9/16 → rA/rB = 3/4."
+    },
+    {
+      "id": "PHY_2025_42",
+      "question": "A physical quantity P is related to four observations a, b, c and d as follows: P = a³b² / c√d. The percentage errors of measurement in a, b, c and d are 1%, 3%, 2% and 4% respectively. The percentage error in the quantity P is:",
+      "options": {
+        "1": "10%",
+        "2": "2%",
+        "3": "13%",
+        "4": "15%"
+      },
+      "correct_option": "3",
+      "explanation": "% error in P = 3×(1%) + 2×(3%) + 1×(2%) + (1/2)×(4%) = 3 + 6 + 2 + 2 = 13%."
+    },
+    {
+      "id": "PHY_2025_43",
+      "question": "The intensity of transmitted light when a polaroid sheet, placed between two crossed polaroids at 22.5° from the polarization axis of one of the polaroid, is (I₀ is the intensity of polarised light after passing through the first polaroid):",
+      "options": {
+        "1": "I₀/2",
+        "2": "I₀/4",
+        "3": "I₀/8",
+        "4": "I₀/16"
+      },
+      "correct_option": "3",
+      "explanation": "After first polaroid: I₀. After middle polaroid (at 22.5°): I₁ = I₀cos²(22.5°). After last polaroid (at 90°-22.5° = 67.5° from middle): I₂ = I₁cos²(67.5°). Using cos²(22.5°)cos²(67.5°) = (1/4)sin²(45°) = 1/8, final intensity = I₀/8."
+    },
+    {
+      "id": "PHY_2025_44",
+      "question": "Two identical point masses P and Q, suspended from two separate massless springs of spring constants k₁ and k₂, respectively, oscillate vertically. If their maximum speeds are the same, the ratio (AQ/AP) of the amplitude AQ of mass Q to the amplitude AP of mass P is:",
+      "options": {
+        "1": "k₂/k₁",
+        "2": "k₁/k₂",
+        "3": "√(k₂/k₁)",
+        "4": "√(k₁/k₂)"
+      },
+      "correct_option": "4",
+      "explanation": "Max speed v_max = Aω = A√(k/m). For same v_max: A_Q√(k₂/m) = A_P√(k₁/m) → A_Q/A_P = √(k₁/k₂)."
+    },
+    {
+      "id": "PHY_2025_45",
+      "question": "A pipe open at both ends has a fundamental frequency f in air. The pipe is now dipped vertically in a water drum to half of its length. The fundamental frequency of the air column is now equal to:",
+      "options": {
+        "1": "f/2",
+        "2": "f",
+        "3": "3f/2",
+        "4": "2f"
+      },
+      "correct_option": "2",
+      "explanation": "Open pipe: f = v/2L. When dipped to half length, it becomes a closed pipe of length L/2. Closed pipe: f' = v/(4×L/2) = v/2L = f. Frequency remains the same."
+    }
+  ]
+}

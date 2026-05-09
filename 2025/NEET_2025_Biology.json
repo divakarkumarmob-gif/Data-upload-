@@ -1,0 +1,1090 @@
+{
+  "exam": "NEET",
+  "year": 2025,
+  "subject": "Biology",
+  "code": 45,
+  "date": "04-05-2025",
+  "questions": [
+    {
+      "id": "BIO_2025_91",
+      "question": "The complex II of mitochondrial electron transport chain is also known as",
+      "options": {
+        "1": "Cytochrome bc1",
+        "2": "Succinate dehydrogenase",
+        "3": "Cytochrome c oxidase",
+        "4": "NADH dehydrogenase"
+      },
+      "correct_option": "2",
+      "explanation": "Complex II of the mitochondrial electron transport chain is Succinate dehydrogenase (also known as succinate-CoQ reductase)."
+    },
+    {
+      "id": "BIO_2025_92",
+      "question": "Polymerase chain reaction (PCR) amplifies DNA following the equation.",
+      "options": {
+        "1": "N²",
+        "2": "2ⁿ",
+        "3": "2n + 1",
+        "4": "2N²"
+      },
+      "correct_option": "2",
+      "explanation": "PCR doubles the DNA with each cycle, so after n cycles, the number of copies = 2ⁿ."
+    },
+    {
+      "id": "BIO_2025_93",
+      "question": "What are the potential drawbacks in adoption of the IVF method? (A. High fatality risk to mother, B. Expensive instruments and reagents, C. Husband/wife necessary for being donors, D. Less adoption of orphans, E. Not available in India, F. Possibility that the early embryo does not survive)",
+      "options": {
+        "1": "B, D, F only",
+        "2": "A, C, D, F only",
+        "3": "A, B, C, D only",
+        "4": "A, B, C, E, F only"
+      },
+      "correct_option": "1",
+      "explanation": "IVF drawbacks include: expensive instruments & reagents (B), less adoption of orphans (D), and possibility that the early embryo does not survive (F)."
+    },
+    {
+      "id": "BIO_2025_94",
+      "question": "What is the name of the blood vessel that carries deoxygenated blood from the body to the heart in a frog?",
+      "options": {
+        "1": "Aorta",
+        "2": "Pulmonary artery",
+        "3": "Pulmonary vein",
+        "4": "Vena cava"
+      },
+      "correct_option": "4",
+      "explanation": "Vena cava carries deoxygenated blood from the body to the heart in a frog."
+    },
+    {
+      "id": "BIO_2025_95",
+      "question": "Which one of the following statements refers to Reductionist Biology?",
+      "options": {
+        "1": "Physico-chemical approach to study and understand living organisms.",
+        "2": "Physiological approach to study and understand living organisms.",
+        "3": "Chemical approach to study and understand living organisms.",
+        "4": "Behavioural approach to study and understand living organisms."
+      },
+      "correct_option": "1",
+      "explanation": "Reductionist Biology refers to the physico-chemical approach to study and understand living organisms."
+    },
+    {
+      "id": "BIO_2025_96",
+      "question": "Statement I: In the RNA world, RNA is considered the first genetic material evolved to carry out essential life processes. RNA acts as a genetic material and also as a catalyst for some important biochemical reactions in living systems. Being reactive, RNA is unstable. Statement II: DNA evolved from RNA and is a more stable genetic material. Its double helical strands being complementary, resist changes by evolving repairing mechanism. Choose the most appropriate answer.",
+      "options": {
+        "1": "Both statement I and statement II are correct.",
+        "2": "Both statement I and statement II are incorrect.",
+        "3": "Statement I is correct but statement II is incorrect.",
+        "4": "Statement I is incorrect but statement II is correct."
+      },
+      "correct_option": "1",
+      "explanation": "Both statements are correct. RNA was the first genetic material and DNA evolved from RNA as a more stable genetic material."
+    },
+    {
+      "id": "BIO_2025_97",
+      "question": "Epiphytes that are growing on a mango branch is an example of which of the following?",
+      "options": {
+        "1": "Commensalism",
+        "2": "Mutualism",
+        "3": "Predation",
+        "4": "Amensalism"
+      },
+      "correct_option": "1",
+      "explanation": "Epiphytes grow on other plants (like mango) without harming them, benefiting themselves by accessing light — this is Commensalism."
+    },
+    {
+      "id": "BIO_2025_98",
+      "question": "From the statements given below choose the correct option: A. The eukaryotic ribosomes are 80S and prokaryotic ribosomes are 70S. B. Each ribosome has two sub-units. C. The two sub-units of 80S ribosome are 60S and 40S while that of 70S are 50S and 30S. D. The two sub-units of 80S ribosome are 60S and 20S and that of 70S are 50S and 20S. E. The two sub-units of 80S ribosome are 60S and 30S and that of 70S are 50S and 30S.",
+      "options": {
+        "1": "A, B, C are true",
+        "2": "A, B, D are true",
+        "3": "A, B, E are true",
+        "4": "B, D, E are true"
+      },
+      "correct_option": "1",
+      "explanation": "Eukaryotic ribosomes are 80S (60S + 40S) and prokaryotic are 70S (50S + 30S). Each ribosome has two sub-units. A, B, C are correct."
+    },
+    {
+      "id": "BIO_2025_99",
+      "question": "Which one of the following is an example of ex-situ conservation?",
+      "options": {
+        "1": "National park",
+        "2": "Wildlife Sanctuary",
+        "3": "Zoos and botanical gardens",
+        "4": "Protected areas"
+      },
+      "correct_option": "3",
+      "explanation": "Ex-situ conservation involves conserving species outside their natural habitat. Zoos and botanical gardens are classic examples."
+    },
+    {
+      "id": "BIO_2025_100",
+      "question": "Statement I: The primary source of energy in an ecosystem is solar energy. Statement II: The rate of production of organic matter during photosynthesis in an ecosystem is called net primary productivity (NPP). Choose the most appropriate answer.",
+      "options": {
+        "1": "Both statement I and statement II are correct.",
+        "2": "Both statement I and statement II are incorrect.",
+        "3": "Statement I is correct but statement II is incorrect.",
+        "4": "Statement I is incorrect but statement II is correct."
+      },
+      "correct_option": "3",
+      "explanation": "Statement I is correct. Statement II is incorrect — the rate of photosynthesis is Gross Primary Productivity (GPP); NPP = GPP minus respiration losses."
+    },
+    {
+      "id": "BIO_2025_101",
+      "question": "Match List-I with List-II: A. Emphysema — B. Angina Pectoris — C. Glomerulonephritis — D. Tetany; I. Rapid spasms in muscle due to low Ca²⁺ in body fluid, II. Damaged alveolar walls and decreased respiratory surface, III. Acute chest pain when not enough oxygen is reaching to heart muscle, IV. Inflammation of glomeruli of kidney",
+      "options": {
+        "1": "A-III, B-I, C-IV, D-II",
+        "2": "A-III, B-I, C-II, D-IV",
+        "3": "A-II, B-IV, C-III, D-I",
+        "4": "A-II, B-III, C-IV, D-I"
+      },
+      "correct_option": "4",
+      "explanation": "Emphysema-II (damaged alveolar walls), Angina Pectoris-III (chest pain), Glomerulonephritis-IV (kidney inflammation), Tetany-I (muscle spasms due to low Ca²⁺)."
+    },
+    {
+      "id": "BIO_2025_102",
+      "question": "Assertion (A): Both wind and water pollinated flowers are not very colourful and do not produce nectar. Reason (R): The flowers produce enormous amount of pollen grains in wind and water pollinated flowers. Choose the correct answer.",
+      "options": {
+        "1": "Both A and R are true and R is the correct explanation of A.",
+        "2": "Both A and R are true and R is NOT the correct explanation of A.",
+        "3": "A is true but R is false.",
+        "4": "A is false but R is true."
+      },
+      "correct_option": "2",
+      "explanation": "A is correct — wind/water pollinated flowers lack colour and nectar. R is also correct (they produce large amounts of pollen) but R does not explain A."
+    },
+    {
+      "id": "BIO_2025_103",
+      "question": "Which of the following is an example of non-distilled alcoholic beverage produced by yeast?",
+      "options": {
+        "1": "Whisky",
+        "2": "Brandy",
+        "3": "Beer",
+        "4": "Rum"
+      },
+      "correct_option": "3",
+      "explanation": "Beer is a non-distilled alcoholic beverage produced by yeast fermentation. Whisky, brandy, and rum are distilled."
+    },
+    {
+      "id": "BIO_2025_104",
+      "question": "Statement I: In a floral formula ⊕ stands for zygomorphic nature of the flower, and G stands for inferior ovary. Statement II: In a floral formula ⊕ stands for actinomorphic nature of the flower and G stands for superior ovary. Choose the correct answer.",
+      "options": {
+        "1": "Both Statement I and Statement II are correct.",
+        "2": "Both Statement I and Statement II are incorrect.",
+        "3": "Statement I is correct but Statement II is incorrect.",
+        "4": "Statement I is incorrect but Statement II is correct."
+      },
+      "correct_option": "4",
+      "explanation": "⊕ stands for actinomorphic (radial symmetry), not zygomorphic. G (with line above) = inferior ovary. Statement II is correct."
+    },
+    {
+      "id": "BIO_2025_105",
+      "question": "Streptokinase produced by bacterium Streptococcus is used for",
+      "options": {
+        "1": "Curd production",
+        "2": "Ethanol production",
+        "3": "Liver disease treatment",
+        "4": "Removing clots from blood vessels"
+      },
+      "correct_option": "4",
+      "explanation": "Streptokinase is a clot-busting (thrombolytic) enzyme used to remove blood clots from blood vessels."
+    },
+    {
+      "id": "BIO_2025_106",
+      "question": "Which chromosome in the human genome has the highest number of genes?",
+      "options": {
+        "1": "Chromosome X",
+        "2": "Chromosome Y",
+        "3": "Chromosome 1",
+        "4": "Chromosome 10"
+      },
+      "correct_option": "3",
+      "explanation": "Chromosome 1 is the largest human chromosome and has the highest number of genes."
+    },
+    {
+      "id": "BIO_2025_107",
+      "question": "Which of the following statement is correct about location of the male frog copulatory pad?",
+      "options": {
+        "1": "First and Second digit of fore limb",
+        "2": "First digit of hind limb",
+        "3": "Second digit of fore limb",
+        "4": "First digit of the fore limb"
+      },
+      "correct_option": "4",
+      "explanation": "The copulatory pad in male frogs is located on the first digit (thumb) of the fore limb."
+    },
+    {
+      "id": "BIO_2025_108",
+      "question": "Which one of the following phytohormones promotes nutrient mobilization which helps in the delay of leaf senescence in plants?",
+      "options": {
+        "1": "Ethylene",
+        "2": "Abscisic acid",
+        "3": "Gibberellin",
+        "4": "Cytokinin"
+      },
+      "correct_option": "4",
+      "explanation": "Cytokinin promotes nutrient mobilization and delays leaf senescence."
+    },
+    {
+      "id": "BIO_2025_109",
+      "question": "While trying to find out the characteristic of a newly found animal, a researcher did the histology of adult animal and observed a cavity with presence of mesodermal tissue towards the body wall but no mesodermal tissue was observed towards the alimentary canal. What could be the possible coelome of that animal?",
+      "options": {
+        "1": "Acoelomate",
+        "2": "Pseudocoelomate",
+        "3": "Schizocoelomate",
+        "4": "Spongocoelomate"
+      },
+      "correct_option": "2",
+      "explanation": "Pseudocoelomate animals have a body cavity (pseudocoelom) lined by mesoderm only on the outer side (body wall), not on the inner side (alimentary canal)."
+    },
+    {
+      "id": "BIO_2025_110",
+      "question": "Match List-I with List-II: A. Head — B. Middle piece — C. Acrosome — D. Tail; I. Enzymes, II. Sperm motility, III. Energy, IV. Genetic material",
+      "options": {
+        "1": "A-IV, B-III, C-I, D-II",
+        "2": "A-IV, B-III, C-II, D-I",
+        "3": "A-III, B-IV, C-II, D-I",
+        "4": "A-III, B-II, C-I, D-IV"
+      },
+      "correct_option": "1",
+      "explanation": "Head-IV (genetic material/DNA), Middle piece-III (energy/mitochondria), Acrosome-I (enzymes), Tail-II (sperm motility)."
+    },
+    {
+      "id": "BIO_2025_111",
+      "question": "Given below are the stages in the life cycle of pteridophytes. Arrange the following stages in the correct sequence: A. Prothallus stage, B. Meiosis in spore mother cells, C. Fertilisation, D. Formation of archegonia and antheridia in gametophyte, E. Transfer of antherozoids to the archegonia in presence of water.",
+      "options": {
+        "1": "B, A, D, E, C",
+        "2": "B, A, E, C, D",
+        "3": "D, E, C, A, B",
+        "4": "E, D, C, B, A"
+      },
+      "correct_option": "1",
+      "explanation": "Correct sequence: Meiosis in spore mother cells (B) → Prothallus stage/gametophyte (A) → Formation of archegonia & antheridia (D) → Transfer of antherozoids (E) → Fertilisation (C)."
+    },
+    {
+      "id": "BIO_2025_112",
+      "question": "Cardiac activities of the heart are regulated by: A. Nodal tissue, B. A special neural centre in the medulla oblongata, C. Adrenal medullary hormones, D. Adrenal cortical hormones",
+      "options": {
+        "1": "A, B and C Only",
+        "2": "A, B, C and D",
+        "3": "A, C and D Only",
+        "4": "A, B and D Only"
+      },
+      "correct_option": "1",
+      "explanation": "Cardiac activity is regulated by nodal tissue (SA/AV node), medulla oblongata neural centre, and adrenal medullary hormones (adrenaline). Adrenal cortical hormones don't directly regulate cardiac activity."
+    },
+    {
+      "id": "BIO_2025_113",
+      "question": "Which of following organisms cannot fix nitrogen? A. Azotobacter, B. Oscillatoria, C. Anabaena, D. Volvox, E. Nostoc",
+      "options": {
+        "1": "A only",
+        "2": "D only",
+        "3": "B only",
+        "4": "E only"
+      },
+      "correct_option": "2",
+      "explanation": "Volvox (D) is a green algae that cannot fix nitrogen. Azotobacter, Oscillatoria, Anabaena, and Nostoc are all nitrogen-fixers."
+    },
+    {
+      "id": "BIO_2025_114",
+      "question": "Statement I: Transfer RNAs and ribosomal RNA do not interact with mRNA. Statement II: RNA interference (RNAi) takes place in all eukaryotic organisms as a method of cellular defence.",
+      "options": {
+        "1": "Both Statement I and Statement II are correct",
+        "2": "Both Statement I and Statement II are incorrect",
+        "3": "Statement I is correct but Statement II is incorrect",
+        "4": "Statement I is incorrect but Statement II is correct"
+      },
+      "correct_option": "4",
+      "explanation": "Statement I is incorrect — tRNA and rRNA do interact with mRNA during translation. Statement II is correct — RNAi is a cellular defence mechanism in eukaryotes."
+    },
+    {
+      "id": "BIO_2025_115",
+      "question": "In the above represented plasmid (BamH1, TetR, Ori, EcoRI, β-Galactosidase, amp), an alien piece of DNA is inserted at EcoRI site. Which of the following strategies will be chosen to select the recombinant colonies?",
+      "options": {
+        "1": "Using ampicillin & tetracyclin containing medium plate",
+        "2": "Blue color colonies will be selected",
+        "3": "White color colonies will be selected.",
+        "4": "Blue color colonies grown on ampicillin plates can be selected."
+      },
+      "correct_option": "3",
+      "explanation": "Insertion at EcoRI site disrupts β-galactosidase gene → white colonies = recombinant. Blue colonies = non-recombinant."
+    },
+    {
+      "id": "BIO_2025_116",
+      "question": "Which of the following genetically engineered organisms was used by Eli Lilly to prepare human insulin?",
+      "options": {
+        "1": "Bacterium",
+        "2": "Yeast",
+        "3": "Virus",
+        "4": "Phage"
+      },
+      "correct_option": "1",
+      "explanation": "Eli Lilly used E. coli (bacterium) to produce human insulin (Humulin) through recombinant DNA technology."
+    },
+    {
+      "id": "BIO_2025_117",
+      "question": "Name the class of enzyme that usually catalyze the following reaction: S – G + S″ → S + S″ – G (Where G → a group other than hydrogen, S → a substrate, S″ → another substrate)",
+      "options": {
+        "1": "Hydrolase",
+        "2": "Lyase",
+        "3": "Transferase",
+        "4": "Ligase"
+      },
+      "correct_option": "3",
+      "explanation": "Transferases catalyze the transfer of a functional group (G) from one substrate to another."
+    },
+    {
+      "id": "BIO_2025_118",
+      "question": "Find the statement that is NOT correct with regard to the structure of monocot stem.",
+      "options": {
+        "1": "Hypodermis is parenchymatous",
+        "2": "Vascular bundles are scattered.",
+        "3": "Vascular bundles are conjoint and closed.",
+        "4": "Phloem parenchyma is absent."
+      },
+      "correct_option": "1",
+      "explanation": "In monocot stem, the hypodermis is sclerenchymatous (not parenchymatous). The other statements are correct."
+    },
+    {
+      "id": "BIO_2025_119",
+      "question": "The correct sequence of events in the life cycle of bryophytes is: A. Fusion of antherozoid with egg, B. Attachment of gametophyte to substratum, C. Reduction division to produce haploid spores, D. Formation of sporophyte, E. Release of antherozoids into water.",
+      "options": {
+        "1": "D, E, A, C, B",
+        "2": "B, E, A, C, D",
+        "3": "B, E, A, D, C",
+        "4": "D, E, A, B, C"
+      },
+      "correct_option": "3",
+      "explanation": "Correct sequence: Gametophyte attaches to substratum (B) → Release of antherozoids (E) → Fusion/fertilisation (A) → Sporophyte formation (D) → Reduction division/meiosis (C)."
+    },
+    {
+      "id": "BIO_2025_120",
+      "question": "Which are correct: A. Computed tomography and magnetic resonance imaging detect cancers of internal organs. B. Chemotherapeutics drugs are used to kill non-cancerous cells. C. α-interferon activate the cancer patients' immune system and helps in destroying the tumour. D. Chemotherapeutic drugs are biological response modifiers. E. In the case of leukaemia blood cell counts are decreased.",
+      "options": {
+        "1": "B and D only",
+        "2": "D and E only",
+        "3": "C and D only",
+        "4": "A and C only"
+      },
+      "correct_option": "4",
+      "explanation": "A is correct (CT/MRI detect cancers). C is correct (α-interferon boosts immune system against tumour). B is wrong — chemotherapy kills cancer cells. D is wrong — chemo drugs are cytotoxic, not biological response modifiers. E is wrong — leukaemia causes increased abnormal WBCs."
+    },
+    {
+      "id": "BIO_2025_121",
+      "question": "Match List-I with List-II: A. Centromere — B. Cilium — C. Cristae — D. Cell membrane; I. Mitochondrion, II. Cell division, III. Cell movement, IV. Phospholipid Bilayer",
+      "options": {
+        "1": "A-I, B-II, C-III, D-IV",
+        "2": "A-II, B-I, C-IV, D-III",
+        "3": "A-IV, B-II, C-III, D-I",
+        "4": "A-II, B-III, C-I, D-IV"
+      },
+      "correct_option": "4",
+      "explanation": "Centromere-II (cell division), Cilium-III (cell movement), Cristae-I (mitochondrion inner membrane folds), Cell membrane-IV (phospholipid bilayer)."
+    },
+    {
+      "id": "BIO_2025_122",
+      "question": "Match List I with List II: A. Chlorophyll a — B. Chlorophyll b — C. Xanthophylls — D. Carotenoids; I. Yellow-green, II. Yellow, III. Blue-green, IV. Yellow to Yellow-orange",
+      "options": {
+        "1": "A-III, B-IV, C-II, D-I",
+        "2": "A-III, B-I, C-II, D-IV",
+        "3": "A-I, B-II, C-IV, D-III",
+        "4": "A-I, B-IV, C-III, D-II"
+      },
+      "correct_option": "2",
+      "explanation": "Chlorophyll a-III (blue-green), Chlorophyll b-I (yellow-green), Xanthophylls-II (yellow), Carotenoids-IV (yellow to yellow-orange)."
+    },
+    {
+      "id": "BIO_2025_123",
+      "question": "Find the correct statements: A. In human pregnancy, the major organ systems are formed at the end of 12 weeks. B. In human pregnancy the major organ systems are formed at the end of 8 weeks. C. In human pregnancy heart is formed after one month of gestation. D. In human pregnancy, limbs and digits develop by the end of second month. E. In human pregnancy the appearance of hair is usually observed in the fifth month.",
+      "options": {
+        "1": "A and E Only",
+        "2": "B and C Only",
+        "3": "B, C, D and E Only",
+        "4": "A, C, D and E Only"
+      },
+      "correct_option": "4",
+      "explanation": "A (12 weeks for organ systems), C (heart forms after 1 month), D (limbs and digits by end of 2nd month), E (hair appears in 5th month) are all correct. B is incorrect — it's 12 weeks, not 8."
+    },
+    {
+      "id": "BIO_2025_124",
+      "question": "In the seeds of cereals, the outer covering of endosperm separates the embryo by a protein-rich layer called:",
+      "options": {
+        "1": "Coleoptile",
+        "2": "Coleorhiza",
+        "3": "Integument",
+        "4": "Aleurone Layer"
+      },
+      "correct_option": "4",
+      "explanation": "The aleurone layer is the outermost layer of the endosperm in cereal seeds, rich in proteins and enzymes."
+    },
+    {
+      "id": "BIO_2025_125",
+      "question": "Which of the following diagrams is correct with regard to the proximal (P) and distal (D) tubule of the Nephron (regarding reabsorption/secretion of HCO3⁻, NaCl, H₂O, H⁺, NH3, K⁺)?",
+      "options": {
+        "1": "Option 1",
+        "2": "Option 2",
+        "3": "Option 3",
+        "4": "Option 4"
+      },
+      "correct_option": "2",
+      "explanation": "In the proximal tubule: HCO3⁻, NaCl, H₂O are reabsorbed; H⁺ and NH3 are secreted. In the distal tubule: NaCl, H₂O, HCO3⁻ are reabsorbed; K⁺ and H⁺ are secreted."
+    },
+    {
+      "id": "BIO_2025_126",
+      "question": "Identify the part of a bio-reactor which is used as a foam braker from the given figure.",
+      "options": {
+        "1": "A",
+        "2": "B",
+        "3": "D",
+        "4": "C"
+      },
+      "correct_option": "4",
+      "explanation": "In a bioreactor, the foam breaker (impeller/stirrer at top) corresponds to part C in the standard bioreactor diagram."
+    },
+    {
+      "id": "BIO_2025_127",
+      "question": "Assertion (A): A typical unfertilised, angiosperm embryo sac at maturity is 8 nucleate and 7-celled. Reason (R): The egg apparatus has 2 polar nuclei.",
+      "options": {
+        "1": "Both A and R are true and R is the correct explanation of A.",
+        "2": "Both A and R are true but R is NOT the correct explanation of A.",
+        "3": "A is true but R is false.",
+        "4": "A is false but R is true."
+      },
+      "correct_option": "3",
+      "explanation": "A is correct — mature embryo sac is 8-nucleate and 7-celled. R is incorrect — the 2 polar nuclei are in the central cell, not in the egg apparatus (which has 1 egg + 2 synergids)."
+    },
+    {
+      "id": "BIO_2025_128",
+      "question": "A specialised membranous structure in a prokaryotic cell which helps in cell wall formation, DNA replication and respiration is:",
+      "options": {
+        "1": "Mesosome",
+        "2": "Chromatophores",
+        "3": "Cristae",
+        "4": "Endoplasmic Reticulum"
+      },
+      "correct_option": "1",
+      "explanation": "Mesosomes are infoldings of the plasma membrane in prokaryotes that assist in cell wall synthesis, DNA replication, and respiration."
+    },
+    {
+      "id": "BIO_2025_129",
+      "question": "Which of the following are the post-transcriptional events in an eukaryotic cell? A. Transport of pre-mRNA to cytoplasm prior to splicing. B. Removal of introns and joining of exons. C. Addition of methyl group 5' end of hnRNA. D. Addition of adenine residues at 3' end of hnRNA. E. Base pairing of two complementary RNAs.",
+      "options": {
+        "1": "A, B, C only",
+        "2": "B, C, D only",
+        "3": "B, C, E only",
+        "4": "C, D, E only"
+      },
+      "correct_option": "2",
+      "explanation": "Post-transcriptional events include: splicing (B), 5' methylguanosine capping (C), and poly-A tail addition at 3' end (D). Pre-mRNA is not transported before splicing (A is wrong)."
+    },
+    {
+      "id": "BIO_2025_130",
+      "question": "What is the pattern of inheritance for polygenic trait?",
+      "options": {
+        "1": "Mendelian inheritance pattern",
+        "2": "Non-mendelian inheritance pattern",
+        "3": "Autosomal dominant pattern",
+        "4": "X-linked recessive inheritance pattern"
+      },
+      "correct_option": "2",
+      "explanation": "Polygenic traits are controlled by multiple genes and follow non-Mendelian inheritance patterns, showing continuous variation."
+    },
+    {
+      "id": "BIO_2025_131",
+      "question": "Which one of the following enzymes contains 'Haem' as the prosthetic group?",
+      "options": {
+        "1": "RuBisCo",
+        "2": "Carbonic anhydrase",
+        "3": "Succinate dehydrogenase",
+        "4": "Catalase"
+      },
+      "correct_option": "4",
+      "explanation": "Catalase contains haem as its prosthetic group. It catalyzes decomposition of hydrogen peroxide into water and oxygen."
+    },
+    {
+      "id": "BIO_2025_132",
+      "question": "Each of the following characteristics represent a Kingdom proposed by Whittaker. Arrange the following in increasing order of complexity of body organization: A. Multicellular heterotrophs with cell wall made of chitin. B. Heterotrophs with tissue/organ/organ system level of body organization. C. Prokaryotes with cell wall made of polysaccharides and amino acids. D. Eukaryotic autotrophs with tissue/organ level of body organization. E. Eukaryotes with cellular body organization.",
+      "options": {
+        "1": "A, C, E, B, D",
+        "2": "C, E, A, D, B",
+        "3": "A, C, E, D, B",
+        "4": "C, E, A, B, D"
+      },
+      "correct_option": "2",
+      "explanation": "Increasing order of complexity: C (Monera/prokaryote) → E (Protista/cellular) → A (Fungi/multicellular) → D (Plantae/tissue-organ) → B (Animalia/organ system)."
+    },
+    {
+      "id": "BIO_2025_133",
+      "question": "Who is known as the father of Ecology in India?",
+      "options": {
+        "1": "S.R. Kashyap",
+        "2": "Ramdeo Misra",
+        "3": "Ram Udar",
+        "4": "Birbal Sahni"
+      },
+      "correct_option": "2",
+      "explanation": "Ramdeo Misra is known as the father of Ecology in India."
+    },
+    {
+      "id": "BIO_2025_134",
+      "question": "Match List-I with List-II: A. Alfred Hershey and Martha Chase — B. Euchromatin — C. Frederick Griffith — D. Heterochromatin; I. Streptococcus pneumoniae, II. Densely packed and dark-stained, III. Loosely packed and light-stained, IV. DNA as genetic material confirmation",
+      "options": {
+        "1": "A-II, B-IV, C-I, D-III",
+        "2": "A-IV, B-II, C-I, D-III",
+        "3": "A-IV, B-III, C-I, D-II",
+        "4": "A-III, B-II, C-IV, D-I"
+      },
+      "correct_option": "3",
+      "explanation": "Hershey & Chase-IV (confirmed DNA as genetic material), Euchromatin-III (loosely packed, light), Griffith-I (Streptococcus pneumoniae transformation), Heterochromatin-II (densely packed, dark)."
+    },
+    {
+      "id": "BIO_2025_135",
+      "question": "Neoplastic characteristics of cells refer to: A. A mass of proliferating cell, B. Rapid growth of cells, C. Invasion and damage to the surrounding tissue, D. Those confined to original location",
+      "options": {
+        "1": "A, B only",
+        "2": "A, B, C only",
+        "3": "A, B, D only",
+        "4": "B, C, D only"
+      },
+      "correct_option": "2",
+      "explanation": "Neoplastic (malignant) cells show uncontrolled proliferation (A), rapid growth (B), and invasion of surrounding tissue (C). Confinement to original location (D) is a feature of benign tumours, not neoplastic."
+    },
+    {
+      "id": "BIO_2025_136",
+      "question": "Statement I: The DNA fragments extracted from gel electrophoresis can be used in construction of recombinant DNA. Statement II: Smaller size DNA fragments are observed near anode while larger fragments are found near the wells in an agarose gel.",
+      "options": {
+        "1": "Both statement I and statement II are correct",
+        "2": "Both statement I and statement II are incorrect",
+        "3": "Statement I is correct but statement II is incorrect",
+        "4": "Statement I is incorrect but statement II is correct"
+      },
+      "correct_option": "1",
+      "explanation": "Both are correct. DNA fragments from gel electrophoresis can be used for recombinant DNA. Smaller fragments migrate faster toward the anode (positive electrode), while larger fragments stay near the wells."
+    },
+    {
+      "id": "BIO_2025_137",
+      "question": "Match List-I with List-II: A. Adenosine — B. Adenylic acid — C. Adenine — D. Alanine; I. Nitrogen base, II. Nucleotide, III. Nucleoside, IV. Amino acid",
+      "options": {
+        "1": "A-III, B-IV, C-II, D-I",
+        "2": "A-III, B-II, C-IV, D-I",
+        "3": "A-III, B-II, C-I, D-IV",
+        "4": "A-II, B-III, C-I, D-IV"
+      },
+      "correct_option": "3",
+      "explanation": "Adenosine-III (nucleoside = base + sugar), Adenylic acid-II (nucleotide = base + sugar + phosphate), Adenine-I (nitrogen base), Alanine-IV (amino acid)."
+    },
+    {
+      "id": "BIO_2025_138",
+      "question": "Consider the following: A. The reductive division for the human female gametogenesis starts earlier than that of the male gametogenesis. B. The gap between the first meiotic division and the second meiotic division is much shorter for males compared to females. C. The first polar body is associated with the formation of the primary oocyte. D. Luteinizing Hormone (LH) surge leads to disintegration of the endometrium and onset of menstrual bleeding.",
+      "options": {
+        "1": "A and B are true",
+        "2": "A and C are true",
+        "3": "B and D are true",
+        "4": "B and C are true"
+      },
+      "correct_option": "1",
+      "explanation": "A is true — female meiosis starts in fetal life (earlier than male). B is true — males have a shorter gap between meiosis I and II. C is wrong — first polar body is formed from primary oocyte at meiosis I completion. D is wrong — LH surge triggers ovulation, not menstruation."
+    },
+    {
+      "id": "BIO_2025_139",
+      "question": "All living members of the class Cyclostomata are:",
+      "options": {
+        "1": "Free living",
+        "2": "Endoparasite",
+        "3": "Symbiotic",
+        "4": "Ectoparasite"
+      },
+      "correct_option": "4",
+      "explanation": "Cyclostomata (lampreys and hagfishes) are ectoparasites that attach to the body surface of fish hosts."
+    },
+    {
+      "id": "BIO_2025_140",
+      "question": "Assertion (A): The primary function of the Golgi apparatus is to package the materials made by the endoplasmic reticulum and deliver it to intracellular targets and outside the cell. Reason (R): Vesicles containing materials made by the endoplasmic reticulum fuse with the cis face of the Golgi apparatus, and they are modified and released from the trans face of the Golgi apparatus.",
+      "options": {
+        "1": "Both A and R are true and R is the correct explanation of A",
+        "2": "Both A and R are true but R is not the correct explanation of A",
+        "3": "A is true but R is false",
+        "4": "A is false but R is true"
+      },
+      "correct_option": "1",
+      "explanation": "Both A and R are correct, and R correctly explains the mechanism by which Golgi apparatus performs its function."
+    },
+    {
+      "id": "BIO_2025_141",
+      "question": "Match List-I with List-II: A. Scutellum — B. Non-albuminous seed — C. Epiblast — D. Perisperm; I. Persistent nucellus, II. Cotyledon of Monocot seed, III. Groundnut, IV. Rudimentary cotyledon",
+      "options": {
+        "1": "A-II, B-III, C-IV, D-I",
+        "2": "A-IV, B-III, C-II, D-I",
+        "3": "A-IV, B-III, C-I, D-II",
+        "4": "A-II, B-IV, C-III, D-I"
+      },
+      "correct_option": "1",
+      "explanation": "Scutellum-II (cotyledon of monocot seed), Non-albuminous-III (groundnut has food in cotyledon), Epiblast-IV (rudimentary cotyledon in some monocots), Perisperm-I (persistent nucellus)."
+    },
+    {
+      "id": "BIO_2025_142",
+      "question": "Assertion (A): All vertebrates are chordates but all chordates are not vertebrate. Reason (R): The members of subphylum vertebrata possess notochord during the embryonic period, the notochord is replaced by a cartilaginous or bony vertebral column in adults.",
+      "options": {
+        "1": "Both A and R are true and R is the correct explanation of A",
+        "2": "Both A and R are true but R is not the correct explanation of A",
+        "3": "A is true but R is false",
+        "4": "A is false but R is true"
+      },
+      "correct_option": "1",
+      "explanation": "A is correct — Urochordata and Cephalochordata are chordates but not vertebrates. R is correct and explains why vertebrates are a subgroup of chordates."
+    },
+    {
+      "id": "BIO_2025_143",
+      "question": "Identify the statement that is NOT correct.",
+      "options": {
+        "1": "Each antibody has two light and two heavy chains.",
+        "2": "The heavy and light chains are held together by disulfide bonds.",
+        "3": "Antigen binding site is located at C-terminal region of antibody molecules.",
+        "4": "Constant region of heavy and light chains are located at C-terminus of antibody molecules."
+      },
+      "correct_option": "3",
+      "explanation": "Antigen binding site is located at the N-terminal (variable) region, not the C-terminal region of antibody molecules."
+    },
+    {
+      "id": "BIO_2025_144",
+      "question": "Silencing of specific mRNA is possible via RNAi because of:",
+      "options": {
+        "1": "Complementary dsRNA",
+        "2": "Inhibitory ssRNA",
+        "3": "Complementary tRNA",
+        "4": "Non-complementary ssRNA"
+      },
+      "correct_option": "1",
+      "explanation": "RNAi (RNA interference) works through complementary double-stranded RNA (dsRNA) that silences specific mRNA by degradation."
+    },
+    {
+      "id": "BIO_2025_145",
+      "question": "Genes R and Y follow independent assortment. If RRYY produce round yellow seeds and rryy produce wrinkled green seeds, what will be the phenotypic ratio of the F2 generation?",
+      "options": {
+        "1": "Phenotypic ratio – 1 : 2 : 1",
+        "2": "Phenotypic ratio – 3 : 1",
+        "3": "Phenotypic ratio – 9 : 3 : 3 : 1",
+        "4": "Phenotypic ratio – 9 : 7"
+      },
+      "correct_option": "3",
+      "explanation": "Dihybrid cross (RRYY × rryy) → F1 (RrYy) → F2 phenotypic ratio = 9 round yellow : 3 round green : 3 wrinkled yellow : 1 wrinkled green = 9:3:3:1."
+    },
+    {
+      "id": "BIO_2025_146",
+      "question": "Histones are enriched with:",
+      "options": {
+        "1": "Lysine & Arginine",
+        "2": "Leucine & Lysine",
+        "3": "Phenylalanine & Leucine",
+        "4": "Phenylalanine & Arginine"
+      },
+      "correct_option": "1",
+      "explanation": "Histones are positively charged proteins enriched with basic amino acids lysine and arginine, which interact with negatively charged DNA."
+    },
+    {
+      "id": "BIO_2025_147",
+      "question": "The first menstruation is called:",
+      "options": {
+        "1": "Menopause",
+        "2": "Menarche",
+        "3": "Diapause",
+        "4": "Ovulation"
+      },
+      "correct_option": "2",
+      "explanation": "Menarche is the term for the first menstrual cycle/period in a female's life."
+    },
+    {
+      "id": "BIO_2025_148",
+      "question": "Match List-I with List-II: A. Heart — B. Kidney — C. Gastro-intestinal tract — D. Adrenal Cortex; I. Erythropoietin, II. Aldosterone, III. Atrial natriuretic factor, IV. Secretin",
+      "options": {
+        "1": "A-II, B-I, C-III, D-IV",
+        "2": "A-IV, B-III, C-II, D-I",
+        "3": "A-I, B-III, C-IV, D-II",
+        "4": "A-III, B-I, C-IV, D-II"
+      },
+      "correct_option": "4",
+      "explanation": "Heart-III (ANF/Atrial natriuretic factor), Kidney-I (Erythropoietin), GI tract-IV (Secretin), Adrenal Cortex-II (Aldosterone)."
+    },
+    {
+      "id": "BIO_2025_149",
+      "question": "The protein portion of an enzyme is called:",
+      "options": {
+        "1": "Cofactor",
+        "2": "Coenzyme",
+        "3": "Apoenzyme",
+        "4": "Prosthetic group"
+      },
+      "correct_option": "3",
+      "explanation": "The protein part of an enzyme is called apoenzyme. When combined with a cofactor, it forms the holoenzyme."
+    },
+    {
+      "id": "BIO_2025_150",
+      "question": "Which of the following is the unit of productivity of an ecosystem?",
+      "options": {
+        "1": "gm⁻²",
+        "2": "KCal m⁻²",
+        "3": "KCal m⁻³",
+        "4": "(KCal m⁻²)yr⁻¹"
+      },
+      "correct_option": "4",
+      "explanation": "Productivity of an ecosystem is expressed as energy per unit area per unit time: (KCal m⁻²) yr⁻¹."
+    },
+    {
+      "id": "BIO_2025_151",
+      "question": "Sweet potato and potato represent a certain type of evolution. Select the correct combination of terms to explain the evolution.",
+      "options": {
+        "1": "Analogy, convergent",
+        "2": "Homology, divergent",
+        "3": "Homology, convergent",
+        "4": "Analogy, divergent"
+      },
+      "correct_option": "1",
+      "explanation": "Sweet potato (modified root) and potato (modified stem) perform the same function (food storage) but have different origins — this is analogy and convergent evolution."
+    },
+    {
+      "id": "BIO_2025_152",
+      "question": "With the help of given pedigree, find out the probability for the birth of a child having no disease and being a carrier (has the disease mutation in one allele of the gene) in F3 generation.",
+      "options": {
+        "1": "1/4",
+        "2": "1/2",
+        "3": "1/8",
+        "4": "Zero"
+      },
+      "correct_option": "1",
+      "explanation": "Based on the pedigree analysis, the probability of an F3 child being unaffected but a carrier is 1/4.",
+      "note": "Both options 1 and 2 were marked correct by ALLEN."
+    },
+    {
+      "id": "BIO_2025_153",
+      "question": "Assertion (A): Cells of the tapetum possess dense cytoplasm and generally have more than one nucleus. Reason (R): Presence of more than one nucleus in the tapetum increase the efficiency of nourishing the developing microspore mother cells.",
+      "options": {
+        "1": "Both A and R are true and R is the correct explanation of A.",
+        "2": "Both A and R are true but R is NOT the correct explanation of A.",
+        "3": "A is true but R is false.",
+        "4": "A is false but R is true."
+      },
+      "correct_option": "1",
+      "explanation": "Both A and R are correct. Tapetum cells are polyploid with dense cytoplasm, and multiple nuclei help in better nourishment of microspore mother cells."
+    },
+    {
+      "id": "BIO_2025_154",
+      "question": "How many meiotic and mitotic divisions need to occur for the development of a mature female gametophyte from the megaspore mother cell in an angiosperm plant?",
+      "options": {
+        "1": "2 Meiosis and 3 Mitosis",
+        "2": "1 Meiosis and 2 Mitosis",
+        "3": "1 Meiosis and 3 Mitosis",
+        "4": "No Meiosis and 3 Mitosis"
+      },
+      "correct_option": "3",
+      "explanation": "Megaspore mother cell undergoes 1 meiosis → 4 megaspores (3 degenerate). Functional megaspore undergoes 3 mitotic divisions to form 8-nucleate embryo sac."
+    },
+    {
+      "id": "BIO_2025_155",
+      "question": "Which of the following is an example of a zygomorphic flower?",
+      "options": {
+        "1": "Petunia",
+        "2": "Datura",
+        "3": "Pea",
+        "4": "Chilli"
+      },
+      "correct_option": "3",
+      "explanation": "Pea (Pisum sativum) has zygomorphic (bilaterally symmetrical) flowers. Petunia, Datura, and Chilli have actinomorphic flowers."
+    },
+    {
+      "id": "BIO_2025_156",
+      "question": "After maturation, in primary lymphoid organs, the lymphocytes migrate for interaction with antigens to secondary lymphoid organ(s)/tissue(s) like: A. thymus, B. bone marrow, C. spleen, D. lymph nodes, E. Peyer's patches",
+      "options": {
+        "1": "B, C, D only",
+        "2": "A, B, C only",
+        "3": "E, A, B only",
+        "4": "C, D, E only"
+      },
+      "correct_option": "4",
+      "explanation": "Secondary lymphoid organs are: spleen (C), lymph nodes (D), and Peyer's patches (E). Thymus (A) and bone marrow (B) are primary lymphoid organs."
+    },
+    {
+      "id": "BIO_2025_157",
+      "question": "Statement I: Fig fruit is a non-vegetarian fruit as it has enclosed fig wasps in it. Statement II: Fig wasp and fig tree exhibit mutual relationship as fig wasp completes its life cycle in fig fruit and fig fruit gets pollinated by fig wasp.",
+      "options": {
+        "1": "Both statement I and statement II are correct",
+        "2": "Both statement I and statement II are incorrect",
+        "3": "Statement I is correct but Statement II is incorrect",
+        "4": "Statement I is incorrect but statement II is correct"
+      },
+      "correct_option": "2",
+      "explanation": "Both statements are correct. Figs do trap fig wasps (making them technically non-vegetarian), and fig-wasp is a classic example of mutualism."
+    },
+    {
+      "id": "BIO_2025_158",
+      "question": "What is the main function of the spindle fibers during mitosis?",
+      "options": {
+        "1": "To separate the chromosomes",
+        "2": "To synthesize new DNA",
+        "3": "To repair damaged DNA",
+        "4": "To regulate cell growth"
+      },
+      "correct_option": "1",
+      "explanation": "Spindle fibers attach to centromeres and pull chromosomes to opposite poles of the cell during mitosis."
+    },
+    {
+      "id": "BIO_2025_159",
+      "question": "Which one of the following is the characteristic feature of gymnosperms?",
+      "options": {
+        "1": "Seeds are enclosed in fruits.",
+        "2": "Seeds are naked.",
+        "3": "Seeds are absent.",
+        "4": "Gymnosperms have flowers for reproduction."
+      },
+      "correct_option": "2",
+      "explanation": "Gymnosperms bear naked seeds (not enclosed in fruits). The word 'gymnosperm' means 'naked seed'."
+    },
+    {
+      "id": "BIO_2025_160",
+      "question": "Consider the following statements regarding function of adrenal medullary hormones: A. It causes pupilary constriction, B. It is a hyperglycemic hormone, C. It causes piloerection, D. It increases strength of heart contraction",
+      "options": {
+        "1": "C and D Only",
+        "2": "B, C and D Only",
+        "3": "A, C and D Only",
+        "4": "D Only"
+      },
+      "correct_option": "2",
+      "explanation": "Adrenal medullary hormones (adrenaline/noradrenaline) cause hyperglycemia (B), piloerection (C), and increased heart contraction (D). They cause pupillary dilation, not constriction (A is wrong)."
+    },
+    {
+      "id": "BIO_2025_161",
+      "question": "Why can't insulin be given orally to diabetic patients?",
+      "options": {
+        "1": "Human body will elicit strong immune response",
+        "2": "It will be digested in Gastro-Intestinal (GI) tract",
+        "3": "Because of structural variation",
+        "4": "Its bioavailability will be increased"
+      },
+      "correct_option": "2",
+      "explanation": "Insulin is a protein and would be broken down by digestive enzymes in the GI tract if taken orally, making it ineffective."
+    },
+    {
+      "id": "BIO_2025_162",
+      "question": "Match List-I with List-II: A. Pteridophyte — B. Bryophyte — C. Angiosperm — D. Gymnosperm; I. Salvia, II. Ginkgo, III. Polytrichum, IV. Salvinia",
+      "options": {
+        "1": "A-III, B-IV, C-II, D-I",
+        "2": "A-IV, B-III, C-I, D-II",
+        "3": "A-III, B-IV, C-I, D-II",
+        "4": "A-IV, B-III, C-II, D-I"
+      },
+      "correct_option": "2",
+      "explanation": "Pteridophyte-IV (Salvinia is a fern), Bryophyte-III (Polytrichum is a moss), Angiosperm-I (Salvia is a flowering plant), Gymnosperm-II (Ginkgo is a gymnosperm)."
+    },
+    {
+      "id": "BIO_2025_163",
+      "question": "Who proposed that the genetic code for amino acids should be made up of three nucleotides?",
+      "options": {
+        "1": "George Gamow",
+        "2": "Francis Crick",
+        "3": "Jacque Monod",
+        "4": "Franklin Stahl"
+      },
+      "correct_option": "1",
+      "explanation": "George Gamow proposed that the genetic code consists of triplets (codons) of nucleotides to code for amino acids."
+    },
+    {
+      "id": "BIO_2025_164",
+      "question": "Match List-I with List-II: A. The Evil Quartet — B. Ex situ conservation — C. Lantana camara — D. Dodo; I. Cryopreservation, II. Alien species invasion, III. Causes of biodiversity losses, IV. Extinction",
+      "options": {
+        "1": "A-III, B-II, C-I, D-IV",
+        "2": "A-III, B-I, C-II, D-IV",
+        "3": "A-III, B-IV, C-II, D-I",
+        "4": "A-III, B-II, C-IV, D-I"
+      },
+      "correct_option": "2",
+      "explanation": "Evil Quartet-III (major causes of biodiversity loss), Ex situ conservation-I (cryopreservation is ex-situ), Lantana camara-II (alien invasive species), Dodo-IV (extinct bird)."
+    },
+    {
+      "id": "BIO_2025_165",
+      "question": "Which of the following hormones released from the pituitary is actually synthesized in the hypothalamus?",
+      "options": {
+        "1": "Luteinizing hormone (LH)",
+        "2": "Anti-diuretic hormone (ADH)",
+        "3": "Follicle-stimulating hormone (FSH)",
+        "4": "Adenocorticotrophic hormone (ACTH)"
+      },
+      "correct_option": "2",
+      "explanation": "ADH (vasopressin) and oxytocin are synthesized in the hypothalamus but stored and released from the posterior pituitary."
+    },
+    {
+      "id": "BIO_2025_166",
+      "question": "Role of the water vascular system in Echinoderms is: A. Respiration and Locomotion, B. Excretion and Locomotion, C. Capture and transport of food, D. Digestion and Respiration, E. Digestion and Excretion",
+      "options": {
+        "1": "A and B only",
+        "2": "A and C only",
+        "3": "B and C only",
+        "4": "B, D and E only"
+      },
+      "correct_option": "2",
+      "explanation": "The water vascular system in Echinoderms functions in locomotion (tube feet movement) and capture/transport of food."
+    },
+    {
+      "id": "BIO_2025_167",
+      "question": "Which of the following type of immunity is present at the time of birth and is a non-specific type of defence in the human body?",
+      "options": {
+        "1": "Acquired Immunity",
+        "2": "Innate Immunity",
+        "3": "Cell-mediated Immunity",
+        "4": "Humoral Immunity"
+      },
+      "correct_option": "2",
+      "explanation": "Innate immunity is present at birth, is non-specific, and forms the first line of defence."
+    },
+    {
+      "id": "BIO_2025_168",
+      "question": "In bryophytes, the gemmae help in which one of the following?",
+      "options": {
+        "1": "Sexual reproduction",
+        "2": "Asexual reproduction",
+        "3": "Nutrient absorption",
+        "4": "Gaseous exchange"
+      },
+      "correct_option": "2",
+      "explanation": "Gemmae are multicellular asexual propagules found in bryophytes (e.g., Marchantia) that help in asexual reproduction."
+    },
+    {
+      "id": "BIO_2025_169",
+      "question": "In frog, the Renal portal system is a special venous connection that acts to link:",
+      "options": {
+        "1": "Liver and intestine",
+        "2": "Liver and kidney",
+        "3": "Kidney and intestine",
+        "4": "Kidney and lower part of body"
+      },
+      "correct_option": "4",
+      "explanation": "The renal portal system in frogs connects the capillaries of the lower body (hind limbs) to the kidney capillaries."
+    },
+    {
+      "id": "BIO_2025_170",
+      "question": "Statement I: In ecosystem, there is unidirectional flow of energy of sun from producers to consumers. Statement II: Ecosystems are exempted from 2nd law of thermodynamics.",
+      "options": {
+        "1": "Both statement-I and statement II are correct",
+        "2": "Both statement-I and statement II are incorrect",
+        "3": "Statement-I is correct but statement II is incorrect",
+        "4": "Statement-I is incorrect but statement II is correct"
+      },
+      "correct_option": "3",
+      "explanation": "Statement I is correct — energy flows unidirectionally. Statement II is incorrect — ecosystems are NOT exempt from the 2nd law; energy is lost as heat at each trophic level."
+    },
+    {
+      "id": "BIO_2025_171",
+      "question": "Which of the following statements about RuBisCO is true?",
+      "options": {
+        "1": "It is active only in the dark.",
+        "2": "It has higher affinity of oxygen than carbon dioxide.",
+        "3": "It is an enzyme involved in the photolysis of water.",
+        "4": "It catalyzes the carboxylation of RuBP"
+      },
+      "correct_option": "4",
+      "explanation": "RuBisCO (Ribulose bisphosphate carboxylase/oxygenase) catalyzes the carboxylation of RuBP (ribulose-1,5-bisphosphate) in the Calvin cycle."
+    },
+    {
+      "id": "BIO_2025_172",
+      "question": "Which of the following enzyme(s) are NOT essential for gene cloning? A. Restriction enzymes, B. DNA ligase, C. DNA mutase, D. DNA recombinase, E. DNA polymerase",
+      "options": {
+        "1": "C and D only",
+        "2": "A and B only",
+        "3": "D and E only",
+        "4": "B and C only"
+      },
+      "correct_option": "1",
+      "explanation": "DNA mutase (C) and DNA recombinase (D) are not essential for gene cloning. Restriction enzymes, DNA ligase, and DNA polymerase are essential."
+    },
+    {
+      "id": "BIO_2025_173",
+      "question": "Read the following statements on plant growth and development: A. Parthenocarpy can be induced by auxins. B. Plant growth regulators can be involved in promotion as well as inhibition of growth. C. Dedifferentiation is a pre-requisite for re-differentiation. D. Abscisic acid is a plant growth promoter. E. Apical dominance promotes the growth of lateral buds. Choose the option with all correct statements.",
+      "options": {
+        "1": "A, B, C only",
+        "2": "A, C, E only",
+        "3": "A, D, E only",
+        "4": "B, D, E only"
+      },
+      "correct_option": "1",
+      "explanation": "A (auxins induce parthenocarpy), B (PGRs can both promote and inhibit), C (dedifferentiation precedes redifferentiation) are correct. D is wrong — ABA is a growth inhibitor. E is wrong — apical dominance inhibits lateral bud growth."
+    },
+    {
+      "id": "BIO_2025_174",
+      "question": "Which factor is important for termination of transcription?",
+      "options": {
+        "1": "α (alpha)",
+        "2": "σ (sigma)",
+        "3": "ρ (rho)",
+        "4": "γ (gamma)"
+      },
+      "correct_option": "3",
+      "explanation": "Rho (ρ) factor is important for termination of transcription in prokaryotes. Sigma (σ) factor is required for initiation."
+    },
+    {
+      "id": "BIO_2025_175",
+      "question": "Frogs respire in water by skin and buccal cavity and on land by skin, buccal cavity and lungs. Choose the correct answer.",
+      "options": {
+        "1": "The statement is true for water but false for land",
+        "2": "The statement is true for both the environment",
+        "3": "The statement is false for water but true for land",
+        "4": "The statement is false for both the environment"
+      },
+      "correct_option": "3",
+      "explanation": "In water, frogs respire through skin only (not buccal cavity). On land, they use skin, buccal cavity, and lungs. So the statement is false for water but true for land."
+    },
+    {
+      "id": "BIO_2025_176",
+      "question": "Twins are born to a family that lives next door to you. The twins are a boy and a girl. Which of the following must be true?",
+      "options": {
+        "1": "They are monozygotic twins.",
+        "2": "They are fraternal twins",
+        "3": "They were conceived through in vitro fertilization.",
+        "4": "They have 75% identical genetic content."
+      },
+      "correct_option": "2",
+      "explanation": "Boy-girl twins cannot be monozygotic (identical) since they have different sex chromosomes. They must be fraternal (dizygotic) twins."
+    },
+    {
+      "id": "BIO_2025_177",
+      "question": "Which of the following microbes is NOT involved in the preparation of household products? A. Aspergillus niger, B. Lactobacillus, C. Trichoderma pulysporum, D. Saccharomyces cerevisiae, E. Propionibacterium sharmanii",
+      "options": {
+        "1": "A and B only",
+        "2": "A and C only",
+        "3": "C and D only",
+        "4": "C and E only"
+      },
+      "correct_option": "2",
+      "explanation": "Aspergillus niger (A) produces citric acid industrially, and Trichoderma pulysporum (C) is used in antibiotic production — neither is a common household product microbe. Lactobacillus (curd), Saccharomyces (bread/alcohol), and Propionibacterium (Swiss cheese) are used in household/food products."
+    },
+    {
+      "id": "BIO_2025_178",
+      "question": "Match List-I with List-II: A. Progesterone — B. Relaxin — C. Melanocyte stimulating hormone — D. Catecholamines; I. Pars intermedia, II. Ovary, III. Adrenal Medulla, IV. Corpus luteum",
+      "options": {
+        "1": "A-IV, B-II, C-I, D-III",
+        "2": "A-IV, B-II, C-III, D-I",
+        "3": "A-II, B-IV, C-I, D-III",
+        "4": "A-III, B-II, C-IV, D-I"
+      },
+      "correct_option": "1",
+      "explanation": "Progesterone-IV (corpus luteum), Relaxin-II (ovary), MSH-I (pars intermedia of pituitary), Catecholamines-III (adrenal medulla)."
+    },
+    {
+      "id": "BIO_2025_179",
+      "question": "The blue and white selectable markers have been developed to differentiate recombinant from non-recombinant colonies. Statement-I: The blue coloured colonies have DNA insert in the plasmid and they are identified as recombinant colonies. Statement-II: The colonies without blue colour have DNA insert in the plasmid and are identified as recombinant colonies.",
+      "options": {
+        "1": "Both Statement I and Statement II are correct",
+        "2": "Both Statement I and Statement II is incorrect",
+        "3": "Statement I is correct but Statement II is incorrect",
+        "4": "Statement I is incorrect but Statement II is correct"
+      },
+      "correct_option": "4",
+      "explanation": "Statement I is incorrect — blue colonies are NON-recombinant (functional β-galactosidase). Statement II is correct — white/colourless colonies have DNA insert (disrupted β-galactosidase) and are recombinant."
+    },
+    {
+      "id": "BIO_2025_180",
+      "question": "Which one of the following equations represents the Verhulst-Pearl Logistic Growth of population?",
+      "options": {
+        "1": "dN/dt = r(K-N/K)",
+        "2": "dN/dt = rN(K-N/K)",
+        "3": "dN/dt = rN(N-K/N)",
+        "4": "dN/dt = N(r-K/K)"
+      },
+      "correct_option": "2",
+      "explanation": "The Verhulst-Pearl logistic growth equation is dN/dt = rN[(K-N)/K], where r = intrinsic rate of increase, N = population size, K = carrying capacity."
+    }
+  ]
+}
