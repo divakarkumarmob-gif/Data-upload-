@@ -1,0 +1,612 @@
+{
+  "exam": "NEET",
+  "year": 2024,
+  "subject": "Physics",
+  "total_questions": 50,
+  "sections": [
+    "Physics Section-A (Q.1-35)",
+    "Physics Section-B (Q.36-50)"
+  ],
+  "questions": [
+    {
+      "id": "PHY_2024_001",
+      "question": "A bob is whirled in a horizontal plane by means of a string with an initial speed of ω rpm. The tension in the string is T. If speed becomes 2ω while keeping the same radius, the tension in the string becomes:",
+      "options": {
+        "A": "T",
+        "B": "4T",
+        "C": "T/4",
+        "D": "√2T"
+      },
+      "correct_option": "B",
+      "explanation": "T = mω²r. When speed doubles (2ω): T' = m(2ω)²r = 4mω²r = 4T."
+    },
+    {
+      "id": "PHY_2024_002",
+      "question": "A particle moving with uniform speed in a circular path maintains:",
+      "options": {
+        "A": "constant velocity",
+        "B": "constant acceleration",
+        "C": "constant velocity but varying acceleration",
+        "D": "varying velocity and varying acceleration"
+      },
+      "correct_option": "D",
+      "explanation": "In uniform circular motion, speed is constant but direction changes continuously, so both velocity and acceleration keep changing direction."
+    },
+    {
+      "id": "PHY_2024_003",
+      "question": "A logic circuit provides the output Y as per the following truth table (A=0,B=0→Y=1; A=0,B=1→Y=0; A=1,B=0→Y=1; A=1,B=1→Y=0). The expression for the output Y is:",
+      "options": {
+        "A": "A.B + Ā",
+        "B": "A.B̄ + Ā",
+        "C": "B̄",
+        "D": "B"
+      },
+      "correct_option": "C",
+      "explanation": "Looking at truth table: Y=1 when B=0, Y=0 when B=1. So Y = B̄ (NOT B). Y is independent of A."
+    },
+    {
+      "id": "PHY_2024_004",
+      "question": "A strong bar magnet is moving towards solenoid-2 from solenoid-1. The direction of induced current in solenoid-1 and solenoid-2, respectively, are through the directions:",
+      "options": {
+        "A": "AB and DC",
+        "B": "BA and CD",
+        "C": "AB and CD",
+        "D": "BA and DC"
+      },
+      "correct_option": "A",
+      "explanation": "As magnet moves right toward solenoid-2: Solenoid-1 loses flux (current A to B to oppose). Solenoid-2 gains flux (current D to C to oppose) = direction DC."
+    },
+    {
+      "id": "PHY_2024_005",
+      "question": "Assertion A: The potential (V) at any axial point, at 2m distance from the centre of dipole of dipole moment vector P of magnitude 4×10⁻⁶ Cm, is ±9×10³V. Reason R: V = ±2P/(4πε₀r²), where r is the distance of any axial point, situated at 2m from the centre of dipole.",
+      "options": {
+        "A": "Both A and R are true and R is the correct explanation of A",
+        "B": "Both A and R are true and R is NOT the correct explanation of A",
+        "C": "A is true but R is false",
+        "D": "A is false but R is true"
+      },
+      "correct_option": "C",
+      "explanation": "A is correct: V = kp/r² = 9×10⁹×4×10⁻⁶/4 = ±9×10³V. R is false: correct formula is V = P cosθ/(4πε₀r²) = kp/r² (for axial θ=0°), not 2P/4πε₀r²."
+    },
+    {
+      "id": "PHY_2024_006",
+      "question": "Match List-I (Material) with List-II (Susceptibility χ): A. Diamagnetic, B. Ferromagnetic, C. Paramagnetic, D. Non-Magnetic with I. χ=0, II. 0>χ≥-1, III. χ>>1, IV. 0<χ<ε (small positive)",
+      "options": {
+        "A": "A-II, B-III, C-IV, D-I",
+        "B": "A-II, B-I, C-III, D-IV",
+        "C": "A-III, B-II, C-I, D-IV",
+        "D": "A-IV, B-III, C-II, D-I"
+      },
+      "correct_option": "A",
+      "explanation": "Diamagnetic=small negative χ (0>χ≥-1) (II), Ferromagnetic=very large positive χ>>1 (III), Paramagnetic=small positive χ (IV), Non-magnetic=χ=0 (I)."
+    },
+    {
+      "id": "PHY_2024_007",
+      "question": "In a uniform magnetic field of 0.049 T, a magnetic needle performs 20 complete oscillations in 5 seconds. The moment of inertia of the needle is 9.8×10⁻⁶ kg m². If the magnitude of magnetic moment of the needle is x×10⁻⁵ Am², then the value of x is:",
+      "options": {
+        "A": "5π²",
+        "B": "128π²",
+        "C": "50π²",
+        "D": "1280π²"
+      },
+      "correct_option": "D",
+      "explanation": "f = 20/5 = 4Hz. T = 1/4s. f = (1/2π)√(MB/I). M = f²I(4π²)/B = 16×9.8×10⁻⁶×4π²/0.049 = 1280π²×10⁻⁵. x = 1280π²."
+    },
+    {
+      "id": "PHY_2024_008",
+      "question": "In an ideal transformer, the turns ratio Np/Ns = 1/2. The ratio Vs:Vp is equal to:",
+      "options": {
+        "A": "1:2",
+        "B": "2:1",
+        "C": "1:1",
+        "D": "1:4"
+      },
+      "correct_option": "B",
+      "explanation": "Vs/Vp = Ns/Np = 2/1 = 2:1. So Vs:Vp = 2:1."
+    },
+    {
+      "id": "PHY_2024_009",
+      "question": "In a vernier calipers, (N+1) divisions of vernier scale coincide with N divisions of main scale. If 1 MSD represents 0.1mm, the vernier constant (in cm) is:",
+      "options": {
+        "A": "1/10N",
+        "B": "1/100(N+1)",
+        "C": "100N",
+        "D": "10(N+1)"
+      },
+      "correct_option": "B",
+      "explanation": "VC = MSD - VSD = MSD - N/(N+1)×MSD = 1/(N+1)×MSD = 1/(N+1)×0.01cm = 1/100(N+1) cm."
+    },
+    {
+      "id": "PHY_2024_010",
+      "question": "A horizontal force 10 N is applied to block A (2kg). Blocks A and B (3kg) slide on a frictionless surface. The force exerted by block A on block B is:",
+      "options": {
+        "A": "zero",
+        "B": "4N",
+        "C": "6N",
+        "D": "10N"
+      },
+      "correct_option": "C",
+      "explanation": "System acceleration: a = F/(mA+mB) = 10/5 = 2 m/s². Force on B = mB×a = 3×2 = 6N."
+    },
+    {
+      "id": "PHY_2024_011",
+      "question": "If x = 5sin(πt + π/3) m represents the motion of a particle executing SHM, the amplitude and time period of motion respectively, are:",
+      "options": {
+        "A": "5 cm, 2 s",
+        "B": "5 m, 2 s",
+        "C": "5 cm, 1 s",
+        "D": "5 m, 1 s"
+      },
+      "correct_option": "B",
+      "explanation": "x = A sin(ωt + φ). A = 5m, ω = π rad/s. T = 2π/ω = 2π/π = 2s."
+    },
+    {
+      "id": "PHY_2024_012",
+      "question": "The terminal voltage of the battery, whose emf is 10V and internal resistance 1Ω, when connected through an external resistance of 4Ω is:",
+      "options": {
+        "A": "4V",
+        "B": "6V",
+        "C": "8V",
+        "D": "10V"
+      },
+      "correct_option": "C",
+      "explanation": "I = E/(R+r) = 10/(4+1) = 2A. VT = E - Ir = 10 - 2×1 = 8V."
+    },
+    {
+      "id": "PHY_2024_013",
+      "question": "Statement I: Atoms are electrically neutral as they contain equal number of positive and negative charges. Statement II: Atoms of each element are stable and emit their characteristic spectrum.",
+      "options": {
+        "A": "Both Statement I and Statement II are correct",
+        "B": "Both Statement I and Statement II are incorrect",
+        "C": "Statement I is correct but Statement II is incorrect",
+        "D": "Statement I is incorrect but Statement II is correct"
+      },
+      "correct_option": "C",
+      "explanation": "Statement I is correct. Statement II is incorrect because radioactive atoms are NOT stable and don't emit characteristic spectrum like stable atoms."
+    },
+    {
+      "id": "PHY_2024_014",
+      "question": "If c is the velocity of light in free space, the correct statements about photon among the following are: A. Energy E=hν, B. Velocity is c, C. Momentum p=hν/c, D. In photon-electron collision total energy and momentum are conserved, E. Photon possesses positive charge.",
+      "options": {
+        "A": "A and B only",
+        "B": "A, B, C and D only",
+        "C": "A, C and D only",
+        "D": "A, B, D and E only"
+      },
+      "correct_option": "B",
+      "explanation": "A, B, C, D are all correct statements about photons. E is wrong - photons are electrically neutral (no charge)."
+    },
+    {
+      "id": "PHY_2024_015",
+      "question": "Match List I (Spectral Lines of Hydrogen for transitions from) with List II (Wavelengths in nm): A. n₂=3 to n₁=2, B. n₂=4 to n₁=2, C. n₂=5 to n₁=2, D. n₂=6 to n₁=2 with I. 410.2, II. 434.1, III. 656.3, IV. 486.1",
+      "options": {
+        "A": "A-II, B-I, C-IV, D-III",
+        "B": "A-III, B-IV, C-II, D-I",
+        "C": "A-IV, B-III, C-I, D-II",
+        "D": "A-I, B-II, C-III, D-IV"
+      },
+      "correct_option": "B",
+      "explanation": "Higher energy transition = shorter wavelength. n=3→2: Hα=656.3nm (III), n=4→2: Hβ=486.1nm (IV), n=5→2: Hγ=434.1nm (II), n=6→2: Hδ=410.2nm (I)."
+    },
+    {
+      "id": "PHY_2024_016",
+      "question": "A tightly wound 100 turns coil of radius 10 cm carries a current of 7 A. The magnitude of the magnetic field at the centre of the coil is (µ₀ = 4π×10⁻⁷ SI units):",
+      "options": {
+        "A": "44 mT",
+        "B": "4.4 T",
+        "C": "4.4 mT",
+        "D": "44 T"
+      },
+      "correct_option": "C",
+      "explanation": "B = µ₀NI/2R = (4π×10⁻⁷×100×7)/(2×0.1) = 4π×10⁻⁷×700/0.2 = 4.4×10⁻³ T = 4.4 mT."
+    },
+    {
+      "id": "PHY_2024_017",
+      "question": "The output (Y) of the given logic gate (two NOT gates feeding into NAND) is similar to the output of an:",
+      "options": {
+        "A": "NAND gate",
+        "B": "NOR gate",
+        "C": "OR gate",
+        "D": "AND gate"
+      },
+      "correct_option": "D",
+      "explanation": "Ā·B̄ using NAND = NOT(Ā·B̄) = A+B (De Morgan)... Wait: NOT gates on inputs then NAND: Ā NAND B̄ = NOT(Ā·B̄) = A+B. But actually Ā·B̄ with NAND gives ¬(Ā·B̄) = A+B = OR. But answer is AND gate: if A and B go through NOT then AND: Ā·B̄... Re-reading: NAND(Ā,B̄) = ¬(Ā·B̄) = A+B = OR. Answer key says AND (4)."
+    },
+    {
+      "id": "PHY_2024_018",
+      "question": "A wire of length ℓ and resistance 100Ω is divided into 10 equal parts. The first 5 parts are connected in series while the next 5 parts are connected in parallel. The two combinations are again connected in series. The resistance of this final combination is:",
+      "options": {
+        "A": "26Ω",
+        "B": "52Ω",
+        "C": "55Ω",
+        "D": "60Ω"
+      },
+      "correct_option": "B",
+      "explanation": "Each part = 100/10 = 10Ω. First 5 in series = 50Ω. Next 5 in parallel = 10/5 = 2Ω. Total = 50+2 = 52Ω."
+    },
+    {
+      "id": "PHY_2024_019",
+      "question": "²⁹⁰₈₂X →(α)→ Y →(e⁻)→ Z →(β⁻)→ P →(e⁻)→ Q. In the nuclear emission stated above, the mass number and atomic number of the product Q respectively, are:",
+      "options": {
+        "A": "280, 81",
+        "B": "286, 80",
+        "C": "288, 82",
+        "D": "286, 81"
+      },
+      "correct_option": "D",
+      "explanation": "Start: ²⁹⁰₈₂X. α: -4 mass, -2 atomic. e⁻ (positron/β⁺): 0 mass, -1 atomic. β⁻: 0 mass, +1 atomic. e⁻(β⁺): 0 mass, -1 atomic. Q: mass=290-4=286, atomic=82-2+1+1-1=81."
+    },
+    {
+      "id": "PHY_2024_020",
+      "question": "The maximum elongation of a steel wire of 1m length if the elastic limit of steel and its Young's modulus, respectively, are 8×10⁸ N m⁻² and 2×10¹¹ N m⁻² is:",
+      "options": {
+        "A": "4 mm",
+        "B": "0.4 mm",
+        "C": "40 mm",
+        "D": "8 mm"
+      },
+      "correct_option": "A",
+      "explanation": "Y = stress/strain = (F/A)/(Δℓ/ℓ). At elastic limit: stress = 8×10⁸. Δℓ = stress×ℓ/Y = 8×10⁸×1/(2×10¹¹) = 4×10⁻³ m = 4mm."
+    },
+    {
+      "id": "PHY_2024_021",
+      "question": "If the monochromatic source in Young's double slit experiment is replaced by white light, then",
+      "options": {
+        "A": "interference pattern will disappear",
+        "B": "there will be a central dark fringe surrounded by a few coloured fringes",
+        "C": "there will be a central bright white fringe surrounded by a few coloured fringes",
+        "D": "all bright fringes will be of equal width"
+      },
+      "correct_option": "C",
+      "explanation": "With white light: at centre, path difference = 0 for all wavelengths → central bright WHITE fringe. Surrounding fringes are coloured due to different λ."
+    },
+    {
+      "id": "PHY_2024_022",
+      "question": "At any instant of time t, the displacement of any particle is given by 2t–1 (SI unit) under the influence of force of 5N. The value of instantaneous power (in SI unit) is:",
+      "options": {
+        "A": "10",
+        "B": "5",
+        "C": "7",
+        "D": "6"
+      },
+      "correct_option": "A",
+      "explanation": "x = 2t-1. v = dx/dt = 2 m/s. P = F·v = 5×2 = 10 W."
+    },
+    {
+      "id": "PHY_2024_023",
+      "question": "Consider the following statements A and B and identify the correct answer: A. For a solar-cell, the I-V characteristics lies in the IV quadrant. B. In a reverse biased pn junction diode, the current measured (in µA), is due to majority charge carriers.",
+      "options": {
+        "A": "A is correct but B is incorrect",
+        "B": "A is incorrect but B is correct",
+        "C": "Both A and B are correct",
+        "D": "Both A and B are incorrect"
+      },
+      "correct_option": "A",
+      "explanation": "A is correct (solar cell generates current opposing voltage in IV quadrant). B is wrong (reverse bias current is due to MINORITY carriers, not majority carriers)."
+    },
+    {
+      "id": "PHY_2024_024",
+      "question": "Two bodies A and B of same mass undergo completely inelastic one dimensional collision. Body A moves with velocity v₁ while body B is at rest before collision. The velocity of the system after collision is v₂. The ratio v₁:v₂ is:",
+      "options": {
+        "A": "1:2",
+        "B": "2:1",
+        "C": "4:1",
+        "D": "1:4"
+      },
+      "correct_option": "B",
+      "explanation": "Conservation of momentum: mv₁ = (m+m)v₂. mv₁ = 2mv₂. v₁/v₂ = 2:1."
+    },
+    {
+      "id": "PHY_2024_025",
+      "question": "A light ray enters through a right angled prism at point P with angle of incidence 30°. It travels through the prism parallel to its base BC and emerges along face AC. The refractive index of the prism is:",
+      "options": {
+        "A": "√5/4",
+        "B": "√5/2",
+        "C": "√3/4",
+        "D": "√3/2"
+      },
+      "correct_option": "B",
+      "explanation": "Using Snell's law at surface AB: sin30° = µ sinr₁. Since ray travels parallel to BC, r₂ = θc. sin30° = µ cosθc = µ√(µ²-1)/µ. 1/2 = √(µ²-1). µ² = 5/4... wait. 1/4 = µ²-1, µ² = 5/4, µ = √5/2."
+    },
+    {
+      "id": "PHY_2024_026",
+      "question": "The graph which shows the variation of (1/λ²) and its kinetic energy E is (where λ is de Broglie wavelength of a free particle):",
+      "options": {
+        "A": "Straight line in 2nd quadrant",
+        "B": "Straight line with negative slope",
+        "C": "Straight line in 3rd quadrant",
+        "D": "Straight line with positive slope passing through origin"
+      },
+      "correct_option": "D",
+      "explanation": "λ = h/√(2mE). 1/λ² = 2mE/h². So 1/λ² ∝ E. Graph of 1/λ² vs E is a straight line through origin with positive slope."
+    },
+    {
+      "id": "PHY_2024_027",
+      "question": "The quantities which have the same dimensions as those of solid angle are:",
+      "options": {
+        "A": "strain and angle",
+        "B": "stress and angle",
+        "C": "strain and arc",
+        "D": "angular speed and stress"
+      },
+      "correct_option": "A",
+      "explanation": "Solid angle = Area/r² = dimensionless. Strain = ΔL/L = dimensionless. Angle = arc/radius = dimensionless. Both strain and angle are dimensionless like solid angle."
+    },
+    {
+      "id": "PHY_2024_028",
+      "question": "An unpolarised light beam strikes a glass surface at Brewster's angle. Then:",
+      "options": {
+        "A": "the reflected light will be partially polarised",
+        "B": "the refracted light will be completely polarised",
+        "C": "both the reflected and refracted light will be completely polarised",
+        "D": "the reflected light will be completely polarised but the refracted light will be partially polarised"
+      },
+      "correct_option": "D",
+      "explanation": "At Brewster's angle: reflected light is completely plane polarised (perpendicular to plane of incidence). Refracted light is partially polarised."
+    },
+    {
+      "id": "PHY_2024_029",
+      "question": "The moment of inertia of a thin rod about an axis passing through its mid point and perpendicular to the rod is 2400 g cm². The length of the 400 g rod is nearly:",
+      "options": {
+        "A": "8.5 cm",
+        "B": "17.5 cm",
+        "C": "20.7 cm",
+        "D": "72.0 cm"
+      },
+      "correct_option": "A",
+      "explanation": "I = ML²/12. 2400 = 400×L²/12. L² = 2400×12/400 = 72. L = √72 ≈ 8.5 cm."
+    },
+    {
+      "id": "PHY_2024_030",
+      "question": "A thin flat circular disc of radius 4.5 cm is placed gently over the surface of water. If surface tension of water is 0.07 Nm⁻¹, then the excess force required to take it away from the surface is:",
+      "options": {
+        "A": "19.8 mN",
+        "B": "198 N",
+        "C": "1.98 mN",
+        "D": "99 N"
+      },
+      "correct_option": "A",
+      "explanation": "F = T×2πR = 0.07×2×(22/7)×4.5×10⁻² = 0.07×2×(22/7)×4.5×10⁻² = 19.8×10⁻³ N = 19.8 mN."
+    },
+    {
+      "id": "PHY_2024_031",
+      "question": "A thermodynamic system is taken through the cycle abcda. The work done by the gas along the path bc is:",
+      "options": {
+        "A": "zero",
+        "B": "30 J",
+        "C": "-90 J",
+        "D": "-60 J"
+      },
+      "correct_option": "A",
+      "explanation": "Path bc is at constant volume (isochoric process) from the P-V diagram. For constant volume process, W = ∫PdV = 0."
+    },
+    {
+      "id": "PHY_2024_032",
+      "question": "A wheel of a bullock cart is rolling on a level road. If its linear speed is v in the direction shown, which one of the following options is correct (P and Q are highest and lowest points)?",
+      "options": {
+        "A": "Point P moves slower than point Q",
+        "B": "Point P moves faster than point Q",
+        "C": "Both the points P and Q move with equal speed",
+        "D": "Point P has zero speed"
+      },
+      "correct_option": "B",
+      "explanation": "In pure rolling: v = ωR. Top point P: vP = v+ωR = 2v. Bottom point Q: vQ = v-ωR = 0. So P moves faster than Q."
+    },
+    {
+      "id": "PHY_2024_033",
+      "question": "The mass of a planet is 1/10th that of the earth and its diameter is half that of the earth. The acceleration due to gravity on that planet is:",
+      "options": {
+        "A": "19.6 ms⁻²",
+        "B": "9.8 ms⁻²",
+        "C": "4.9 ms⁻²",
+        "D": "3.92 ms⁻²"
+      },
+      "correct_option": "D",
+      "explanation": "g' = GM'/R'² = G(M/10)/(R/2)² = GM×4/(10R²) = 0.4g = 0.4×9.8 = 3.92 ms⁻²."
+    },
+    {
+      "id": "PHY_2024_034",
+      "question": "In the following circuit, the equivalent capacitance between terminal A and terminal B is: (circuit with multiple 2µF capacitors in Wheatstone bridge arrangement)",
+      "options": {
+        "A": "2µF",
+        "B": "1µF",
+        "C": "0.5µF",
+        "D": "4µF"
+      },
+      "correct_option": "A",
+      "explanation": "The circuit forms a balanced Wheatstone bridge. Middle capacitor carries no charge. The 4 capacitors form two series pairs in parallel. Ceq = 2µF."
+    },
+    {
+      "id": "PHY_2024_035",
+      "question": "A thin spherical shell is charged by some source. The potential difference between the two points C and P (in V) shown in the figure is (q=1µC, R=3cm):",
+      "options": {
+        "A": "3×10⁵",
+        "B": "1×10⁵",
+        "C": "0.5×10⁵",
+        "D": "zero"
+      },
+      "correct_option": "D",
+      "explanation": "A spherical shell is an equipotential surface. All points on or inside the shell are at the same potential. VP = VC, so potential difference = 0."
+    },
+    {
+      "id": "PHY_2024_036",
+      "question": "The velocity (v) – time (t) plot of the motion of a body is shown (trapezoidal shape). The acceleration (a) – time (t) graph that best suits this motion is:",
+      "options": {
+        "A": "a vs t with positive then negative rectangular pulses",
+        "B": "a vs t with only positive rectangular pulse",
+        "C": "a vs t with positive rectangular pulse, zero, then negative pulse",
+        "D": "a vs t with rectangular pulses"
+      },
+      "correct_option": "C",
+      "explanation": "Trapezoidal v-t graph: increasing phase (constant positive a), constant phase (a=0), decreasing phase (constant negative a). This matches graph (3): positive rectangular pulse, then zero, then negative pulse."
+    },
+    {
+      "id": "PHY_2024_037",
+      "question": "If the mass of the bob in a simple pendulum is increased to thrice its original mass and its length is made half its original length, then the new time period of oscillation is x/2 times its original time period. Then the value of x is:",
+      "options": {
+        "A": "√3",
+        "B": "√2",
+        "C": "2√3",
+        "D": "4"
+      },
+      "correct_option": "B",
+      "explanation": "T = 2π√(L/g). T' = 2π√(L/2/g) = T/√2 = (√2/2)T = (x/2)T. So x = √2."
+    },
+    {
+      "id": "PHY_2024_038",
+      "question": "A 10 µF capacitor is connected to a 210 V, 50 Hz source as shown in figure. The peak current in the circuit is nearly (π = 3.14):",
+      "options": {
+        "A": "0.58 A",
+        "B": "0.93 A",
+        "C": "1.20 A",
+        "D": "0.35 A"
+      },
+      "correct_option": "B",
+      "explanation": "Ipeak = Vpeak/Xc = V₀ωC = 210√2 × 2π×50×10×10⁻⁶ = 210√2 × π×10⁻³ = 210√2×3.14×10⁻³ ≈ 0.93A."
+    },
+    {
+      "id": "PHY_2024_039",
+      "question": "The following graph represents the T-V curves of an ideal gas at three pressures P₁, P₂ and P₃ compared with those of Charles's law represented as dotted lines. Then the correct relation is:",
+      "options": {
+        "A": "P₃ > P₂ > P₁",
+        "B": "P₁ > P₃ > P₂",
+        "C": "P₂ > P₁ > P₃",
+        "D": "P₁ > P₂ > P₃"
+      },
+      "correct_option": "D",
+      "explanation": "PV = nRT → T = (P/nR)V. Slope of T vs V = P/nR ∝ P. Steeper slope = higher pressure. From graph P₁ has steepest slope. So P₁ > P₂ > P₃."
+    },
+    {
+      "id": "PHY_2024_040",
+      "question": "An iron bar of length L has magnetic moment M. It is bent at the middle of its length such that the two arms make an angle 60° with each other. The magnetic moment of this new magnet is:",
+      "options": {
+        "A": "M",
+        "B": "M/2",
+        "C": "2M",
+        "D": "M/√3"
+      },
+      "correct_option": "B",
+      "explanation": "Each half has moment M/2 and length L/2. When bent at 60°, the resultant moment = 2×(M/2)×cos(60°/2)... Actually M' = mL/2 = M/2 (resultant of two equal vectors at 60° = 2×(M/2)×cos30°... new result is M/2 per answer key)."
+    },
+    {
+      "id": "PHY_2024_041",
+      "question": "The minimum energy required to launch a satellite of mass m from the surface of earth of mass M and radius R in a circular orbit at an altitude of 2R from the surface of the earth is:",
+      "options": {
+        "A": "5GmM/6R",
+        "B": "2GmM/3R",
+        "C": "GmM/2R",
+        "D": "GmM/3R"
+      },
+      "correct_option": "A",
+      "explanation": "At surface: PE = -GmM/R, KE = 0. At orbit (altitude 2R, radius 3R): total E = -GmM/6R. Initial E = -GmM/R. Min energy = -GmM/6R - (-GmM/R) = GmM/R - GmM/6R = 5GmM/6R."
+    },
+    {
+      "id": "PHY_2024_042",
+      "question": "A parallel plate capacitor is charged by connecting it to a battery through a resistor. If I is the current in the circuit, then in the gap between the plates:",
+      "options": {
+        "A": "there is no current",
+        "B": "displacement current of magnitude equal to I flows in the same direction as I",
+        "C": "displacement current of magnitude equal to I flows in a direction opposite to that of I",
+        "D": "displacement current of magnitude greater than I flows but can be in any direction"
+      },
+      "correct_option": "B",
+      "explanation": "Displacement current Id = ε₀(dΦE/dt) = conduction current I. They flow in the same direction (continuity of current)."
+    },
+    {
+      "id": "PHY_2024_043",
+      "question": "The property which is not of an electromagnetic wave travelling in free space is that:",
+      "options": {
+        "A": "they are transverse in nature",
+        "B": "the energy density in electric field is equal to energy density in magnetic field",
+        "C": "they travel with a speed equal to 1/√(µ₀ε₀)",
+        "D": "they originate from charges moving with uniform speed"
+      },
+      "correct_option": "D",
+      "explanation": "EM waves originate from ACCELERATING charges, not from charges moving with uniform speed."
+    },
+    {
+      "id": "PHY_2024_044",
+      "question": "A metallic bar of Young's modulus 0.5×10¹¹ N m⁻², and coefficient of linear thermal expansion 10⁻⁵ °C⁻¹, length 1 m and area 10⁻³ m² is heated from 0°C to 100°C without expansion or bending. The compressive force developed in it is:",
+      "options": {
+        "A": "5×10³ N",
+        "B": "50×10³ N",
+        "C": "100×10³ N",
+        "D": "2×10³ N"
+      },
+      "correct_option": "B",
+      "explanation": "F = YAαΔθ = 0.5×10¹¹ × 10⁻³ × 10⁻⁵ × 100 = 0.5×10¹¹ × 10⁻⁶ = 50×10³ N = 50 kN."
+    },
+    {
+      "id": "PHY_2024_045",
+      "question": "Choose the correct circuit which can achieve the bridge balance. (Wheatstone bridge with P=10Ω, Q=10Ω, R=15Ω, S needs to be 10Ω for balance with 5Ω in series)",
+      "options": {
+        "A": "Circuit 1",
+        "B": "Circuit 2",
+        "C": "Circuit 3",
+        "D": "Circuit 4"
+      },
+      "correct_option": "A",
+      "explanation": "For balanced bridge: P/Q = R/S. 10/10 = 15/S. S = 15Ω. The circuit showing R_dial = 10Ω (so S = 5+10 = 15Ω) achieves balance."
+    },
+    {
+      "id": "PHY_2024_046",
+      "question": "A sheet is placed on a horizontal surface in front of a strong magnetic pole. A force is needed to: A. hold the sheet there if it is magnetic, B. hold the sheet there if it is non-magnetic, C. move the sheet away from the pole with uniform velocity if it is conducting, D. move the sheet away from the pole with uniform velocity if it is both, non-conducting and non-polar.",
+      "options": {
+        "A": "B and D only",
+        "B": "A and C only",
+        "C": "A, C and D only",
+        "D": "C only"
+      },
+      "correct_option": "B",
+      "explanation": "Force needed to: A (hold magnetic sheet against attraction), C (overcome induced eddy current drag when moving conducting sheet). B and D don't require force."
+    },
+    {
+      "id": "PHY_2024_047",
+      "question": "If the plates of a parallel plate capacitor connected to a battery are moved close to each other, then: A. the charge stored increases, B. the energy stored decreases, C. its capacitance increases, D. the ratio of charge to its potential remains same, E. the product of charge and voltage increases.",
+      "options": {
+        "A": "A, B and E only",
+        "B": "A, C and E only",
+        "C": "B, D and E only",
+        "D": "A, B and C only"
+      },
+      "correct_option": "B",
+      "explanation": "Battery connected (V=constant). C↑ when d↓. Q=CV↑ (A), U=½CV²↑ so B wrong, C↑ (C), Q/V=C↑ so D wrong, QV=CV²↑ (E). Correct: A, C, E (option B)."
+    },
+    {
+      "id": "PHY_2024_048",
+      "question": "Two heaters A and B have power rating of 1 kW and 2 kW, respectively. Those two are first connected in series and then in parallel to a fixed power source. The ratio of power outputs for these two cases is:",
+      "options": {
+        "A": "1:1",
+        "B": "2:9",
+        "C": "1:2",
+        "D": "2:3"
+      },
+      "correct_option": "B",
+      "explanation": "Series: Ps = P₁P₂/(P₁+P₂) = 1×2/3 = 2/3 kW. Parallel: Pp = P₁+P₂ = 3 kW. Ratio = (2/3)/3 = 2/9 = 2:9."
+    },
+    {
+      "id": "PHY_2024_049",
+      "question": "A small telescope has an objective of focal length 140 cm and an eye piece of focal length 5.0 cm. The magnifying power of telescope for viewing a distant object is:",
+      "options": {
+        "A": "34",
+        "B": "28",
+        "C": "17",
+        "D": "32"
+      },
+      "correct_option": "B",
+      "explanation": "Magnifying power = -fo/fe = -140/5 = -28. Magnitude = 28."
+    },
+    {
+      "id": "PHY_2024_050",
+      "question": "A force defined by F = αt² + βt acts on a particle at a given time t. The factor which is dimensionless, if α and β are constants, is:",
+      "options": {
+        "A": "βt/α",
+        "B": "αt/β",
+        "C": "αβt",
+        "D": "αβ/t"
+      },
+      "correct_option": "B",
+      "explanation": "[F] = [αt²] → [α] = MLT⁻⁴. [F] = [βt] → [β] = MLT⁻³. [αt/β] = MLT⁻⁴×T/(MLT⁻³) = M⁰L⁰T⁰ = dimensionless."
+    }
+  ]
+}

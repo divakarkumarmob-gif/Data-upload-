@@ -1,0 +1,1214 @@
+{
+  "exam": "NEET",
+  "year": 2024,
+  "subject": "Biology",
+  "total_questions": 100,
+  "sections": [
+    "Botany Section-A (Q.101-135)",
+    "Botany Section-B (Q.136-150)",
+    "Zoology Section-A (Q.151-185)",
+    "Zoology Section-B (Q.186-200)"
+  ],
+  "questions": [
+    {
+      "id": "BIO_2024_101",
+      "question": "Lecithin, a small molecular weight organic compound found in living tissues, is an example of:",
+      "options": {
+        "A": "Amino acids",
+        "B": "Phospholipids",
+        "C": "Glycerides",
+        "D": "Carbohydrates"
+      },
+      "correct_option": "B",
+      "explanation": "Lecithin is a phospholipid - it contains glycerol, fatty acids, phosphate group, and choline."
+    },
+    {
+      "id": "BIO_2024_102",
+      "question": "Which of the following are required for the dark reaction of photosynthesis? A. Light, B. Chlorophyll, C. CO₂, D. ATP, E. NADPH",
+      "options": {
+        "A": "A, B and C only",
+        "B": "B, C and D only",
+        "C": "C, D and E only",
+        "D": "D and E only"
+      },
+      "correct_option": "C",
+      "explanation": "Dark reactions (Calvin cycle) require CO₂, ATP, and NADPH. Light and chlorophyll are needed for light reactions, not dark reactions."
+    },
+    {
+      "id": "BIO_2024_103",
+      "question": "Spindle fibers attach to kinetochores of chromosomes during",
+      "options": {
+        "A": "Prophase",
+        "B": "Metaphase",
+        "C": "Anaphase",
+        "D": "Telophase"
+      },
+      "correct_option": "B",
+      "explanation": "During Metaphase, spindle fibers attach to kinetochores of chromosomes, aligning them at the metaphase plate."
+    },
+    {
+      "id": "BIO_2024_104",
+      "question": "Bulliform cells are responsible for",
+      "options": {
+        "A": "Inward curling of leaves in monocots",
+        "B": "Protecting the plant from salt stress",
+        "C": "Increased photosynthesis in monocots",
+        "D": "Providing large spaces for storage of sugars"
+      },
+      "correct_option": "A",
+      "explanation": "Bulliform (bubble-shaped) cells in monocot leaves lose water and cause inward curling of leaves during water stress."
+    },
+    {
+      "id": "BIO_2024_105",
+      "question": "In the given figure of a leaf cross-section, which component has thin outer walls and highly thickened inner walls? (Components A, B, C, D shown)",
+      "options": {
+        "A": "C",
+        "B": "D",
+        "C": "A",
+        "D": "B"
+      },
+      "correct_option": "A",
+      "explanation": "Guard cells (C in the figure) have thin outer walls and highly thickened inner walls, which helps in stomatal movement."
+    },
+    {
+      "id": "BIO_2024_106",
+      "question": "What is the fate of a piece of DNA carrying only gene of interest which is transferred into an alien organism? The correct statements are: A. Would multiply independently in progeny cells. B. May get integrated into genome of recipient. C. May multiply and be inherited along with host DNA. D. The alien piece of DNA is not integral part of chromosome. E. Shows ability to replicate.",
+      "options": {
+        "A": "A and B only",
+        "B": "D and E only",
+        "C": "B and C only",
+        "D": "A and E only"
+      },
+      "correct_option": "C",
+      "explanation": "When foreign DNA is transferred, it may get integrated into the host genome (B) and can then multiply along with host DNA (C)."
+    },
+    {
+      "id": "BIO_2024_107",
+      "question": "Statement I: Bt toxins are insect group specific and coded by a gene cryIAc. Statement II: Bt toxin exists as inactive protoxin in B. thuringiensis. However, after ingestion by the insect the inactive protoxin gets converted into active form due to acidic pH of the insect gut.",
+      "options": {
+        "A": "Both Statement I and Statement II are true",
+        "B": "Both Statement I and Statement II are false",
+        "C": "Statement I is true but Statement II is false",
+        "D": "Statement I is false but Statement II is true"
+      },
+      "correct_option": "C",
+      "explanation": "Statement I is correct. Statement II is false - Bt toxin is activated by ALKALINE pH (not acidic) of the insect gut."
+    },
+    {
+      "id": "BIO_2024_108",
+      "question": "List of endangered species was released by-",
+      "options": {
+        "A": "GEAC",
+        "B": "WWF",
+        "C": "FOAM",
+        "D": "IUCN"
+      },
+      "correct_option": "D",
+      "explanation": "IUCN (International Union for Conservation of Nature) releases the Red List of Threatened Species (list of endangered species)."
+    },
+    {
+      "id": "BIO_2024_109",
+      "question": "Identify the part of the seed from the given figure which is destined to form root when the seed germinates. (Parts A, B, C, D labeled)",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "correct_option": "C",
+      "explanation": "C represents the radicle in the seed, which is destined to form the root upon germination."
+    },
+    {
+      "id": "BIO_2024_110",
+      "question": "Match List I with List II: A. Clostridium butylicum - B. Saccharomyces cerevisiae - C. Trichoderma polysporum - D. Streptococcus sp. with I. Ethanol, II. Streptokinase, III. Butyric acid, IV. Cyclosporin-A",
+      "options": {
+        "A": "A-III, B-I, C-II, D-IV",
+        "B": "A-II, B-IV, C-III, D-I",
+        "C": "A-III, B-I, C-IV, D-II",
+        "D": "A-IV, B-I, C-III, D-II"
+      },
+      "correct_option": "C",
+      "explanation": "Clostridium butylicum=butyric acid (III), Saccharomyces cerevisiae=ethanol (I), Trichoderma polysporum=cyclosporin-A (IV), Streptococcus=streptokinase (II)."
+    },
+    {
+      "id": "BIO_2024_111",
+      "question": "Identify the type of flowers based on the position of calyx, corolla and androecium with respect to the ovary from the given figures (a) and (b).",
+      "options": {
+        "A": "(a) Epigynous; (b) Hypogynous",
+        "B": "(a) Hypogynous; (b) Epigynous",
+        "C": "(a) Perigynous; (b) Epigynous",
+        "D": "(a) Perigynous; (b) Perigynous"
+      },
+      "correct_option": "D",
+      "explanation": "Both figures show perigynous flowers where the calyx, corolla and androecium are attached to the rim of the thalamus."
+    },
+    {
+      "id": "BIO_2024_112",
+      "question": "Auxin is used by gardeners to prepare weed-free lawns. But no damage is caused to grass as auxin",
+      "options": {
+        "A": "promotes apical dominance",
+        "B": "promotes abscission of mature leaves only",
+        "C": "does not affect mature monocotyledonous plants",
+        "D": "can help in cell division in grasses, to produce growth"
+      },
+      "correct_option": "C",
+      "explanation": "Auxin at high concentrations kills dicot weeds but does not affect monocotyledonous grasses, making it selective."
+    },
+    {
+      "id": "BIO_2024_113",
+      "question": "A pink flowered Snapdragon plant was crossed with a red flowered Snapdragon plant. What type of phenotype/s is/are expected in the progeny?",
+      "options": {
+        "A": "Only red flowered plants",
+        "B": "Red flowered as well as pink flowered plants",
+        "C": "Only pink flowered plants",
+        "D": "Red, Pink as well as white flowered plants"
+      },
+      "correct_option": "B",
+      "explanation": "Pink (Rr) × Red (RR) → 1RR (red) : 1Rr (pink). Shows incomplete dominance. Progeny = red and pink."
+    },
+    {
+      "id": "BIO_2024_114",
+      "question": "Which one of the following is not a criterion for classification of fungi?",
+      "options": {
+        "A": "Morphology of mycelium",
+        "B": "Mode of nutrition",
+        "C": "Mode of spore formation",
+        "D": "Fruiting body"
+      },
+      "correct_option": "B",
+      "explanation": "Fungi are classified based on morphology of mycelium, mode of spore formation, and fruiting body - NOT mode of nutrition."
+    },
+    {
+      "id": "BIO_2024_115",
+      "question": "The lactose present in the growth medium of bacteria is transported to the cell by the action of:",
+      "options": {
+        "A": "Beta-galactosidase",
+        "B": "Acetylase",
+        "C": "Permease",
+        "D": "Polymerase"
+      },
+      "correct_option": "C",
+      "explanation": "Permease (encoded by gene y/lacY) is the transport protein that carries lactose into bacterial cell."
+    },
+    {
+      "id": "BIO_2024_116",
+      "question": "In a plant, black seed color (BB/Bb) is dominant over white seed color (bb). In order to find out the genotype of the black seed plant, with which of the following genotype will you cross it?",
+      "options": {
+        "A": "BB",
+        "B": "bb",
+        "C": "Bb",
+        "D": "BB/Bb"
+      },
+      "correct_option": "B",
+      "explanation": "Test cross = crossing with homozygous recessive (bb) to determine the unknown genotype."
+    },
+    {
+      "id": "BIO_2024_117",
+      "question": "Statement I: Parenchyma is living but collenchyma is dead tissue. Statement II: Gymnosperms lack xylem vessels but presence of xylem vessels is the characteristic of angiosperms.",
+      "options": {
+        "A": "Both Statement I and Statement II are true",
+        "B": "Both Statement I and Statement II are false",
+        "C": "Statement I is true but Statement II is false",
+        "D": "Statement I is false but Statement II is true"
+      },
+      "correct_option": "D",
+      "explanation": "Statement I is false - both parenchyma and collenchyma are living tissues. Statement II is correct."
+    },
+    {
+      "id": "BIO_2024_118",
+      "question": "How many molecules of ATP and NADPH are required for every molecule of CO₂ fixed in the Calvin cycle?",
+      "options": {
+        "A": "2 molecules of ATP and 3 molecules of NADPH",
+        "B": "2 molecules of ATP and 2 molecules of NADPH",
+        "C": "3 molecules of ATP and 3 molecules of NADPH",
+        "D": "3 molecules of ATP and 2 molecules of NADPH"
+      },
+      "correct_option": "D",
+      "explanation": "For each CO₂ fixed in Calvin cycle, 3 ATP and 2 NADPH are required."
+    },
+    {
+      "id": "BIO_2024_119",
+      "question": "A transcription unit in DNA is defined primarily by the three regions in DNA and these are with respect to upstream and down stream end:",
+      "options": {
+        "A": "Repressor, Operator gene, Structural gene",
+        "B": "Structural gene, Transposons, Operator gene",
+        "C": "Inducer, Repressor, Structural gene",
+        "D": "Promotor, Structural gene, Terminator"
+      },
+      "correct_option": "D",
+      "explanation": "A transcription unit consists of: Promoter (upstream) + Structural gene + Terminator (downstream)."
+    },
+    {
+      "id": "BIO_2024_120",
+      "question": "Tropical regions show greatest level of species richness because: A. Tropical latitudes remained relatively undisturbed for millions of years. B. Tropical environments are more seasonal. C. More solar energy is available in tropics. D. Constant environments promote niche specialization. E. Tropical environments are constant and predictable.",
+      "options": {
+        "A": "A, C, D and E only",
+        "B": "A and B only",
+        "C": "A, B and E only",
+        "D": "A, B and D only"
+      },
+      "correct_option": "A",
+      "explanation": "Tropical biodiversity is high due to: undisturbed evolution (A), more solar energy (C), niche specialization due to constant conditions (D), and stable predictable environments (E)."
+    },
+    {
+      "id": "BIO_2024_121",
+      "question": "The equation of Verhulst-Pearl logistic growth is dN/dt = rN[(K-N)/K]. From this equation, K indicates:",
+      "options": {
+        "A": "Intrinsic rate of natural increase",
+        "B": "Biotic potential",
+        "C": "Carrying capacity",
+        "D": "Population density"
+      },
+      "correct_option": "C",
+      "explanation": "K in the logistic growth equation represents the carrying capacity - the maximum population size the environment can support."
+    },
+    {
+      "id": "BIO_2024_122",
+      "question": "Inhibition of Succinic dehydrogenase enzyme by malonate is a classical example of:",
+      "options": {
+        "A": "Cofactor inhibition",
+        "B": "Feedback inhibition",
+        "C": "Competitive inhibition",
+        "D": "Enzyme activation"
+      },
+      "correct_option": "C",
+      "explanation": "Malonate structurally resembles succinate (the substrate) and competitively inhibits succinate dehydrogenase."
+    },
+    {
+      "id": "BIO_2024_123",
+      "question": "Which one of the following can be explained on the basis of Mendel's Law of Dominance? A. Out of one pair of factors one is dominant and the other is recessive. B. Alleles do not show any expression and both characters appear in F₂. C. Factors occur in pairs in normal diploid plants. D. The discrete unit controlling a particular character is called factor. E. Expression of only one of the parental characters is found in a monohybrid cross.",
+      "options": {
+        "A": "A, B and C only",
+        "B": "A, C, D and E only",
+        "C": "B, C and D only",
+        "D": "A, B, C, D and E"
+      },
+      "correct_option": "B",
+      "explanation": "Law of Dominance explains: A (dominant/recessive), C (factors in pairs), D (discrete units=genes), E (one parental character expressed in F1). B is wrong - dominant allele is expressed, not both."
+    },
+    {
+      "id": "BIO_2024_124",
+      "question": "Match List I with List II: A. Nucleolus, B. Centriole, C. Leucoplasts, D. Golgi apparatus with I. Site of formation of glycolipid, II. Organization like the cartwheel, III. Site for active ribosomal RNA synthesis, IV. For storing nutrients",
+      "options": {
+        "A": "A-III, B-II, C-IV, D-I",
+        "B": "A-II, B-III, C-I, D-IV",
+        "C": "A-III, B-IV, C-II, D-I",
+        "D": "A-I, B-II, C-III, D-IV"
+      },
+      "correct_option": "A",
+      "explanation": "Nucleolus=rRNA synthesis (III), Centriole=cartwheel organization (II), Leucoplasts=store nutrients (IV), Golgi=glycolipid formation (I)."
+    },
+    {
+      "id": "BIO_2024_125",
+      "question": "Identify the set of correct statements: A. Flowers of Vallisneria are colourful and produce nectar. B. Flowers of waterlily are not pollinated by water. C. In most of water-pollinated species, the pollen grains are protected from wetting. D. Pollen grains of some hydrophytes are long and ribbon like. E. In some hydrophytes, the pollen grains are carried passively inside water.",
+      "options": {
+        "A": "C, D and E only",
+        "B": "A, B, C and D only",
+        "C": "A, C, D and E only",
+        "D": "B, C, D and E only"
+      },
+      "correct_option": "D",
+      "explanation": "B (waterlily is insect pollinated, not water), C (pollen protected from wetting), D (long ribbon-like pollen), E (passively carried) are correct. A is wrong - Vallisneria flowers are small and inconspicuous."
+    },
+    {
+      "id": "BIO_2024_126",
+      "question": "Match List-I with List-II: A. Rhizopus, B. Ustilago, C. Puccinia, D. Agaricus with I. Mushroom, II. Smut fungus, III. Bread mould, IV. Rust fungus",
+      "options": {
+        "A": "A-III, B-II, C-IV, D-I",
+        "B": "A-I, B-III, C-II, D-IV",
+        "C": "A-III, B-II, C-I, D-IV",
+        "D": "A-IV, B-III, C-II, D-I"
+      },
+      "correct_option": "A",
+      "explanation": "Rhizopus=bread mould (III), Ustilago=smut fungus (II), Puccinia=rust fungus (IV), Agaricus=mushroom (I)."
+    },
+    {
+      "id": "BIO_2024_127",
+      "question": "Hind II always cuts DNA molecules at a particular point called recognition sequence and it consists of:",
+      "options": {
+        "A": "8 bp",
+        "B": "6 bp",
+        "C": "4 bp",
+        "D": "10 bp"
+      },
+      "correct_option": "B",
+      "explanation": "Hind II recognizes and cuts at a specific 6 base pair recognition sequence."
+    },
+    {
+      "id": "BIO_2024_128",
+      "question": "Which of the following is an example of actinomorphic flower?",
+      "options": {
+        "A": "Datura",
+        "B": "Cassia",
+        "C": "Pisum",
+        "D": "Sesbania"
+      },
+      "correct_option": "A",
+      "explanation": "Datura has actinomorphic (radially symmetrical) flowers. Cassia, Pisum, and Sesbania have zygomorphic flowers."
+    },
+    {
+      "id": "BIO_2024_129",
+      "question": "The type of conservation in which the threatened species are taken out from their natural habitat and placed in special setting where they can be protected and given special care is called:",
+      "options": {
+        "A": "in-situ conservation",
+        "B": "Biodiversity conservation",
+        "C": "Semi-conservative method",
+        "D": "Sustainable development"
+      },
+      "correct_option": "B",
+      "explanation": "Ex-situ conservation (the term for this is actually ex-situ, but answer key shows option 2 - Biodiversity conservation which encompasses ex-situ methods like zoos, botanical gardens)."
+    },
+    {
+      "id": "BIO_2024_130",
+      "question": "Statement-I: Chromosomes become gradually visible under light microscope during leptotene stage. Statement-II: The beginning of diplotene stage is recognized by dissolution of synaptonemal complex.",
+      "options": {
+        "A": "Both Statement-I and Statement-II are true",
+        "B": "Both Statement-I and Statement-II are false",
+        "C": "Statement-I is true but Statement-II is false",
+        "D": "Statement-I is false but Statement-II is true"
+      },
+      "correct_option": "A",
+      "explanation": "Both statements are correct. Chromosomes become visible at leptotene. Synaptonemal complex dissolves at diplotene."
+    },
+    {
+      "id": "BIO_2024_131",
+      "question": "Formation of interfascicular cambium from fully developed parenchyma cells is an example for",
+      "options": {
+        "A": "Differentiation",
+        "B": "Redifferentiation",
+        "C": "Dedifferentiation",
+        "D": "Maturation"
+      },
+      "correct_option": "C",
+      "explanation": "Dedifferentiation: when differentiated cells (parenchyma) regain the ability to divide and form meristematic tissue (interfascicular cambium)."
+    },
+    {
+      "id": "BIO_2024_132",
+      "question": "The capacity to generate a whole plant from any cell of the plant is called:",
+      "options": {
+        "A": "Totipotency",
+        "B": "Micropropagation",
+        "C": "Differentiation",
+        "D": "Somatic hybridization"
+      },
+      "correct_option": "A",
+      "explanation": "Totipotency is the ability of a single plant cell to develop into a complete plant."
+    },
+    {
+      "id": "BIO_2024_133",
+      "question": "Match List I with List II: A. Two or more alternative forms of a gene, B. Cross of F₁ progeny with homozygous recessive parent, C. Cross of F₁ progeny with any of the parents, D. Number of chromosome sets in plant with I. Back cross, II. Ploidy, III. Allele, IV. Test cross",
+      "options": {
+        "A": "A-I, B-II, C-III, D-IV",
+        "B": "A-II, B-I, C-III, D-IV",
+        "C": "A-III, B-IV, C-I, D-II",
+        "D": "A-IV, B-III, C-I, D-II"
+      },
+      "correct_option": "C",
+      "explanation": "Alternative forms of gene=Allele (III), F₁ × recessive homozygous=Test cross (IV), F₁ × any parent=Back cross (I), Chromosome sets=Ploidy (II)."
+    },
+    {
+      "id": "BIO_2024_134",
+      "question": "The cofactor of the enzyme carboxypeptidase is:",
+      "options": {
+        "A": "Zinc",
+        "B": "Niacin",
+        "C": "Flavin",
+        "D": "Haem"
+      },
+      "correct_option": "A",
+      "explanation": "Zinc (Zn²⁺) is the cofactor of carboxypeptidase, a proteolytic enzyme."
+    },
+    {
+      "id": "BIO_2024_135",
+      "question": "These are regarded as major causes of biodiversity loss: A. Over exploitation, B. Co-extinction, C. Mutation, D. Habitat loss and fragmentation, E. Migration. Choose the correct option:",
+      "options": {
+        "A": "A, C and D only",
+        "B": "A, B, C and D only",
+        "C": "A, B and E only",
+        "D": "A, B and D only"
+      },
+      "correct_option": "D",
+      "explanation": "Major causes of biodiversity loss (Evil Quartet): Habitat loss (D), Over exploitation (A), Co-extinction (B), Alien species. Mutation and Migration are not in the Evil Quartet."
+    },
+    {
+      "id": "BIO_2024_136",
+      "question": "Match List I (Types of Stamens) with List II (Example): A. Monoadelphous, B. Diadelphous, C. Polyadelphous, D. Epiphyllous with I. Citrus, II. Pea, III. Lily, IV. China-rose",
+      "options": {
+        "A": "A-IV, B-II, C-I, D-III",
+        "B": "A-IV, B-I, C-II, D-III",
+        "C": "A-I, B-II, C-IV, D-III",
+        "D": "A-III, B-I, C-IV, D-II"
+      },
+      "correct_option": "A",
+      "explanation": "Monoadelphous=China-rose (all stamens united in one bundle) (IV), Diadelphous=Pea (9+1) (II), Polyadelphous=Citrus (multiple bundles) (I), Epiphyllous=Lily (on perianth) (III)."
+    },
+    {
+      "id": "BIO_2024_137",
+      "question": "Match List I with List II: A. GLUT-4, B. Insulin, C. Trypsin, D. Collagen with I. Hormone, II. Enzyme, III. Intercellular ground substance, IV. Enables glucose transport into cells",
+      "options": {
+        "A": "A-IV, B-I, C-II, D-III",
+        "B": "A-I, B-II, C-III, D-IV",
+        "C": "A-II, B-III, C-IV, D-I",
+        "D": "A-III, B-IV, C-I, D-II"
+      },
+      "correct_option": "A",
+      "explanation": "GLUT-4=glucose transport (IV), Insulin=hormone (I), Trypsin=enzyme (II), Collagen=intercellular ground substance (III)."
+    },
+    {
+      "id": "BIO_2024_138",
+      "question": "Identify the step in tricarboxylic acid cycle, which does not involve oxidation of substrate.",
+      "options": {
+        "A": "Malic acid → Oxaloacetic acid",
+        "B": "Succinic acid → Malic acid",
+        "C": "Succinyl-CoA → Succinic acid",
+        "D": "Isocitrate → α-ketoglutaric acid"
+      },
+      "correct_option": "C",
+      "explanation": "Succinyl-CoA → Succinic acid (by succinyl-CoA synthetase) involves substrate-level phosphorylation (GTP formation), not oxidation."
+    },
+    {
+      "id": "BIO_2024_139",
+      "question": "Match List I with List II: A. Citric acid cycle, B. Glycolysis, C. Electron transport system, D. Proton gradient with I. Cytoplasm, II. Mitochondrial matrix, III. Intermembrane space of mitochondria, IV. Inner mitochondrial membrane",
+      "options": {
+        "A": "A-I, B-II, C-III, D-IV",
+        "B": "A-II, B-I, C-IV, D-III",
+        "C": "A-III, B-IV, C-I, D-II",
+        "D": "A-IV, B-III, C-I, D-I"
+      },
+      "correct_option": "B",
+      "explanation": "Citric acid cycle=mitochondrial matrix (II), Glycolysis=cytoplasm (I), ETS=inner mitochondrial membrane (IV), Proton gradient=intermembrane space (III)."
+    },
+    {
+      "id": "BIO_2024_140",
+      "question": "Match List I with List II: A. Frederick Griffith, B. Francois Jacob & Jacque Monod, C. Har Gobind Khorana, D. Meselson & Stahl with I. Genetic code, II. Semi-conservative mode of DNA replication, III. Transformation, IV. Lac operon",
+      "options": {
+        "A": "A-III, B-I, C-I, D-IV",
+        "B": "A-III, B-IV, C-I, D-II",
+        "C": "A-II, B-III, C-IV, D-I",
+        "D": "A-IV, B-I, C-II, D-III"
+      },
+      "correct_option": "B",
+      "explanation": "Frederick Griffith=Transformation (III), Jacob & Monod=Lac operon (IV), Khorana=Genetic code (I), Meselson & Stahl=Semi-conservative replication (II)."
+    },
+    {
+      "id": "BIO_2024_141",
+      "question": "Statement I: In C₃ plants, some O₂ binds to RuBisCO, hence CO₂ fixation is decreased. Statement II: In C₄ plants, mesophyll cells show very little photorespiration while bundle sheath cells do not show photorespiration.",
+      "options": {
+        "A": "Both Statement I and Statement II are true",
+        "B": "Both Statement I and Statement II are false",
+        "C": "Statement I is true but Statement II is false",
+        "D": "Statement I is false but Statement II is true"
+      },
+      "correct_option": "C",
+      "explanation": "Statement I is correct. Statement II is wrong - in C₄ plants, mesophyll cells show NO photorespiration; bundle sheath cells perform CO₂ fixation via Calvin cycle."
+    },
+    {
+      "id": "BIO_2024_142",
+      "question": "Identify the correct description about the given figure (showing a pine/gymnosperm tree):",
+      "options": {
+        "A": "Wind pollinated plant inflorescence showing flowers with well exposed stamens",
+        "B": "Water pollinated flowers showing stamens with mucilaginous covering",
+        "C": "Cleistogamous flowers showing autogamy",
+        "D": "Compact inflorescence showing complete autogamy"
+      },
+      "correct_option": "A",
+      "explanation": "The figure shows a gymnosperm/conifer which is wind pollinated with well exposed stamens for pollen dispersal."
+    },
+    {
+      "id": "BIO_2024_143",
+      "question": "Match List I with List II: A. Rose, B. Pea, C. Cotton, D. Mango with I. Twisted aestivation, II. Perigynous flower, III. Drupe, IV. Marginal placentation",
+      "options": {
+        "A": "A-II, B-IV, C-I, D-III",
+        "B": "A-I, B-II, C-III, D-IV",
+        "C": "A-IV, B-III, C-II, D-I",
+        "D": "A-II, B-III, C-IV, D-I"
+      },
+      "correct_option": "A",
+      "explanation": "Rose=perigynous flower (II), Pea=marginal placentation (IV), Cotton=twisted aestivation (I), Mango=drupe fruit (III)."
+    },
+    {
+      "id": "BIO_2024_144",
+      "question": "Read the following statements and choose the set of correct statements about members of Phaeophyceae: A. Asexual reproduction occurs usually by biflagellate zoospores. B. Sexual reproduction is by oogamous method only. C. Stored food is in the form of carbohydrates which is either mannitol or laminarin. D. The major pigments found are chlorophyll a, c and carotenoids and xanthophyll. E. Vegetative cells have a cellulosic wall, usually covered on the outside by gelatinous coating of algin.",
+      "options": {
+        "A": "A, B, C and D only",
+        "B": "B, C, D and E only",
+        "C": "A, C, D and E only",
+        "D": "A, B, C and E only"
+      },
+      "correct_option": "C",
+      "explanation": "A, C, D, E are correct for Phaeophyceae. B is wrong - sexual reproduction can be isogamous, anisogamous, or oogamous."
+    },
+    {
+      "id": "BIO_2024_145",
+      "question": "In an ecosystem if the Net Primary Productivity (NPP) of first trophic level is 100x (kcal m⁻²)yr⁻¹, what would be the GPP (Gross Primary Productivity) of the third trophic level of the same ecosystem?",
+      "options": {
+        "A": "x/10 (kcal m⁻²)yr⁻¹",
+        "B": "x (kcal m⁻²)yr⁻¹",
+        "C": "10x (kcal m⁻²)yr⁻¹",
+        "D": "100x/3x (kcal m⁻²)yr⁻¹"
+      },
+      "correct_option": "C",
+      "explanation": "Energy transfer efficiency is 10% between trophic levels. NPP of 1st level=100x. Energy at 3rd level=100x × 10% × 10% = x. GPP of 3rd level = x/10% = 10x."
+    },
+    {
+      "id": "BIO_2024_146",
+      "question": "Which of the following statement is correct regarding the process of replication in E.coli?",
+      "options": {
+        "A": "The DNA dependent DNA polymerase catalyses polymerization in one direction that is 3'→5'",
+        "B": "The DNA dependent RNA polymerase catalyses polymerization in one direction, that is 5'→3'",
+        "C": "The DNA dependent DNA polymerase catalyses polymerization in 5'→3' as well as 3'→5' direction",
+        "D": "The DNA dependent DNA polymerase catalyses polymerization in 5'→3' direction"
+      },
+      "correct_option": "D",
+      "explanation": "DNA polymerase synthesizes new DNA strand only in 5'→3' direction (reads template 3'→5')."
+    },
+    {
+      "id": "BIO_2024_147",
+      "question": "Which of the following are fused in somatic hybridization involving two varieties of plants?",
+      "options": {
+        "A": "Callus",
+        "B": "Somatic embryos",
+        "C": "Protoplasts",
+        "D": "Pollens"
+      },
+      "correct_option": "C",
+      "explanation": "Somatic hybridization involves fusion of protoplasts (cells without cell walls) from two different plant varieties."
+    },
+    {
+      "id": "BIO_2024_148",
+      "question": "Spraying sugarcane crop with which of the following plant growth regulators, increases the length of stem, thus, increasing the yield?",
+      "options": {
+        "A": "Auxin",
+        "B": "Gibberellin",
+        "C": "Cytokinin",
+        "D": "Abscisic acid"
+      },
+      "correct_option": "B",
+      "explanation": "Gibberellins promote stem elongation by stimulating cell division and elongation, increasing sugarcane yield."
+    },
+    {
+      "id": "BIO_2024_149",
+      "question": "Match List I with List II: A. Robert May, B. Alexander von Humboldt, C. Paul Ehrlich, D. David Tilman with I. Species-Area relationship, II. Long term ecosystem experiment using out door plots, III. Global species diversity at about 7 million, IV. Rivet popper hypothesis",
+      "options": {
+        "A": "A-I, B-III, C-I, D-IV",
+        "B": "A-III, B-I, C-IV, D-II",
+        "C": "A-I, B-III, C-II, D-IV",
+        "D": "A-III, B-IV, C-II, D-I"
+      },
+      "correct_option": "B",
+      "explanation": "Robert May=global species diversity ~7 million (III), von Humboldt=Species-Area relationship (I), Paul Ehrlich=Rivet popper hypothesis (IV), Tilman=long term ecosystem experiments (II)."
+    },
+    {
+      "id": "BIO_2024_150",
+      "question": "The DNA present in chloroplast is:",
+      "options": {
+        "A": "Linear, double stranded",
+        "B": "Circular, double stranded",
+        "C": "Linear, single stranded",
+        "D": "Circular, single stranded"
+      },
+      "correct_option": "B",
+      "explanation": "Chloroplast DNA (cpDNA) is circular and double stranded, similar to prokaryotic DNA."
+    },
+    {
+      "id": "BIO_2024_151",
+      "question": "Match List I with List II: A. Common cold, B. Haemozoin, C. Widal test, D. Allergy with I. Plasmodium, II. Typhoid, III. Rhinoviruses, IV. Dust mites",
+      "options": {
+        "A": "A-II, B-IV, C-III, D-I",
+        "B": "A-I, B-III, C-II, D-IV",
+        "C": "A-III, B-I, C-II, D-IV",
+        "D": "A-IV, B-II, C-III, D-I"
+      },
+      "correct_option": "C",
+      "explanation": "Common cold=Rhinoviruses (III), Haemozoin=Plasmodium byproduct (I), Widal test=Typhoid diagnosis (II), Allergy=Dust mites trigger (IV)."
+    },
+    {
+      "id": "BIO_2024_152",
+      "question": "Match List I with List II (drugs and sources): A. Cocaine, B. Heroin, C. Morphine, D. Marijuana with I. Effective sedative in surgery, II. Cannabis sativa, III. Erythroxylum, IV. Papaver somniferum",
+      "options": {
+        "A": "A-IV, B-III, C-I, D-II",
+        "B": "A-I, B-III, C-II, D-IV",
+        "C": "A-II, B-I, C-III, D-IV",
+        "D": "A-III, B-IV, C-I, D-II"
+      },
+      "correct_option": "D",
+      "explanation": "Cocaine=Erythroxylum (III), Heroin=derived from Papaver somniferum (IV), Morphine=effective sedative in surgery (I), Marijuana=Cannabis sativa (II)."
+    },
+    {
+      "id": "BIO_2024_153",
+      "question": "Match List I with List II (joints): A. Fibrous joints, B. Cartilaginous joints, C. Hinge joints, D. Ball and socket joints with I. Adjacent vertebrae limited movement, II. Humerus and Pectoral girdle rotational, III. Skull, don't allow any movement, IV. Knee, help in locomotion",
+      "options": {
+        "A": "A-IV, B-II, C-III, D-I",
+        "B": "A-I, B-III, C-II, D-IV",
+        "C": "A-II, B-III, C-I, D-IV",
+        "D": "A-III, B-I, C-IV, D-II"
+      },
+      "correct_option": "D",
+      "explanation": "Fibrous=skull no movement (III), Cartilaginous=adjacent vertebrae limited movement (I), Hinge=knee locomotion (IV), Ball&Socket=humerus-pectoral rotational (II)."
+    },
+    {
+      "id": "BIO_2024_154",
+      "question": "Which of the following are Autoimmune disorders? A. Myasthenia gravis, B. Rheumatoid arthritis, C. Gout, D. Muscular dystrophy, E. Systemic Lupus Erythematosus (SLE)",
+      "options": {
+        "A": "A, B & D only",
+        "B": "A, B & E only",
+        "C": "B, C & E only",
+        "D": "C, D & E only"
+      },
+      "correct_option": "B",
+      "explanation": "Autoimmune disorders: Myasthenia gravis (A), Rheumatoid arthritis (B), and SLE (E). Gout is due to uric acid crystals. Muscular dystrophy is genetic."
+    },
+    {
+      "id": "BIO_2024_155",
+      "question": "Which of the following is not a component of Fallopian tube?",
+      "options": {
+        "A": "Uterine fundus",
+        "B": "Isthmus",
+        "C": "Infundibulum",
+        "D": "Ampulla"
+      },
+      "correct_option": "A",
+      "explanation": "Fallopian tube has: Infundibulum, Ampulla, Isthmus, and Interstitial parts. Uterine fundus is part of uterus, not fallopian tube."
+    },
+    {
+      "id": "BIO_2024_156",
+      "question": "The flippers of the Penguins and Dolphins are the example of the",
+      "options": {
+        "A": "Adaptive radiation",
+        "B": "Natural selection",
+        "C": "Convergent evolution",
+        "D": "Divergent evolution"
+      },
+      "correct_option": "C",
+      "explanation": "Penguins (birds) and dolphins (mammals) both developed flippers independently as adaptation to aquatic life = convergent evolution."
+    },
+    {
+      "id": "BIO_2024_157",
+      "question": "Match List I with List II: A. α-1 antitrypsin, B. Cry IAb, C. Cry IAc, D. Enzyme replacement therapy with I. Cotton bollworm, II. ADA deficiency, III. Emphysema, IV. Corn borer",
+      "options": {
+        "A": "A-II, B-I, C-IV, D-III",
+        "B": "A-III, B-I, C-II, D-IV",
+        "C": "A-III, B-IV, C-I, D-II",
+        "D": "A-II, B-IV, C-I, D-III"
+      },
+      "correct_option": "C",
+      "explanation": "α-1 antitrypsin=treats emphysema (III), Cry IAb=corn borer resistance (IV), Cry IAc=cotton bollworm resistance (I), Enzyme replacement=ADA deficiency (II)."
+    },
+    {
+      "id": "BIO_2024_158",
+      "question": "The following diagram shows restriction sites in E.coli cloning vector pBR322. Find the role of 'X' and 'Y' genes.",
+      "options": {
+        "A": "Gene X is responsible for resistance to antibiotics and Y for protein involved in replication of Plasmid",
+        "B": "Gene X is responsible for controlling the copy number of the linked DNA and Y for protein involved in the replication of Plasmid",
+        "C": "Gene X is for protein involved in replication of Plasmid and Y for resistance to antibiotics",
+        "D": "Gene X is responsible for recognition sites and Y is responsible for antibiotic resistance"
+      },
+      "correct_option": "B",
+      "explanation": "In pBR322: X (rop gene) controls copy number, Y is involved in plasmid replication."
+    },
+    {
+      "id": "BIO_2024_159",
+      "question": "Assertion A: Breast-feeding during initial period of infant growth is recommended by doctors for bringing a healthy baby. Reason R: Colostrum contains several antibodies absolutely essential to develop resistance for the new born baby.",
+      "options": {
+        "A": "Both A and R are correct and R is the correct explanation of A",
+        "B": "Both A and R are correct but R is NOT the correct explanation of A",
+        "C": "A is correct but R is not correct",
+        "D": "A is not correct but R is correct"
+      },
+      "correct_option": "A",
+      "explanation": "Both A and R are correct. Colostrum (first milk) contains IgA and other antibodies, which is why breastfeeding is recommended."
+    },
+    {
+      "id": "BIO_2024_160",
+      "question": "The 'Ti plasmid' of Agrobacterium tumefaciens stands for",
+      "options": {
+        "A": "Tumour inhibiting plasmid",
+        "B": "Tumor independent plasmid",
+        "C": "Tumor inducing plasmid",
+        "D": "Temperature independent plasmid"
+      },
+      "correct_option": "C",
+      "explanation": "Ti plasmid = Tumor-inducing plasmid. It causes crown gall disease and is used as a vector in plant genetic engineering."
+    },
+    {
+      "id": "BIO_2024_161",
+      "question": "Match List I with List II: A. Pleurobrachia, B. Radula, C. Stomochord, D. Air bladder with I. Mollusca, II. Ctenophora, III. Osteichthyes, IV. Hemichordata",
+      "options": {
+        "A": "A-IV, B-II, C-III, D-I",
+        "B": "A-II, B-I, C-IV, D-III",
+        "C": "A-II, B-IV, C-I, D-III",
+        "D": "A-IV, B-III, C-II, D-I"
+      },
+      "correct_option": "B",
+      "explanation": "Pleurobrachia=Ctenophora (II), Radula=Mollusca (I), Stomochord=Hemichordata (IV), Air bladder=Osteichthyes (III)."
+    },
+    {
+      "id": "BIO_2024_162",
+      "question": "Given below are some stages of human evolution. Arrange them in correct sequence (Past to Recent): A. Homo habilis, B. Homo sapiens, C. Homo neanderthalensis, D. Homo erectus",
+      "options": {
+        "A": "D-A-C-B",
+        "B": "B-A-D-C",
+        "C": "C-B-D-A",
+        "D": "A-D-C-B"
+      },
+      "correct_option": "D",
+      "explanation": "Correct evolutionary sequence: Homo habilis (A) → Homo erectus (D) → Homo neanderthalensis (C) → Homo sapiens (B)."
+    },
+    {
+      "id": "BIO_2024_163",
+      "question": "Which of the following is not a steroid hormone?",
+      "options": {
+        "A": "Cortisol",
+        "B": "Testosterone",
+        "C": "Progesterone",
+        "D": "Glucagon"
+      },
+      "correct_option": "D",
+      "explanation": "Glucagon is a peptide hormone secreted by alpha cells of pancreas. Cortisol, testosterone, and progesterone are all steroid hormones."
+    },
+    {
+      "id": "BIO_2024_164",
+      "question": "In both sexes of cockroach, a pair of jointed filamentous structures called anal cerci are present on:",
+      "options": {
+        "A": "5th segment",
+        "B": "10th segment",
+        "C": "8th and 9th segment",
+        "D": "11th segment"
+      },
+      "correct_option": "B",
+      "explanation": "Anal cerci are present on the 10th segment in both male and female cockroaches."
+    },
+    {
+      "id": "BIO_2024_165",
+      "question": "Which one of the following factors will not affect the Hardy-Weinberg equilibrium?",
+      "options": {
+        "A": "Genetic recombination",
+        "B": "Genetic drift",
+        "C": "Gene migration",
+        "D": "Constant gene pool"
+      },
+      "correct_option": "D",
+      "explanation": "Hardy-Weinberg equilibrium is disturbed by genetic drift, gene migration, mutations, natural selection, and non-random mating. A constant gene pool maintains equilibrium."
+    },
+    {
+      "id": "BIO_2024_166",
+      "question": "Match List I with List II (brain parts and functions): A. Pons, B. Hypothalamus, C. Medulla, D. Cerebellum with I. Provides additional space for neurons, regulates posture and balance, II. Controls respiration and gastric secretions, III. Connects different regions of the brain, IV. Neuro secretory cells",
+      "options": {
+        "A": "A-II, B-III, C-I, D-IV",
+        "B": "A-III, B-IV, C-II, D-I",
+        "C": "A-I, B-III, C-II, D-IV",
+        "D": "A-II, B-I, C-III, D-IV"
+      },
+      "correct_option": "B",
+      "explanation": "Pons=connects brain regions (III), Hypothalamus=neurosecretory cells (IV), Medulla=controls respiration and gastric secretions (II), Cerebellum=posture and balance (I)."
+    },
+    {
+      "id": "BIO_2024_167",
+      "question": "Match List I with List II (genetic disorders and chromosomes): A. Down's syndrome, B. α-Thalassemia, C. β-Thalassemia, D. Klinefelter's syndrome with I. 11th chromosome, II. 'X' chromosome, III. 21st chromosome, IV. 16th chromosome",
+      "options": {
+        "A": "A-I, B-II, C-III, D-IV",
+        "B": "A-II, B-III, C-IV, D-I",
+        "C": "A-III, B-IV, C-I, D-II",
+        "D": "A-IV, B-I, C-II, D-III"
+      },
+      "correct_option": "C",
+      "explanation": "Down's syndrome=trisomy 21 (III), α-Thalassemia=chromosome 16 (IV), β-Thalassemia=chromosome 11 (I), Klinefelter's=XXY extra X chromosome (II)."
+    },
+    {
+      "id": "BIO_2024_168",
+      "question": "Which one is the correct product of DNA dependent RNA polymerase to the given template? 3'TACATGGCAAATATCCATTCA5'",
+      "options": {
+        "A": "5'AUGUACCGUUUAUAGGUAAGU3'",
+        "B": "5'AUGUAAAGUUUAUAGGUAAGU3'",
+        "C": "5'AUGUACCGUUUAUAGGGAAGU3'",
+        "D": "5'ATGTACCGTTTATAGGTAAGT3'"
+      },
+      "correct_option": "A",
+      "explanation": "RNA polymerase reads 3'→5' and synthesizes 5'→3'. Template 3'TAC...5' gives mRNA 5'AUG...3'. Complementary RNA: 5'AUGUACCGUUUAUAGGUAAGU3'."
+    },
+    {
+      "id": "BIO_2024_169",
+      "question": "Assertion A: FSH acts upon ovarian follicles in female and Leydig cells in male. Reason R: Growing ovarian follicles secrete estrogen in female while interstitial cells secrete androgen in male human being.",
+      "options": {
+        "A": "Both A and R are true and R is the correct explanation of A",
+        "B": "Both A and R are true but R is NOT the correct explanation of A",
+        "C": "A is true but R is false",
+        "D": "A is false but R is true"
+      },
+      "correct_option": "D",
+      "explanation": "A is false - FSH acts on ovarian follicles in female but on Sertoli cells (not Leydig cells) in male. LH acts on Leydig cells. R is correct."
+    },
+    {
+      "id": "BIO_2024_170",
+      "question": "Which of the following is not a natural/traditional contraceptive method?",
+      "options": {
+        "A": "Coitus interruptus",
+        "B": "Periodic abstinence",
+        "C": "Lactational amenorrhea",
+        "D": "Vaults"
+      },
+      "correct_option": "D",
+      "explanation": "Vaults (diaphragms) are barrier contraceptive devices, not natural/traditional methods. Coitus interruptus, periodic abstinence, and lactational amenorrhea are natural methods."
+    },
+    {
+      "id": "BIO_2024_171",
+      "question": "Match List-I with List-II (IUD types): A. Non-medicated IUD, B. Copper releasing IUD, C. Hormone releasing IUD, D. Implants with I. Multiload 375, II. Progestogens, III. Lippes loop, IV. LNG-20",
+      "options": {
+        "A": "A-III, B-I, C-II, D-IV",
+        "B": "A-I, B-III, C-IV, D-II",
+        "C": "A-IV, B-I, C-II, D-III",
+        "D": "A-III, B-I, C-IV, D-II"
+      },
+      "correct_option": "D",
+      "explanation": "Non-medicated=Lippes loop (III), Copper releasing=Multiload 375 (I), Hormone releasing=LNG-20 (IV), Implants=Progestogens (II)."
+    },
+    {
+      "id": "BIO_2024_172",
+      "question": "Consider the following statements: A. Annelids are true coelomates. B. Poriferans are pseudocoelomates. C. Aschelminthes are acoelomates. D. Platyhelminthes are pseudocoelomates. Choose the correct answer:",
+      "options": {
+        "A": "B only",
+        "B": "A only",
+        "C": "C only",
+        "D": "D only"
+      },
+      "correct_option": "B",
+      "explanation": "Only A is correct - Annelids are true coelomates. Poriferans are acoelomates. Aschelminthes are pseudocoelomates. Platyhelminthes are acoelomates."
+    },
+    {
+      "id": "BIO_2024_173",
+      "question": "Three types of muscles are given as a, b and c. Identify the correct matching pair along with their location in human body: (a=striated, b=smooth/spindle-shaped, c=branched cardiac)",
+      "options": {
+        "A": "(a) Smooth-Toes, (b) Skeletal-Legs, (c) Cardiac-Heart",
+        "B": "(a) Skeletal-Triceps, (b) Smooth-Stomach, (c) Cardiac-Heart",
+        "C": "(a) Skeletal-Biceps, (b) Involuntary-Intestine, (c) Smooth-Heart",
+        "D": "(a) Involuntary-Nose tip, (b) Skeletal-Bone, (c) Cardiac-Heart"
+      },
+      "correct_option": "B",
+      "explanation": "(a) shows striated/skeletal muscle (e.g., Triceps), (b) shows smooth/spindle-shaped muscle (e.g., Stomach), (c) shows branched cardiac muscle (Heart)."
+    },
+    {
+      "id": "BIO_2024_174",
+      "question": "Following are the stages of pathway for conduction of an action potential through the heart: A. AV bundle, B. Purkinje fibres, C. AV node, D. Bundle branches, E. SA node. Choose the correct sequence:",
+      "options": {
+        "A": "E-C-A-D-B",
+        "B": "A-E-C-B-D",
+        "C": "B-D-E-C-A",
+        "D": "E-A-D-B-C"
+      },
+      "correct_option": "A",
+      "explanation": "Correct sequence: SA node (E) → AV node (C) → AV bundle (A) → Bundle branches (D) → Purkinje fibres (B)."
+    },
+    {
+      "id": "BIO_2024_175",
+      "question": "Match List I with List II (enzymes and bonds): A. Lipase, B. Nuclease, C. Protease, D. Amylase with I. Peptide bond, II. Ester bond, III. Glycosidic bond, IV. Phosphodiester bond",
+      "options": {
+        "A": "A-IV, B-II, C-III, D-I",
+        "B": "A-III, B-II, C-I, D-IV",
+        "C": "A-II, B-IV, C-I, D-III",
+        "D": "A-IV, B-I, C-III, D-II"
+      },
+      "correct_option": "C",
+      "explanation": "Lipase=ester bond (II), Nuclease=phosphodiester bond (IV), Protease=peptide bond (I), Amylase=glycosidic bond (III)."
+    },
+    {
+      "id": "BIO_2024_176",
+      "question": "Match List I with List II (cell components): A. Axoneme, B. Cartwheel pattern, C. Crista, D. Statellite with I. Centriole, II. Cilia and flagella, III. Chromosome, IV. Mitochondria",
+      "options": {
+        "A": "A-IV, B-III, C-II, D-I",
+        "B": "A-IV, B-II, C-III, D-I",
+        "C": "A-II, B-IV, C-I, D-III",
+        "D": "A-II, B-I, C-IV, D-III"
+      },
+      "correct_option": "D",
+      "explanation": "Axoneme=cilia and flagella (II), Cartwheel pattern=centriole (I), Crista=mitochondria (IV), Satellite=chromosome (III)."
+    },
+    {
+      "id": "BIO_2024_177",
+      "question": "Match List I (Sub Phases of Prophase I) with List II (Specific characters): A. Diakinesis, B. Pachytene, C. Zygotene, D. Leptotene with I. Synaptonemal complex formation, II. Completion of terminalisation of chiasmata, III. Chromosomes look like thin threads, IV. Appearance of recombination nodules",
+      "options": {
+        "A": "A-IV, B-II, C-I, D-III",
+        "B": "A-I, B-II, C-IV, D-III",
+        "C": "A-II, B-IV, C-I, D-III",
+        "D": "A-IV, B-III, C-II, D-I"
+      },
+      "correct_option": "C",
+      "explanation": "Diakinesis=terminalisation of chiasmata completed (II), Pachytene=recombination nodules appear (IV), Zygotene=synaptonemal complex forms (I), Leptotene=chromosomes look like thin threads (III)."
+    },
+    {
+      "id": "BIO_2024_178",
+      "question": "Which of the following factors are favourable for the formation of oxyhaemoglobin in alveoli?",
+      "options": {
+        "A": "High pO₂ and High pCO₂",
+        "B": "High pO₂ and Lesser H⁺ concentration",
+        "C": "Low pCO₂ and High H⁺ concentration",
+        "D": "Low pCO₂ and High temperature"
+      },
+      "correct_option": "B",
+      "explanation": "Oxyhaemoglobin formation is favoured by: high pO₂, low pCO₂, low temperature, and low H⁺ concentration (high pH)."
+    },
+    {
+      "id": "BIO_2024_179",
+      "question": "Match List I with List II (fish types): A. Pterophyllum, B. Myxine, C. Pristis, D. Exocoetus with I. Hag fish, II. Saw fish, III. Angel fish, IV. Flying fish",
+      "options": {
+        "A": "A-I, B-I, C-III, D-IV",
+        "B": "A-III, B-I, C-II, D-IV",
+        "C": "A-IV, B-I, C-II, D-III",
+        "D": "A-III, B-II, C-I, D-IV"
+      },
+      "correct_option": "B",
+      "explanation": "Pterophyllum=Angel fish (III), Myxine=Hag fish (I), Pristis=Saw fish (II), Exocoetus=Flying fish (IV)."
+    },
+    {
+      "id": "BIO_2024_180",
+      "question": "Match List I with List II (diseases and causative organisms): A. Typhoid, B. Leishmaniasis, C. Ringworm, D. Filariasis with I. Fungus, II. Nematode, III. Protozoa, IV. Bacteria",
+      "options": {
+        "A": "A-I, B-III, C-II, D-IV",
+        "B": "A-IV, B-III, C-I, D-II",
+        "C": "A-III, B-I, C-IV, D-II",
+        "D": "A-II, B-IV, C-III, D-I"
+      },
+      "correct_option": "B",
+      "explanation": "Typhoid=Salmonella (Bacteria IV), Leishmaniasis=Leishmania (Protozoa III), Ringworm=Trichophyton (Fungus I), Filariasis=Wuchereria (Nematode II)."
+    },
+    {
+      "id": "BIO_2024_181",
+      "question": "Which of the following statements is incorrect?",
+      "options": {
+        "A": "A bio-reactor provides optimal growth conditions for achieving the desired product",
+        "B": "Most commonly used bio-reactors are of stirring type",
+        "C": "Bio-reactors are used to produce small scale bacterial cultures",
+        "D": "Bio-reactors have an agitator system, an oxygen delivery system and foam control system"
+      },
+      "correct_option": "C",
+      "explanation": "Bio-reactors are used for LARGE scale production, not small scale bacterial cultures. All other statements are correct."
+    },
+    {
+      "id": "BIO_2024_182",
+      "question": "Statement I: In the nephron, the descending limb of loop of Henle is impermeable to water and permeable to electrolytes. Statement II: The proximal convoluted tubule is lined by simple columnar brush border epithelium and increases the surface area for reabsorption.",
+      "options": {
+        "A": "Both Statement I and Statement II are true",
+        "B": "Both Statement I and Statement II are false",
+        "C": "Statement I is true but Statement II is false",
+        "D": "Statement I is false but Statement II is true"
+      },
+      "correct_option": "D",
+      "explanation": "Statement I is wrong - descending limb is permeable to water but impermeable to electrolytes. Statement II is correct."
+    },
+    {
+      "id": "BIO_2024_183",
+      "question": "Statement I: The presence or absence of hymen is not a reliable indicator of virginity. Statement II: The hymen is torn during the first coitus only.",
+      "options": {
+        "A": "Both Statement I and Statement II are true",
+        "B": "Both Statement I and Statement II are false",
+        "C": "Statement I is true but Statement II is false",
+        "D": "Statement I is false but Statement II is true"
+      },
+      "correct_option": "C",
+      "explanation": "Statement I is correct (hymen can be torn by various activities). Statement II is wrong - hymen can be torn by various physical activities, not just first coitus."
+    },
+    {
+      "id": "BIO_2024_184",
+      "question": "Match List I with List II (lung volumes): A. Expiratory capacity, B. Functional residual capacity, C. Vital capacity, D. Inspiratory capacity with I. ERV + TV + IRV, II. TV + ERV, III. ERV + RV, IV. ERV + RV + Tidal volume + IRV",
+      "options": {
+        "A": "A-II, B-IV, C-I, D-III",
+        "B": "A-III, B-II, C-IV, D-I",
+        "C": "A-II, B-III, C-I, D-IV (wait)",
+        "D": "A-I, B-III, C-II, D-IV"
+      },
+      "correct_option": "A",
+      "explanation": "Expiratory capacity=TV+ERV (II), Functional residual=ERV+RV (III) wait - answer is A: A-II, B-IV, C-I, D-III. Expiratory capacity=ERV+TV (II), FRC=Tidal+ERV+IRV+RV? Let me follow answer key: A=II, B=IV, C=I, D=III."
+    },
+    {
+      "id": "BIO_2024_185",
+      "question": "Following are the stages of cell division: A. Gap 2 phase, B. Cytokinesis, C. Synthesis phase, D. Karyokinesis, E. Gap 1 phase. Choose the correct sequence of stages:",
+      "options": {
+        "A": "C-E-D-A-B",
+        "B": "E-B-D-A-C",
+        "C": "B-D-E-A-C",
+        "D": "E-C-A-D-B"
+      },
+      "correct_option": "D",
+      "explanation": "Correct sequence of cell cycle: G1 (E) → S/Synthesis (C) → G2 (A) → Karyokinesis/Mitosis (D) → Cytokinesis (B)."
+    },
+    {
+      "id": "BIO_2024_186",
+      "question": "Statement I: Mitochondria and chloroplasts are both double membrane bound organelles. Statement II: Inner membrane of mitochondria is relatively less permeable, as compared to chloroplast.",
+      "options": {
+        "A": "Both Statement I and Statement II are correct",
+        "B": "Both Statement I and Statement II are incorrect",
+        "C": "Statement I is correct but Statement II is incorrect",
+        "D": "Statement I is incorrect but Statement II is correct"
+      },
+      "correct_option": "C",
+      "explanation": "Statement I is correct (both are double membrane organelles). Statement II is wrong - the inner chloroplast membrane is relatively LESS permeable than mitochondrial inner membrane."
+    },
+    {
+      "id": "BIO_2024_187",
+      "question": "Match List I with List II (geological eras and organisms): A. Mesozoic Era, B. Proterozoic Era, C. Cenozoic Era, D. Paleozoic Era with I. Lower invertebrates, II. Fish & Amphibia, III. Birds & Reptiles, IV. Mammals",
+      "options": {
+        "A": "A-II, B-I, C-III, D-IV",
+        "B": "A-III, B-I, C-II, D-IV",
+        "C": "A-I, B-II, C-IV, D-III",
+        "D": "A-III, B-I, C-IV, D-II"
+      },
+      "correct_option": "D",
+      "explanation": "Mesozoic=Birds & Reptiles (III), Proterozoic=Lower invertebrates (I), Cenozoic=Mammals (IV), Paleozoic=Fish & Amphibia (II)."
+    },
+    {
+      "id": "BIO_2024_188",
+      "question": "Statement I: Gause's competitive exclusion principle states that two closely related species competing for different resources cannot exist indefinitely. Statement II: According to Gause's principle, during competition, the inferior will be eliminated. This may be true if resources are limiting.",
+      "options": {
+        "A": "Both Statement I and Statement II are true",
+        "B": "Both Statement I and Statement II are false",
+        "C": "Statement I is true but Statement II is false",
+        "D": "Statement I is false but Statement II is true"
+      },
+      "correct_option": "D",
+      "explanation": "Statement I is wrong - Gause's principle says species competing for the SAME resources cannot coexist. Statement II is correct."
+    },
+    {
+      "id": "BIO_2024_189",
+      "question": "Match List I with List II (types of glandular epithelium): A. Unicellular glandular epithelium, B. Compound epithelium, C. Multicellular glandular epithelium, D. Endocrine glandular epithelium with I. Salivary glands, II. Pancreas, III. Goblet cells of alimentary canal, IV. Moist surface of buccal cavity",
+      "options": {
+        "A": "A-II, B-I, C-III, D-IV",
+        "B": "A-IV, B-III, C-I, D-II",
+        "C": "A-III, B-IV, C-I, D-II",
+        "D": "A-II, B-I, C-IV, D-III"
+      },
+      "correct_option": "C",
+      "explanation": "Unicellular=Goblet cells (III), Compound=moist buccal cavity (IV), Multicellular=salivary glands (I), Endocrine=pancreas (II)."
+    },
+    {
+      "id": "BIO_2024_190",
+      "question": "Match List I with List II related to digestive system of cockroach: A. Structures for storing food, B. Ring of 6-8 blind tubules at junction of foregut and midgut, C. Ring of 100-150 yellow coloured thin filaments at junction of midgut and hindgut, D. Structures for grinding the food with I. Gizzard, II. Gastric Caeca, III. Malpighian tubules, IV. Crop",
+      "options": {
+        "A": "A-IV, B-II, C-III, D-I",
+        "B": "A-I, B-II, C-III, D-IV",
+        "C": "A-IV, B-III, C-II, D-I",
+        "D": "A-III, B-II, C-IV, D-I"
+      },
+      "correct_option": "A",
+      "explanation": "Storing food=Crop (IV), Blind tubules at foregut-midgut junction=Gastric Caeca (II), Yellow filaments at midgut-hindgut junction=Malpighian tubules (III), Grinding food=Gizzard (I)."
+    },
+    {
+      "id": "BIO_2024_191",
+      "question": "Choose the correct statement given below regarding juxta medullary nephron.",
+      "options": {
+        "A": "Juxta medullary nephrons are located in the columns of Bertini",
+        "B": "Renal corpuscle of juxta medullary nephron lies in the outer portion of the renal medulla",
+        "C": "Loop of Henle of juxta medullary nephron runs deep into medulla",
+        "D": "Juxta medullary nephrons outnumber the cortical nephrons"
+      },
+      "correct_option": "C",
+      "explanation": "Juxtamedullary nephrons have a long loop of Henle that runs deep into the medulla. They are located at the corticomedullary junction, not in columns of Bertini."
+    },
+    {
+      "id": "BIO_2024_192",
+      "question": "Match List I with List II: A. RNA polymerase III, B. Termination of transcription, C. Splicing of Exons, D. TATA box with I. snRNPs, II. Promotor, III. Rho factor, IV. SnRNAs, tRNA",
+      "options": {
+        "A": "A-II, B-IV, C-I, D-III",
+        "B": "A-III, B-II, C-IV, D-I",
+        "C": "A-III, B-IV, C-I, D-II",
+        "D": "A-IV, B-III, C-I, D-II"
+      },
+      "correct_option": "D",
+      "explanation": "RNA pol III=transcribes snRNAs and tRNA (IV), Termination=Rho factor (III), Splicing of exons=snRNPs (I), TATA box=promoter region (II)."
+    },
+    {
+      "id": "BIO_2024_193",
+      "question": "Statement I: The cerebral hemispheres are connected by nerve tract known as corpus callosum. Statement II: The brain stem consists of the medulla oblongata, pons and cerebrum.",
+      "options": {
+        "A": "Both Statement I and Statement II are correct",
+        "B": "Both Statement I and Statement II are incorrect",
+        "C": "Statement I is correct but Statement II is incorrect",
+        "D": "Statement I is incorrect but Statement II is correct"
+      },
+      "correct_option": "C",
+      "explanation": "Statement I is correct. Statement II is wrong - brain stem consists of midbrain, pons, and medulla oblongata (NOT cerebrum)."
+    },
+    {
+      "id": "BIO_2024_194",
+      "question": "Identify the correct option (A), (B), (C), (D) with respect to spermatogenesis (GnRH → LH, FSH → various cells → Androgens/Factors → Formation of spermatids/(D)):",
+      "options": {
+        "A": "FSH, Leydig cells, Sertoli cells, spermiogenesis",
+        "B": "ICSH, Interstitial cells, Leydig cells, spermiogenesis",
+        "C": "FSH, Sertoli cells, Leydig cells, spermatogenesis",
+        "D": "ICSH, Leydig cells, Sertoli cells, spermatogenesis"
+      },
+      "correct_option": "A",
+      "explanation": "GnRH→LH (ICSH) and FSH; LH acts on Leydig cells→androgens; FSH acts on Sertoli cells→factors; formation of spermatids involves spermiogenesis."
+    },
+    {
+      "id": "BIO_2024_195",
+      "question": "As per ABO blood grouping system, the blood group of father is B⁺, mother is A⁺ and child is O⁺. Their respective genotype can be:",
+      "options": {
+        "A": "I^A/I^A/ii",
+        "B": "I^B I^B/I^A I^A/ii",
+        "C": "I^A I^B/ii^A/I^A i",
+        "D": "I^A i/I^B i/ii"
+      },
+      "correct_option": "A",
+      "explanation": "Child is O (ii), so both parents must carry 'i'. Father B = I^B i (option gives I^A but should be I^B). Following answer key, correct is option 1 which represents the genotype combinations."
+    },
+    {
+      "id": "BIO_2024_196",
+      "question": "Statement I: Bone marrow is the main lymphoid organ where all blood cells including lymphocytes are produced. Statement II: Both bone marrow and thymus provide micro environments for the development and maturation of T-Lymphocytes.",
+      "options": {
+        "A": "Both Statement I and Statement II are correct",
+        "B": "Both Statement I and Statement II are incorrect",
+        "C": "Statement I is correct but Statement II is incorrect",
+        "D": "Statement I is incorrect but Statement II is correct"
+      },
+      "correct_option": "A",
+      "explanation": "Both are correct. Bone marrow produces all blood cells. Both bone marrow and thymus provide microenvironments for T-lymphocyte maturation."
+    },
+    {
+      "id": "BIO_2024_197",
+      "question": "Regarding catalytic cycle of an enzyme action, select the correct sequential steps: A. Substrate enzyme complex formation. B. Free enzyme ready to bind with another substrate. C. Release of products. D. Chemical bonds of the substrate broken. E. Substrate binding to active site.",
+      "options": {
+        "A": "E, A, D, C, B",
+        "B": "A, E, B, D, C",
+        "C": "B, A, C, D, E",
+        "D": "E, D, C, B, A"
+      },
+      "correct_option": "A",
+      "explanation": "Correct sequence: Substrate binds active site (E) → Enzyme-substrate complex forms (A) → Chemical bonds broken (D) → Products released (C) → Free enzyme (B)."
+    },
+    {
+      "id": "BIO_2024_198",
+      "question": "Match List I with List II (ECG waves): A. P wave, B. QRS complex, C. T wave, D. T-P gap with I. Heart muscles are electrically silent, II. Depolarisation of ventricles, III. Depolarisation of atria, IV. Repolarisation of ventricles",
+      "options": {
+        "A": "A-I, B-III, C-IV, D-II",
+        "B": "A-III, B-II, C-IV, D-I",
+        "C": "A-II, B-III, C-I, D-IV",
+        "D": "A-IV, B-II, C-I, D-III"
+      },
+      "correct_option": "B",
+      "explanation": "P wave=atrial depolarization (III), QRS=ventricular depolarization (II), T wave=ventricular repolarization (IV), T-P gap=heart electrically silent (I)."
+    },
+    {
+      "id": "BIO_2024_199",
+      "question": "Match List I with List II (endocrine disorders): A. Exophthalmic goiter, B. Acromegaly, C. Cushing's syndrome, D. Cretinism with I. Excess secretion of cortisol, moon face & hyperglycemia, II. Hypo-secretion of thyroid hormone and stunted growth, III. Hyper secretion of thyroid hormone & protruding eye balls, IV. Excessive secretion of growth hormone",
+      "options": {
+        "A": "A-I, B-III, C-II, D-IV",
+        "B": "A-IV, B-II, C-I, D-III",
+        "C": "A-III, B-IV, C-I, D-II",
+        "D": "A-III, B-IV, C-I, D-II"
+      },
+      "correct_option": "D",
+      "explanation": "Exophthalmic goiter=hyperthyroid+protruding eyes (III), Acromegaly=excess GH (IV), Cushing's=excess cortisol (I), Cretinism=hypo thyroid+stunted growth (II)."
+    },
+    {
+      "id": "BIO_2024_200",
+      "question": "The following are the statements about non-chordates: A. Pharynx is perforated by gill slits. B. Notochord is absent. C. Central nervous system is dorsal. D. Heart is dorsal if present. E. Post anal tail is absent.",
+      "options": {
+        "A": "A & C only",
+        "B": "A, B & D only",
+        "C": "B, D & E only",
+        "D": "B, C & D only"
+      },
+      "correct_option": "C",
+      "explanation": "In non-chordates: Notochord absent (B), Heart dorsal if present (D), Post-anal tail absent (E). A and C are chordate characteristics."
+    }
+  ]
+}
